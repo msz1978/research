@@ -1,49 +1,18 @@
-# research — external market-research feed for the trading bot
+# research — market-research feed for the trading bot
 
-This repo is a **data bridge**, not code. It carries curated market research
-from a ChatGPT scheduled task ("TradingResearcher") into the
-self-improving-trading-bot paper-trading bot.
+Data bridge between ChatGPT and my paper-trading bot — bidirectional.
 
-## Why it exists
+- **Who writes:** a ChatGPT scheduled task ("TradingResearcher", daily
+  ~15:00 CET) commits `research.json` + `archive/<date>.json` via the
+  GitHub plugin; data via StockLens, Financial Datasets, Alpha Vantage
+  & friends
+- **Who reads:** the bot fetches the raw file at session start (23:00),
+  injects it into the strategy planner, archives every snapshot, and a
+  15:30 daily job commits a copy to my Forgejo
+- **Feedback loop:** after each session the bot writes
+  `feedback/<date>.json` — which watchlist symbols its planner actually
+  used vs ignored. The GPT reads it before writing the next research
+- Public on purpose — the bot reads `raw.githubusercontent.com` no-auth
 
-ChatGPT Go can't talk to the bot directly, and the bot can't call ChatGPT.
-GitHub is the neutral middle layer: the GPT **commits** `research.json` here,
-the bot **fetches** it over `raw.githubusercontent.com` (no auth — repo is
-public). Durable, versioned, zero extra services.
-
-## Structure
-
-research.json            # latest research (what the bot consumes)
-archive/YYYY-MM-DD.json  # per-day snapshots (research history)
-
-## Pipeline
-
-ChatGPT scheduled task (daily ~15:00 CET, GitHub plugin)
-    → commits research.json + archive/<date>.json to main
-    → bot's improvement session (23:00) GETs the raw URL
-    → saved to workspace/research.json (+ workspace/research_history/)
-    → injected into the planner prompt as market context
-
-Bot-side config (self-improving-trading-bot/.env):
-
-RESEARCH_URL=https://raw.githubusercontent.com/msz1978/research/main/research.json
-
-## Schema
-
-{
-  "generated_at": "YYYY-MM-DD",
-  "watchlist": [{"symbol": "...", "thesis": "one sentence"}],
-  "sector_notes": "2-4 sentences on sector momentum/breakdowns",
-  "earnings_flags": [{"symbol": "...", "date": "YYYY-MM-DD", "note": "..."}],
-  "universe_suggestions": ["SYM1", "SYM2"],
-  "avoid": [{"symbol": "...", "reason": "..."}]
-}
-
-## Rules
-
-- The bot ignores research older than **7 days** (`generated_at`)
-- Every run overwrites `research.json` and adds `archive/<date>.json`
-- Full setup + paste-ready prompt: [docs/TRADING_RESEARCHER_GPT.md](cci:7://file:///home/marcin/self-improving-trading-bot/docs/TRADING_RESEARCHER_GPT.md:0:0-0:0) in the
-  bot repo
-- Manual fallback if the scheduled task can't write: trigger "update
-  research" in a regular ChatGPT chat with the GitHub plugin enabled
+Setup details + the GPT prompt live in `docs/TRADING_RESEARCHER_GPT.md` in
+the bot repo.
