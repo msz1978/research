@@ -1,4 +1,48 @@
 {
-  "test": "hello",
-  "generated_at": "2026-10-26"
+  "generated_at": "2026-10-26",
+  "watchlist": [
+    {"symbol": "PANW", "thesis": "Cybersecurity remains a strong software momentum pocket with relative strength and elevated trading activity."},
+    {"symbol": "NET", "thesis": "Cloud infrastructure momentum remains strong and NET is showing sustained price and volume strength."},
+    {"symbol": "ACN", "thesis": "Accenture is a large-cap momentum leader with a strong October advance and improving software-sector backdrop."},
+    {"symbol": "PTC", "thesis": "PTC is among October's strongest large-cap gainers and retains a clean software/industrial-tech momentum setup."},
+    {"symbol": "FICO", "thesis": "FICO has strong recent relative performance and remains a liquid large-cap momentum candidate."},
+    {"symbol": "VEEV", "thesis": "Veeva is one of the strongest S&P 500 relative-strength names and offers a liquid healthcare-software trend."},
+    {"symbol": "MRNA", "thesis": "Moderna ranks at the top of current S&P 500 relative-strength screens and offers strong trend acceleration."},
+    {"symbol": "NVDA", "thesis": "AI infrastructure remains a dominant market theme, making Nvidia a core liquid momentum name despite elevated event risk."},
+    {"symbol": "AVGO", "thesis": "Broadcom remains a liquid AI infrastructure leader with strong secular demand and high momentum sensitivity."},
+    {"symbol": "AMD", "thesis": "AMD offers liquid semiconductor exposure to the AI spending cycle and is suitable for breakout/reclaim setups."},
+    {"symbol": "MU", "thesis": "Memory and AI infrastructure demand keep Micron relevant as a high-liquidity semiconductor momentum candidate."},
+    {"symbol": "AMAT", "thesis": "Applied Materials provides liquid semiconductor-equipment exposure to continued AI and fab investment."},
+    {"symbol": "KLAC", "thesis": "KLA combines liquid semiconductor-equipment exposure with a relatively resilient quality/trend profile."},
+    {"symbol": "LRCX", "thesis": "Lam Research is a liquid semiconductor-equipment leader suitable for trend-following setups when chips regain leadership."},
+    {"symbol": "CRWD", "thesis": "CrowdStrike remains a major cybersecurity momentum name within a sector showing strong relative performance."},
+    {"symbol": "FTNT", "thesis": "Fortinet benefits from the same strong cybersecurity momentum backdrop and offers high liquidity."},
+    {"symbol": "PLTR", "thesis": "Palantir remains a high-liquidity AI/software momentum vehicle with strong trend-following appeal."},
+    {"symbol": "META", "thesis": "Meta provides liquid mega-cap AI exposure and remains suitable for momentum continuation setups."},
+    {"symbol": "AMZN", "thesis": "Amazon combines mega-cap liquidity with cloud/AI exposure, although the near-term earnings event increases gap risk."},
+    {"symbol": "MSFT", "thesis": "Microsoft is a core liquid AI/cloud leader, but the imminent earnings event makes entry timing critical."},
+    {"symbol": "GOOGL", "thesis": "Alphabet offers liquid AI/cloud exposure and strong large-cap trend potential, with immediate earnings gap risk."},
+    {"symbol": "GEV", "thesis": "GE Vernova provides liquid exposure to the power and grid investment theme supporting AI infrastructure."},
+    {"symbol": "CAT", "thesis": "Caterpillar is a liquid industrial momentum candidate with infrastructure/capex exposure, but earnings create near-term gap risk."},
+    {"symbol": "JPM", "thesis": "JPMorgan is a highly liquid financial leader suitable for relative-strength and sector-rotation setups."},
+    {"symbol": "GS", "thesis": "Goldman Sachs offers liquid financial-sector momentum exposure and benefits when risk appetite rotates toward cyclicals."}
+  ],
+  "sector_notes": "The market backdrop is mixed: the S&P 500 and Nasdaq ended the prior week lower while energy has been the strongest October sector and basic materials the weakest. Software has recovered strongly from its earlier 2026 selloff, with cybersecurity particularly strong, while AI-related semiconductor names remain sensitive to concerns about debt-funded data-center spending. Oil has recently been elevated by supply disruptions, but crude fell on October 26, easing some immediate inflation pressure; the week is dominated by mega-cap earnings and an expected Federal Reserve decision.",
+  "earnings_flags": [
+    {"symbol": "BA", "date": "2026-10-27", "note": "Scheduled before the open; high gap risk for a momentum strategy."},
+    {"symbol": "V", "date": "2026-10-27", "note": "Scheduled after the close; avoid opening a fresh position immediately before the report."},
+    {"symbol": "MSFT", "date": "2026-10-28", "note": "Mega-cap AI/cloud earnings after the close; substantial gap risk."},
+    {"symbol": "GOOGL", "date": "2026-10-28", "note": "Alphabet earnings after the close; substantial AI/cloud and valuation gap risk."},
+    {"symbol": "AMZN", "date": "2026-10-29", "note": "Amazon earnings after the close; high mega-cap gap risk."},
+    {"symbol": "CAT", "date": "2026-10-29", "note": "Caterpillar earnings before the open; industrial momentum setup exposed to a large gap."},
+    {"symbol": "INTC", "date": "2026-10-29", "note": "Intel earnings after the close; semiconductor volatility and gap risk are elevated."}
+  ],
+  "universe_suggestions": [
+    "AAPL", "TSLA", "NFLX", "ORCL", "CRM", "NOW", "ADBE", "PANW", "CRWD", "FTNT", "SNOW", "DDOG", "UBER", "ABNB", "SHOP", "COIN", "HOOD", "JPM", "GS", "BAC", "C", "WMT", "COST", "LLY", "UNH", "GE", "GEV", "ETN", "PWR", "DE", "RTX", "LMT", "XOM", "CVX", "COP", "SLB", "FCX", "LIN", "DHI", "URI"
+  ],
+  "avoid": [
+    {"symbol": "SOXX", "reason": "Semiconductor leadership has been volatile and recent sector rotation has made broad chip exposure less clean than software/cybersecurity leaders."},
+    {"symbol": "INTC", "reason": "High event volatility with earnings scheduled for October 29 and a less clean trend profile than leading semiconductor names."},
+    {"symbol": "COIN", "reason": "Crypto-linked volatility is unusually high and earnings are scheduled for October 29, creating asymmetric gap risk for a short swing horizon."}
+  ]
 }
