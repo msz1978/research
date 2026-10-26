@@ -9,5 +9,5 @@ Data bridge between ChatGPT and my paper-trading bot, nothing more.
 - Repo is public on purpose — the bot reads `raw.githubusercontent.com`
   with no auth
 
-Setup details + the GPT prompt live in `docs/TRADING_RESEARCHER_GPT.md` in
+Setup details + the GPT prompt live in [docs/TRADING_RESEARCHER_GPT.md](cci:7://file:///home/marcin/self-improving-trading-bot/docs/TRADING_RESEARCHER_GPT.md:0:0-0:0) in
 the bot repo.
