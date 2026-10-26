@@ -1,213 +1,53 @@
 {
   "generated_at": "2026-10-26",
   "watchlist": [
-    {
-      "symbol": "CRWD",
-      "thesis": "CrowdStrike is above its 50-day and 200-day averages with a high StockLens technical score, but its latest 8% session gain argues for waiting for a controlled pullback rather than chasing."
-    },
-    {
-      "symbol": "PLTR",
-      "thesis": "Palantir remains above its 50-day and 200-day averages with very high dollar volume and a strong StockLens technical ranking, though volatility favors disciplined entries."
-    },
-    {
-      "symbol": "TXN",
-      "thesis": "Texas Instruments is above rising 50-day and 200-day averages and ranks highly on StockLens technical strength, offering a liquid semiconductor name while broader chips are weak."
-    },
-    {
-      "symbol": "PANW",
-      "thesis": "Palo Alto Networks is above both major moving averages and rallied more than 7% in the latest session, supporting a cybersecurity continuation watch after consolidation."
-    },
-    {
-      "symbol": "AAPL",
-      "thesis": "Apple remains above its 50-day and 200-day averages with deep liquidity, but the upcoming mega-cap earnings week increases index and event volatility."
-    },
-    {
-      "symbol": "CRM",
-      "thesis": "Salesforce is above both major moving averages and has a positive StockLens technical reading, making orderly pullbacks preferable to chasing the software rebound."
-    },
-    {
-      "symbol": "MSFT",
-      "thesis": "Microsoft trades above its 50-day and 200-day averages and remains a highly liquid cloud leader, but its October 28 earnings require an explicit event-risk decision."
-    },
-    {
-      "symbol": "FTNT",
-      "thesis": "Fortinet is above rising 50-day and 200-day averages and cybersecurity is relatively resilient, but its confirmed October 28 results make a post-earnings setup cleaner."
-    },
-    {
-      "symbol": "NOW",
-      "thesis": "ServiceNow is above both major moving averages and retains strong cloud-software trend structure, though the reported October 28 earnings date should be verified before holding through results."
-    },
-    {
-      "symbol": "NET",
-      "thesis": "Cloudflare rose more than 7% in the latest session and remains above its 50-day and 200-day averages, showing renewed momentum with elevated chase risk."
-    },
-    {
-      "symbol": "DDOG",
-      "thesis": "Datadog gained more than 4% in the latest session while holding above both major averages, keeping cloud observability on the relative-strength list."
-    },
-    {
-      "symbol": "VEEV",
-      "thesis": "Veeva is well above its 50-day and 200-day averages and offers liquid healthcare-software exposure with a well-defined intermediate uptrend."
-    },
-    {
-      "symbol": "COP",
-      "thesis": "ConocoPhillips is above both major averages and rose more than 3% in the latest session, aligning with strong energy-sector momentum while retaining oil-price sensitivity."
-    },
-    {
-      "symbol": "EOG",
-      "thesis": "EOG Resources is above its 50-day and 200-day averages and ranks highly on StockLens technical strength, making it a liquid exploration-and-production trend candidate."
-    },
-    {
-      "symbol": "PBR",
-      "thesis": "Petrobras is above both major moving averages with strong technical momentum and high trading volume, though commodity and Brazil-specific risks can widen gaps."
-    },
-    {
-      "symbol": "KMI",
-      "thesis": "Kinder Morgan has reclaimed and slightly exceeds its 50-day and 200-day averages with strong volume, offering a less direct commodity exposure within the energy leaders."
-    },
-    {
-      "symbol": "OXY",
-      "thesis": "Occidental is above both major moving averages with rising volume and a strong StockLens technical reading, but remains sensitive to oil and geopolitical headlines."
-    },
-    {
-      "symbol": "LNG",
-      "thesis": "Cheniere Energy is above its 50-day and 200-day averages with improving price momentum, while its expected October 29 earnings date creates near-term gap risk."
-    },
-    {
-      "symbol": "APA",
-      "thesis": "APA is above both major averages and rose about 5% in the latest session, providing high-beta energy momentum that requires tight headline-risk controls."
-    },
-    {
-      "symbol": "CDW",
-      "thesis": "CDW remains above its 50-day and 200-day averages with improving relative performance, making it a liquid IT-services candidate if the trend consolidates cleanly."
-    }
+    {"symbol":"PLTR","thesis":"Palantir remains one of the strongest liquid software setups, with StockLens scoring it 71 and its technical domain bullish despite a bearish macro backdrop."},
+    {"symbol":"CRWD","thesis":"CrowdStrike has a strongly bullish StockLens technical score of 87 and remains a relative-strength leader, but its risk and macro scores argue for buying controlled pullbacks rather than chasing."},
+    {"symbol":"PANW","thesis":"Palo Alto Networks retains bullish technical structure and is a liquid cybersecurity leader, although weak fundamental, risk and macro scores make entries more selective."},
+    {"symbol":"FTNT","thesis":"Fortinet remains a liquid cybersecurity momentum candidate with its October 28 event as the main near-term risk, favoring a post-earnings setup."},
+    {"symbol":"MSFT","thesis":"Microsoft remains a core liquid cloud and AI leader, but its confirmed October 28 earnings release makes any pre-event swing inherently gap-sensitive."},
+    {"symbol":"AAPL","thesis":"Apple offers deep liquidity and a durable mega-cap trend, while its confirmed November 2 earnings date makes event-aware position sizing essential."},
+    {"symbol":"CRM","thesis":"Salesforce remains a liquid software candidate for orderly pullbacks as investors rotate selectively within technology rather than abandoning the sector wholesale."},
+    {"symbol":"NOW","thesis":"ServiceNow remains a high-liquidity cloud-software trend candidate, but the broader AI/software volatility favors confirmation after consolidation."},
+    {"symbol":"NET","thesis":"Cloudflare remains a high-beta software momentum name with strong liquidity, best approached after volatility contracts rather than after a sharp upside burst."},
+    {"symbol":"DDOG","thesis":"Datadog remains a liquid cloud-observability momentum candidate as software leadership broadens selectively beyond the largest AI names."},
+    {"symbol":"VEEV","thesis":"Veeva provides liquid healthcare-software exposure with a cleaner diversification angle while technology leadership remains uneven."},
+    {"symbol":"TXN","thesis":"Texas Instruments is a liquid semiconductor leader worth monitoring for relative-strength confirmation while the broader chip group remains volatile."},
+    {"symbol":"XOM","thesis":"Exxon has a strongly bullish StockLens technical score of 86 and is trading at a reported 52-week high, making it a leading liquid energy momentum candidate ahead of October 30 results."},
+    {"symbol":"CVX","thesis":"Chevron remains a high-liquidity energy trend candidate as XLE trades near a new 52-week high, but oil-price volatility and earnings timing require event-aware entries."},
+    {"symbol":"COP","thesis":"ConocoPhillips offers liquid upstream energy exposure aligned with current sector leadership, with crude-price reversals the principal momentum risk."},
+    {"symbol":"EOG","thesis":"EOG is a liquid exploration-and-production candidate benefiting from the energy leadership regime while retaining sensitivity to oil-price headlines."},
+    {"symbol":"OXY","thesis":"Occidental offers higher-beta liquid energy exposure suited to momentum swings, but the trade should be sized for commodity and geopolitical volatility."},
+    {"symbol":"LNG","thesis":"Cheniere provides liquid LNG exposure in the strongest current sector theme, with the October 29 earnings event making post-report confirmation preferable."},
+    {"symbol":"MPC","thesis":"Marathon Petroleum is a liquid refining momentum candidate benefiting from strong energy-sector breadth while remaining sensitive to crack spreads and crude volatility."},
+    {"symbol":"GEV","thesis":"GE Vernova offers liquid power-infrastructure exposure to the AI electricity-buildout theme, but its valuation and macro sensitivity argue for disciplined breakout confirmation."}
   ],
-  "sector_notes": "As of the latest completed US session on October 23, the Energy Select Sector ETF (XLE) rose 2.60% to $69.33 and closed near its reported 52-week high of $69.72. The broad tape weakened into the close: SPY fell about 1.2% from October 20 to October 23, QQQ fell about 1.8%, and semiconductor ETF SMH declined about 3.5%, indicating that leadership is selective rather than a broad technology advance. Brent crude traded near $114.61 early October 26 versus a Friday close near $117.21, easing slightly while remaining elevated; Reuters reports US futures little changed ahead of a heavy earnings week and an expected Federal Reserve hold on Wednesday. Software and cybersecurity are bifurcated: CRWD, PANW, NET, DDOG and FTNT remain above their 50-day and 200-day averages, while investors are increasingly focused on whether hyperscaler AI capital spending can generate sufficient returns.",
+  "sector_notes": "The latest live FactIQ snapshot shows SPY up 0.50%, QQQ up 0.42%, XLE up 0.48% and SMH up 1.15% on October 26, so the session is recovering even though the recent tape has been volatile. Energy remains the clearest structural leader, with XLE at 69.66 against a reported 52-week high of 69.855, while semiconductors are bouncing but remain exposed to the AI-spending debate. Reuters reports that oil has eased from six-month highs and US futures are modestly higher ahead of a week containing roughly one-third of S&P 500 earnings and an expected October Fed hold, keeping event risk elevated. StockLens shows a sharp split inside software: PLTR is rated Solid with a 79 technical score, CRWD has an 87 technical score but strongly bearish macro conditions, and PANW has bullish technicals but weak fundamentals and risk scores, so selectivity remains more important than sector-level exposure.",
   "earnings_flags": [
-    {
-      "symbol": "CDNS",
-      "date": "2026-10-26",
-      "note": "Cadence investor relations lists the Q3 2026 results conference call for today at 5:00 p.m. ET; avoid a fresh position immediately before the report."
-    },
-    {
-      "symbol": "MSFT",
-      "date": "2026-10-28",
-      "note": "Microsoft investor relations confirms FY27 Q1 earnings on October 28; cloud growth, AI capital spending and margin commentary create substantial gap risk."
-    },
-    {
-      "symbol": "GOOGL",
-      "date": "2026-10-28",
-      "note": "Alphabet announced its Q3 2026 results call for October 28; advertising, cloud growth and AI spending can drive a large overnight move."
-    },
-    {
-      "symbol": "FTNT",
-      "date": "2026-10-28",
-      "note": "Fortinet confirms its Q3 2026 earnings announcement after the close; cybersecurity guidance may move the stock sharply."
-    },
-    {
-      "symbol": "AMZN",
-      "date": "2026-10-29",
-      "note": "Amazon confirms its Q3 2026 results call after the close; AWS growth, margins and AI infrastructure spending are major gap-risk drivers."
-    },
-    {
-      "symbol": "LLY",
-      "date": "2026-10-29",
-      "note": "Eli Lilly confirms its Q3 results call for October 29; guidance and drug-demand updates can generate a material gap."
-    },
-    {
-      "symbol": "LNG",
-      "date": "2026-10-29",
-      "note": "Market-data earnings calendar estimates October 29; verify the issuer's timing before carrying a swing position through the event."
-    },
-    {
-      "symbol": "XOM",
-      "date": "2026-10-30",
-      "note": "Market-data earnings calendar lists October 30 for Exxon Mobil; verify the issuer's release timing before carrying energy exposure through results."
-    },
-    {
-      "symbol": "V",
-      "date": "2026-10-27",
-      "note": "Market-data earnings calendar estimates October 27; verify with Visa investor relations before holding through the event."
-    },
-    {
-      "symbol": "AMD",
-      "date": "2026-11-03",
-      "note": "AMD investor relations confirms fiscal Q3 results after the close; semiconductor and AI guidance create elevated gap risk across the chip complex."
-    }
+    {"symbol":"CDNS","date":"2026-10-26","note":"Cadence is scheduled to report after the close today; treat the session as an earnings-event day and avoid opening a fresh swing immediately before the release."},
+    {"symbol":"V","date":"2026-10-27","note":"Visa has officially confirmed fiscal Q4 and full-year 2026 results after the close on October 27, creating material payment-spending and guidance gap risk."},
+    {"symbol":"MSFT","date":"2026-10-28","note":"Microsoft officially confirms FY27 Q1 results after the close on October 28; cloud growth, AI capex and margins are major gap drivers."},
+    {"symbol":"GOOGL","date":"2026-10-28","note":"Alphabet is scheduled to report Q3 results on October 28; advertising, cloud growth and AI spending create large-cap gap risk even though GOOGL is not currently on the long watchlist."},
+    {"symbol":"FTNT","date":"2026-10-28","note":"Fortinet officially confirms its Q3 2026 earnings event for October 28 at 4:30 p.m. ET, making cybersecurity guidance the immediate gap-risk catalyst."},
+    {"symbol":"AMZN","date":"2026-10-29","note":"Amazon is scheduled to report Q3 results on October 29; AWS growth, margins and AI infrastructure spending are major gap-risk variables."},
+    {"symbol":"LLY","date":"2026-10-29","note":"Eli Lilly officially confirms its Q3 2026 earnings call for October 29; product demand, guidance and pipeline updates can generate a material gap."},
+    {"symbol":"LNG","date":"2026-10-29","note":"Cheniere is listed for an October 29 earnings event; verify the final release timing before carrying a swing position through the report."},
+    {"symbol":"XOM","date":"2026-10-30","note":"ExxonMobil officially confirms Q3 2026 results for October 30 at 5:30 a.m. CT with an 8:30 a.m. CT call, making oil prices and production guidance key gap drivers."},
+    {"symbol":"AAPL","date":"2026-11-02","note":"Apple officially confirms its FY26 fourth-quarter results conference call for November 2 at 5:00 p.m. ET, creating significant mega-cap event risk."},
+    {"symbol":"AMD","date":"2026-11-03","note":"AMD is a large-cap semiconductor name with an upcoming November 3 results event; AI demand, data-center guidance and chip-sector sentiment can amplify the gap."}
   ],
-  "universe_suggestions": [
-    "XOM",
-    "CVX",
-    "COP",
-    "EOG",
-    "OXY",
-    "PBR",
-    "KMI",
-    "LNG",
-    "TRGP",
-    "MPC",
-    "TXN",
-    "CRM",
-    "ADBE",
-    "IBM",
-    "VEEV"
-  ],
+  "universe_suggestions": ["XOM","CVX","COP","EOG","OXY","MPC","LNG","TRGP","GEV","ETN","TXN","CRM","ADBE","IBM","VEEV"],
   "avoid": [
-    {
-      "symbol": "GOOGL",
-      "reason": "Price is below both the 50-day and 200-day averages, so the long trend is broken despite the upcoming earnings catalyst."
-    },
-    {
-      "symbol": "AVGO",
-      "reason": "Price is below both the 50-day and 200-day averages; wait for a confirmed trend reclaim rather than assuming AI infrastructure exposure guarantees leadership."
-    },
-    {
-      "symbol": "NVDA",
-      "reason": "Price is below the 50-day average while semiconductor ETF SMH fell about 3.5% from October 20 to October 23; require renewed relative strength before a fresh long."
-    },
-    {
-      "symbol": "MRVL",
-      "reason": "Price is below its 50-day average and recent sector weakness makes its trend less clean than stronger technology leaders."
-    },
-    {
-      "symbol": "AMAT",
-      "reason": "Price is below both major moving averages, leaving semiconductor-equipment exposure without a confirmed long trend."
-    },
-    {
-      "symbol": "KLAC",
-      "reason": "Price is below both its 50-day and 200-day averages, so a momentum long lacks technical confirmation."
-    },
-    {
-      "symbol": "LRCX",
-      "reason": "Price is below both major moving averages while semiconductor-sector momentum is weak; wait for a sustained reclaim."
-    },
-    {
-      "symbol": "CAT",
-      "reason": "Price is below its 50-day and 200-day averages, making the industrial trend unsuitable for a clean long-momentum entry."
-    },
-    {
-      "symbol": "ETN",
-      "reason": "Price is below both major moving averages, so the electrical-equipment trend has weakened despite the long-term AI-power theme."
-    },
-    {
-      "symbol": "SNDK",
-      "reason": "Price is well below its 50-day average and near its 200-day average, indicating a meaningful loss of trend quality after its prior run."
-    },
-    {
-      "symbol": "STX",
-      "reason": "Price is below both the 50-day and 200-day averages, indicating the storage-sector trend has broken down."
-    },
-    {
-      "symbol": "WDC",
-      "reason": "Price is below both major moving averages, so recent storage-sector strength has not translated into a clean current trend."
-    },
-    {
-      "symbol": "DELL",
-      "reason": "Price is below its 50-day average, so wait for a confirmed reclaim before treating the AI-server theme as an actionable momentum setup."
-    },
-    {
-      "symbol": "INTC",
-      "reason": "Price is below its 50-day average and earnings are listed for October 29, combining weak trend structure with near-term gap risk."
-    }
+    {"symbol":"NVDA","reason":"The semiconductor complex remains vulnerable to renewed AI-spending concerns, so require clear relative-strength confirmation before treating Nvidia as a fresh momentum long."},
+    {"symbol":"AVGO","reason":"Broad AI-infrastructure sentiment is still being tested by financing and return-on-capex concerns, making a confirmed trend continuation preferable to anticipation."},
+    {"symbol":"AMD","reason":"AMD has an imminent earnings catalyst and high sensitivity to semiconductor and AI expectations, so event risk overwhelms the benefit of initiating a new swing before confirmation."},
+    {"symbol":"MRVL","reason":"Marvell remains highly sensitive to the same AI-infrastructure spending concerns that have recently driven sharp moves across semiconductor names."},
+    {"symbol":"AMAT","reason":"Applied Materials remains exposed to semiconductor-cycle volatility and lacks enough evidence in this pass to rank above the stronger liquid setups."},
+    {"symbol":"KLAC","reason":"KLA is exposed to the current semiconductor volatility regime and is better treated as a post-sector-confirmation candidate than a pre-breakout chase."},
+    {"symbol":"LRCX","reason":"Lam Research remains tightly coupled to semiconductor-capex sentiment, so wait for sustained relative strength rather than anticipating a sector reversal."},
+    {"symbol":"INTC","reason":"Intel combines semiconductor volatility with near-term earnings risk, making the risk-adjusted setup inferior to cleaner momentum names."},
+    {"symbol":"GOOGL","reason":"Alphabet has major earnings risk on October 28 and the current AI-spending debate makes an event-driven position less attractive than waiting for the report."},
+    {"symbol":"META","reason":"Meta's recently raised AI-infrastructure spending plans have increased investor sensitivity to capital intensity and financing, making the risk/reward less clean ahead of the broader earnings wave."},
+    {"symbol":"CRWV","reason":"CoreWeave has been among the hardest-hit AI-infrastructure names amid debt and financing concerns, so its volatility is too high for the clean momentum profile sought here."}
   ]
 }
