@@ -7,7 +7,7 @@
     {"symbol":"MNST","thesis":"Monster Beverage offers a defensive-growth setup with strong StockLens readings and solid liquidity, suitable for continuation only if price confirms the trend."},
     {"symbol":"PM","thesis":"Philip Morris combines a strong StockLens composite with defensive-sector support, while the swing setup should avoid chasing extended moves around catalysts."},
     {"symbol":"EW","thesis":"Edwards Lifesciences has a strong StockLens technical profile, but its November 4 after-close earnings event creates immediate gap risk inside the swing horizon."},
-    {"symbol":"EOG","thesis":"EOG remains a strong energy momentum candidate with StockLens support, but its November 6 results event and volatile oil backdrop argue for conservative pre-event exposure."},
+    {"symbol":"EOG","thesis":"EOG remains a strong energy momentum candidate with StockLens support, but its November 5 results release and volatile oil backdrop argue for conservative pre-event exposure."},
     {"symbol":"TRV","thesis":"Travelers retains strong StockLens technical and risk characteristics after its recent earnings report, providing financial-sector momentum diversification without an immediate report."},
     {"symbol":"OXY","thesis":"Occidental remains a liquid energy momentum candidate with StockLens support, while its November 9 after-close earnings event leaves some room for a tactical swing before the catalyst."},
     {"symbol":"MDT","thesis":"Medtronic offers healthcare diversification with solid StockLens technical characteristics; confirmation of renewed momentum is preferable after the recent pullback."},
@@ -15,15 +15,13 @@
     {"symbol":"RMD","thesis":"ResMed has one of the strongest healthcare technical readings in StockLens and remains a high-quality trend candidate despite softer recent price action."},
     {"symbol":"ROP","thesis":"Roper remains a quality-momentum candidate after a post-earnings breakout, but the latest pullback favors orderly consolidation before entry."},
     {"symbol":"CTAS","thesis":"Cintas combines strong StockLens technical quality with a multi-week advance, but confirmation is preferable to chasing a mature move."},
-    {"symbol":"CI","thesis":"Cigna has strong StockLens technical and macro readings and remains liquid, but its weaker risk characteristics make it a lower-conviction watchlist member."
-    }
+    {"symbol":"CI","thesis":"Cigna has strong StockLens technical and macro readings and remains liquid, but its weaker risk characteristics make it a lower-conviction watchlist member."}
   ],
   "sector_notes":"October 27 is a rebound session but not a clean risk-on regime: oil has eased ahead of the Fed decision, while investors remain focused on AI spending economics, borrowing costs and major technology earnings. Defensive consumer/healthcare and selected financial/industrial names therefore remain useful diversifiers versus crowded AI exposure. Energy remains technically attractive in StockLens, but oil volatility and clustered earnings increase event risk.",
   "earnings_flags":[
     {"symbol":"EW","date":"2026-11-04","note":"Edwards Lifesciences will announce Q3 2026 results after the market close on November 4; confirmed by company investor relations."},
-    {"symbol":"EOG","date":"2026-11-06","note":"EOG Resources has scheduled its Q3 2026 results webcast for November 6; the company investor-relations calendar confirms the date."},
-    {"symbol":"OXY","date":"2026-11-09","note":"Occidental will announce Q3 2026 results after the market close on November 9; confirmed by company investor relations."
-    }
+    {"symbol":"EOG","date":"2026-11-05","note":"EOG Resources is scheduled to release Q3 2026 results on November 5; the November 6 investor webcast follows the release."},
+    {"symbol":"OXY","date":"2026-11-09","note":"Occidental will announce Q3 2026 results after the market close on November 9; confirmed by company investor relations."}
   ],
   "universe_suggestions":["PG","CSCO","DHR","MNST","PM","EW","EOG","TRV","OXY","MDT","PGR","RMD","ROP","CTAS","CI","COP","CVX","XOM","LNG","OKE","SLB","VLO","FAST","ITW","MMM","FDX","MRSH","MA","NDAQ","CB","ACGL","ADP","NOW","CRWD","ZS","OKTA","TEAM","NET","VEEV","ABBV","ABT","LLY","NSC","PAYX","GD","EMR","MO","KDP","KO","EL"],
   "avoid":[
@@ -38,7 +36,6 @@
     {"symbol":"ADP","reason":"ADP has strong technical momentum but reports before the open on October 28, creating immediate earnings gap risk."},
     {"symbol":"NOW","reason":"ServiceNow reports after the close on October 28, so post-earnings confirmation is preferable to pre-event exposure."},
     {"symbol":"LNG","reason":"Cheniere has a strong overall profile but an imminent earnings event, creating near-term gap risk in the intended swing horizon."},
-    {"symbol":"MA","reason":"Mastercard has an attractive technical profile but an imminent earnings event, making the immediate gap risk too high for a clean pre-event setup."
-    }
+    {"symbol":"MA","reason":"Mastercard has an attractive technical profile but an imminent earnings event, making the immediate gap risk too high for a clean pre-event setup."}
   ]
 }
