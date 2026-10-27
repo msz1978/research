@@ -18,7 +18,7 @@
     {"symbol":"CI","thesis":"Cigna has strong StockLens technical and macro readings and remains liquid, but its weaker risk characteristics make it a lower-conviction watchlist member."
     }
   ],
-  "sector_notes":"October 27 is a rebound session but not a clean risk-on regime: Reuters reports that S&P 500 and Nasdaq were advancing as oil eased ahead of the Fed decision, while investors remain focused on AI spending economics, borrowing costs and major technology earnings. citeturn1news17turn1search0 Defensive consumer/healthcare and selected financial/industrial names therefore remain useful diversifiers versus crowded AI exposure. Energy remains technically attractive in StockLens, but oil volatility and clustered earnings increase event risk.",
+  "sector_notes":"October 27 is a rebound session but not a clean risk-on regime: oil has eased ahead of the Fed decision, while investors remain focused on AI spending economics, borrowing costs and major technology earnings. Defensive consumer/healthcare and selected financial/industrial names therefore remain useful diversifiers versus crowded AI exposure. Energy remains technically attractive in StockLens, but oil volatility and clustered earnings increase event risk.",
   "earnings_flags":[
     {"symbol":"EW","date":"2026-11-04","note":"Edwards Lifesciences will announce Q3 2026 results after the market close on November 4; confirmed by company investor relations."},
     {"symbol":"EOG","date":"2026-11-06","note":"EOG Resources has scheduled its Q3 2026 results webcast for November 6; the company investor-relations calendar confirms the date."},
