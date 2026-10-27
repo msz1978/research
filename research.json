@@ -1,43 +1,44 @@
 {
   "generated_at": "2026-10-27",
   "watchlist": [
-    {"symbol":"PG","thesis":"Defensive consumer momentum remains strong on StockLens with an 88 technical score and 88 macro score, although the October 27 pullback argues for disciplined entries rather than chasing."},
-    {"symbol":"CSCO","thesis":"Cisco combines an 85 technical score, strong relative performance and exceptional liquidity, making it one of the cleaner technology continuation setups outside the high-beta AI complex."},
-    {"symbol":"DHR","thesis":"Danaher retains a strong technical and fundamental profile after beating Q3 EPS expectations, with the current pullback looking more orderly than the broader AI-driven technology volatility."},
-    {"symbol":"MNST","thesis":"Monster Beverage offers a high-quality defensive-growth setup with 77 technical and 77 composite scores, supported by strong sector and macro readings."},
-    {"symbol":"PM","thesis":"Philip Morris combines an 80 StockLens composite with strong fundamentals and favorable defensive-sector conditions, while post-earnings price action remains constructive."},
-    {"symbol":"EW","thesis":"Edwards Lifesciences has an 85 technical score and strong risk profile, with the current price holding near recent highs despite the November 4 earnings event."},
-    {"symbol":"EOG","thesis":"EOG remains a strong energy momentum candidate with 86 technical and 86 risk scores, although today's pullback and November 5 earnings argue for tactical entries."},
-    {"symbol":"TRV","thesis":"Travelers retains strong technical and risk scores following its October earnings report, providing financial-sector momentum diversification without an immediate earnings catalyst."},
-    {"symbol":"OXY","thesis":"Occidental remains a liquid energy momentum candidate with improving fundamentals and an 86 risk score, while its November 9 earnings date leaves more room than near-term energy reporters."},
-    {"symbol":"MDT","thesis":"Medtronic offers a healthcare diversification setup with solid technical and risk scores, although the recent pullback means confirmation of renewed momentum is preferable."},
-    {"symbol":"PGR","thesis":"Progressive retains an 86 technical score and strong risk profile despite today's pullback, making it a potential insurance continuation setup if support holds."},
-    {"symbol":"RMD","thesis":"ResMed has the strongest technical reading in healthcare at 88 and an 87 fundamental score, making it a high-quality trend candidate despite a softer current session."},
-    {"symbol":"ROP","thesis":"Roper remains a strong quality-momentum candidate after a large post-earnings breakout, but the October 27 pullback means entries should wait for orderly consolidation."},
-    {"symbol":"CTAS","thesis":"Cintas combines an 87 technical score with strong fundamentals and a multi-week advance, but today's flat-to-soft action favors confirmation rather than chasing."},
-    {"symbol":"CI","thesis":"Cigna has very strong technical and macro readings and remains liquid, but its weaker risk score makes it a lower-conviction member of the watchlist."
+    {"symbol":"PG","thesis":"Defensive consumer momentum remains strong on StockLens; Massive validated the latest session with liquid trading and a tight pullback, favoring disciplined entries rather than chasing."},
+    {"symbol":"CSCO","thesis":"Cisco combines strong StockLens technical quality with very high liquidity; Massive validated the latest session with 20M+ shares traded and a constructive close near the session high."},
+    {"symbol":"DHR","thesis":"Danaher retains a strong StockLens technical and fundamental profile, while Massive shows active but orderly trading around the latest close."},
+    {"symbol":"MNST","thesis":"Monster Beverage offers a defensive-growth setup with strong StockLens readings and solid liquidity, suitable for continuation only if price confirms the trend."},
+    {"symbol":"PM","thesis":"Philip Morris combines a strong StockLens composite with defensive-sector support, while the swing setup should avoid chasing extended moves around catalysts."},
+    {"symbol":"EW","thesis":"Edwards Lifesciences has a strong StockLens technical profile, but its November 4 after-close earnings event creates immediate gap risk inside the swing horizon."},
+    {"symbol":"EOG","thesis":"EOG remains a strong energy momentum candidate with StockLens support, but its November 6 results event and volatile oil backdrop argue for conservative pre-event exposure."},
+    {"symbol":"TRV","thesis":"Travelers retains strong StockLens technical and risk characteristics after its recent earnings report, providing financial-sector momentum diversification without an immediate report."},
+    {"symbol":"OXY","thesis":"Occidental remains a liquid energy momentum candidate with StockLens support, while its November 9 after-close earnings event leaves some room for a tactical swing before the catalyst."},
+    {"symbol":"MDT","thesis":"Medtronic offers healthcare diversification with solid StockLens technical characteristics; confirmation of renewed momentum is preferable after the recent pullback."},
+    {"symbol":"PGR","thesis":"Progressive retains a strong StockLens technical profile and remains a potential insurance continuation setup if support holds."},
+    {"symbol":"RMD","thesis":"ResMed has one of the strongest healthcare technical readings in StockLens and remains a high-quality trend candidate despite softer recent price action."},
+    {"symbol":"ROP","thesis":"Roper remains a quality-momentum candidate after a post-earnings breakout, but the latest pullback favors orderly consolidation before entry."},
+    {"symbol":"CTAS","thesis":"Cintas combines strong StockLens technical quality with a multi-week advance, but confirmation is preferable to chasing a mature move."},
+    {"symbol":"CI","thesis":"Cigna has strong StockLens technical and macro readings and remains liquid, but its weaker risk characteristics make it a lower-conviction watchlist member."
     }
   ],
-  "sector_notes":"The October 27 market remains a rebound regime with the Nasdaq leading as AI enthusiasm returned after Anthropic's IPO filing, while the S&P 500 also advanced and semiconductors continued their relief rally. The rebound is not yet a clean risk-on signal: Reuters notes persistent concerns about debt-funded AI infrastructure, higher borrowing costs and the Federal Reserve decision, while oil has eased from recent highs. Defensive consumer and healthcare names remain attractive diversifiers, while selected industrials and financials provide cleaner momentum than the most crowded AI-infrastructure trades. Energy remains technically strong in several StockLens screens, but falling crude prices and clustered October 29-30 earnings create higher near-term event risk.",
+  "sector_notes":"October 27 is a rebound session but not a clean risk-on regime: Reuters reports that S&P 500 and Nasdaq were advancing as oil eased ahead of the Fed decision, while investors remain focused on AI spending economics, borrowing costs and major technology earnings. citeturn1news17turn1search0 Defensive consumer/healthcare and selected financial/industrial names therefore remain useful diversifiers versus crowded AI exposure. Energy remains technically attractive in StockLens, but oil volatility and clustered earnings increase event risk.",
   "earnings_flags":[
-    {"symbol":"EW","date":"2026-11-04","note":"Edwards Lifesciences has confirmed Q3 2026 results after market close on November 4, creating a near-term gap-risk event."},
-    {"symbol":"EOG","date":"2026-11-05","note":"EOG Resources has an upcoming Q3 2026 earnings event around November 5, so energy momentum exposure should be sized conservatively ahead of the report."},
-    {"symbol":"OXY","date":"2026-11-09","note":"Occidental Petroleum is scheduled to report on November 9, leaving a wider buffer than the energy names reporting October 29-30 but still creating event risk within the intended swing horizon."}
+    {"symbol":"EW","date":"2026-11-04","note":"Edwards Lifesciences will announce Q3 2026 results after the market close on November 4; confirmed by company investor relations."},
+    {"symbol":"EOG","date":"2026-11-06","note":"EOG Resources has scheduled its Q3 2026 results webcast for November 6; the company investor-relations calendar confirms the date."},
+    {"symbol":"OXY","date":"2026-11-09","note":"Occidental will announce Q3 2026 results after the market close on November 9; confirmed by company investor relations."
+    }
   ],
   "universe_suggestions":["PG","CSCO","DHR","MNST","PM","EW","EOG","TRV","OXY","MDT","PGR","RMD","ROP","CTAS","CI","COP","CVX","XOM","LNG","OKE","SLB","VLO","FAST","ITW","MMM","FDX","MRSH","MA","NDAQ","CB","ACGL","ADP","NOW","CRWD","ZS","OKTA","TEAM","NET","VEEV","ABBV","ABT","LLY","NSC","PAYX","GD","EMR","MO","KDP","KO","EL"],
   "avoid":[
-    {"symbol":"ZS","reason":"StockLens shows only a 42 composite score and 25 risk score despite an 87 technical score, indicating a technically strong but poorly balanced setup."},
-    {"symbol":"NET","reason":"Cloudflare has an 85 technical score but only a 42 composite and 18 risk score, with weak macro conditions making the high-beta setup unattractive."},
-    {"symbol":"CRWD","reason":"CrowdStrike has strong technical momentum but only a 54 composite and 39 risk score, so the setup lacks sufficient balance for the current regime."},
-    {"symbol":"TEAM","reason":"Atlassian has an 86 technical score but only a 51 composite and 25 risk score, making the momentum signal too weakly supported for the current swing horizon."},
-    {"symbol":"CME","reason":"CME has an 85 technical score but a weak 58 composite and very low 26 fundamental score, so the technical setup lacks fundamental confirmation."},
-    {"symbol":"BX","reason":"Blackstone's 61 composite and 47 fundamental score make the current setup less attractive than the stronger financial-sector alternatives."},
-    {"symbol":"KDP","reason":"Keurig Dr Pepper has a 62 composite with weaker fundamentals and risk readings despite favorable defensive macro conditions."},
-    {"symbol":"EL","reason":"Estée Lauder has only a 53 composite and 35 fundamental score despite strong technical momentum, indicating poor underlying confirmation."},
-    {"symbol":"ADP","reason":"ADP has a strong 88 technical score but reports before the open on October 28, creating immediate earnings gap risk inside the swing horizon."},
-    {"symbol":"NOW","reason":"ServiceNow reports October 28 and combines an 88 technical score with weak macro conditions, so post-earnings confirmation is preferable to pre-event exposure."},
-    {"symbol":"LNG","reason":"Cheniere has an 80 composite and strong technical profile but reports before the open on October 29, creating near-term event risk while energy prices are volatile."},
-    {"symbol":"MA","reason":"Mastercard has an attractive technical profile but reports October 29, making the immediate gap risk too high for a clean pre-event swing setup."
+    {"symbol":"ZS","reason":"StockLens shows a technically strong but poorly balanced setup, so momentum alone is insufficient for the current swing horizon."},
+    {"symbol":"NET","reason":"Cloudflare has strong technical momentum but weak overall balance and macro support, making the high-beta setup unattractive in the current regime."},
+    {"symbol":"CRWD","reason":"CrowdStrike has strong technical momentum but weaker overall balance and risk characteristics than the preferred candidates."},
+    {"symbol":"TEAM","reason":"Atlassian has strong technical momentum but insufficient overall balance for the current swing horizon."},
+    {"symbol":"CME","reason":"CME has a strong technical setup but weaker fundamental confirmation than the preferred financial-sector candidates."},
+    {"symbol":"BX","reason":"Blackstone's overall StockLens profile is weaker than the stronger financial-sector alternatives."},
+    {"symbol":"KDP","reason":"Keurig Dr Pepper has weaker overall StockLens confirmation despite defensive-sector support."},
+    {"symbol":"EL","reason":"Estée Lauder has strong technical momentum but weak underlying confirmation."},
+    {"symbol":"ADP","reason":"ADP has strong technical momentum but reports before the open on October 28, creating immediate earnings gap risk."},
+    {"symbol":"NOW","reason":"ServiceNow reports after the close on October 28, so post-earnings confirmation is preferable to pre-event exposure."},
+    {"symbol":"LNG","reason":"Cheniere has a strong overall profile but an imminent earnings event, creating near-term gap risk in the intended swing horizon."},
+    {"symbol":"MA","reason":"Mastercard has an attractive technical profile but an imminent earnings event, making the immediate gap risk too high for a clean pre-event setup."
     }
   ]
 }
