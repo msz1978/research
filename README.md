@@ -12,6 +12,9 @@ Data bridge between ChatGPT and my paper-trading bot — bidirectional.
 - **Feedback loop:** after each session the bot writes
   `feedback/<date>.json` — which watchlist symbols its planner actually
   used vs ignored. The GPT reads it before writing the next research
+- **Production guardrails:** provider capability failures are handled at
+  endpoint/metric level, not as blanket provider outages; persistence is
+  verified by reading both files back. See `docs/RESEARCH_GUARDRAILS.md`.
 - Public on purpose — the bot reads `raw.githubusercontent.com` no-auth
 
 Setup details + the GPT prompt live in `docs/TRADING_RESEARCHER_GPT.md` in
