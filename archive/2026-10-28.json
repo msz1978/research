@@ -1,0 +1,44 @@
+{
+  "generated_at": "2026-10-28",
+  "watchlist": [
+    {"symbol":"CSCO","thesis":"Strong current StockLens technical profile with 14M+ shares in the latest Massive bar and a constructive close, while AI-infrastructure demand supports the trend."},
+    {"symbol":"DHR","thesis":"Danaher combines strong technical quality with solid fundamental support and orderly latest-session trading, making it a high-quality healthcare trend candidate."},
+    {"symbol":"EOG","thesis":"EOG remains one of the strongest energy technical setups in StockLens, but elevated oil volatility and the November 5 results release require conservative positioning."},
+    {"symbol":"EW","thesis":"Edwards Lifesciences retains strong technical and fundamental support, with enough liquidity for a swing setup but meaningful November 4 earnings gap risk."},
+    {"symbol":"PGR","thesis":"Progressive offers strong insurance-sector momentum and an 86 technical StockLens score, providing financial exposure with less dependence on the AI trade."},
+    {"symbol":"V","thesis":"Visa combines a 74 StockLens composite with an 86 technical score and strong liquidity, offering a high-quality financial continuation setup after its recent earnings event."},
+    {"symbol":"MA","thesis":"Mastercard retains strong technical and sentiment readings after its recent earnings event, making it a cleaner financial momentum candidate than pre-event technology names."},
+    {"symbol":"EMR","thesis":"Emerson has strong technical quality and improving industrial momentum, offering diversification from technology while maintaining sufficient liquidity."},
+    {"symbol":"FAST","thesis":"Fastenal pairs strong fundamentals with a solid StockLens composite and multi-million-share liquidity, favoring continuation if the industrial trend holds."},
+    {"symbol":"ITW","thesis":"Illinois Tool Works combines a 74 StockLens composite with strong fundamentals and sentiment, providing a quality industrial swing setup."},
+    {"symbol":"CTAS","thesis":"Cintas remains a high-quality industrial momentum candidate with strong fundamentals and liquid trading, although its mature advance argues against chasing."},
+    {"symbol":"A","thesis":"Agilent has a 76 StockLens composite and strong fundamental and technical support, while healthcare macro strength adds a favorable backdrop."},
+    {"symbol":"AMGN","thesis":"Amgen combines a 76 StockLens composite with strong fundamentals, solid technical momentum and supportive healthcare macro conditions."},
+    {"symbol":"JNJ","thesis":"Johnson & Johnson offers defensive healthcare exposure with strong macro support and sufficient liquidity, useful while rate and oil risks remain elevated."},
+    {"symbol":"NDAQ","thesis":"Nasdaq Inc. has strong technical momentum and liquid trading, offering financial-market exposure with a cleaner setup than weaker financial candidates."}
+  ],
+  "sector_notes":"The market backdrop is constructive but event-driven: Tuesday's session added 0.6% for the S&P 500 and 1.2% for the Nasdaq, while Wednesday futures are mixed ahead of the Fed decision and major technology earnings. Technology and semiconductors remain the leadership area, supported by strong AI-demand signals, but elevated oil prices and inflation concerns increase rate sensitivity. Healthcare, financials and selected industrials provide useful diversification while the Fed and earnings can rapidly change risk appetite.",
+  "earnings_flags":[
+    {"symbol":"GOOGL","date":"2026-10-28","note":"Alphabet is scheduled to report Q3 2026 results after the close on October 28; this is a major market-wide AI and technology catalyst."},
+    {"symbol":"MSFT","date":"2026-10-28","note":"Microsoft is scheduled to report Q1 FY2027 results after the close on October 28; AI capital spending and cloud growth make this a major market catalyst."},
+    {"symbol":"PG","date":"2026-10-29","note":"Procter & Gamble is scheduled to report on October 29; the event is relevant to the defensive consumer sector and is a reason to avoid fresh pre-event exposure."},
+    {"symbol":"AMZN","date":"2026-10-29","note":"Amazon is scheduled to report Q3 2026 results after the close on October 29, creating an important AI-capex and consumer/technology catalyst."},
+    {"symbol":"LLY","date":"2026-10-29","note":"Eli Lilly is scheduled to report on October 29; healthcare and weight-loss drug expectations make the event sector-relevant."},
+    {"symbol":"ABBV","date":"2026-10-30","note":"AbbVie is scheduled to report on October 30, making it a material healthcare catalyst within the swing horizon."}
+  ],
+  "universe_suggestions":["CSCO","DHR","EOG","EW","PGR","V","MA","EMR","FAST","ITW","CTAS","A","AMGN","JNJ","NDAQ","PG","RSG","LNG","CVX","XOM","COP","OKE","SLB","DOW","GE","GD","CAT","ETN","HON","MMM","PAYX","MRSH","CB","ACGL","WFC","CME","ADP","NOW","MSFT","GOOGL","AAPL","TSM","TXN","NVDA","AVGO","CRWD","ZS","VEEV","ABBV","LLY"],
+  "avoid":[
+    {"symbol":"MSFT","reason":"Exceptional market importance but reports after the close on October 28, creating immediate earnings gap risk."},
+    {"symbol":"GOOGL","reason":"Strong AI-driven momentum but reports after the close on October 28, so pre-event exposure is not a clean swing setup."},
+    {"symbol":"PG","reason":"Strong defensive technical profile but reports on October 29, making the immediate earnings gap risk unattractive for a new position."},
+    {"symbol":"RSG","reason":"Strong StockLens composite and technical profile, but the near-term earnings window creates event risk that outweighs the otherwise attractive setup."},
+    {"symbol":"LNG","reason":"Very strong StockLens composite and technical profile, but the earnings window is too close for a clean pre-event swing."},
+    {"symbol":"EOG","reason":"High-quality energy momentum but November 5 results and elevated oil volatility require materially more caution than the preferred non-event candidates."},
+    {"symbol":"EW","reason":"Strong healthcare momentum but November 4 earnings create a significant gap-risk constraint inside the intended holding period."},
+    {"symbol":"AAPL","reason":"Strong StockLens quality and liquidity, but the November 2 earnings event makes the immediate swing setup less attractive."},
+    {"symbol":"AMZN","reason":"Strong AI and consumer momentum but October 29 earnings create immediate gap risk."},
+    {"symbol":"LLY","reason":"Strong healthcare momentum but October 29 earnings make the near-term setup event-driven rather than a clean technical swing."},
+    {"symbol":"ABBV","reason":"Defensive healthcare quality is attractive, but the October 30 earnings event creates avoidable gap risk."},
+    {"symbol":"TSM","reason":"Excellent fundamentals and sentiment, but the very weak 29 technical score makes the current swing setup insufficiently confirmed."}
+  ]
+}
