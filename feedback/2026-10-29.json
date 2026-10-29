@@ -1,0 +1,15 @@
+{
+  "date": "2026-10-29",
+  "research_usage": [
+    {
+      "iteration": 1,
+      "matched": 12,
+      "total": 83,
+      "history_days": 3
+    }
+  ],
+  "eval": {
+    "iterations": 1,
+    "best_score": 1.1038
+  }
+}
