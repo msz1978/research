@@ -11,5 +11,49 @@
   "eval": {
     "iterations": 1,
     "best_score": 1.1038
-  }
+  },
+  "worst_open_positions": [
+    {
+      "symbol": "INTC",
+      "unrealized_pnl": -12.8,
+      "pnl_pct": -11.82
+    },
+    {
+      "symbol": "MO",
+      "unrealized_pnl": -1.6445,
+      "pnl_pct": -2.2
+    },
+    {
+      "symbol": "AAPL",
+      "unrealized_pnl": -0.4766,
+      "pnl_pct": -0.05
+    }
+  ],
+  "worst_closed_trades": [
+    {
+      "symbol": "T",
+      "entry_date": "2026-09-10",
+      "pnl": -3.23,
+      "pnl_pct": -12.69
+    },
+    {
+      "symbol": "MDT",
+      "entry_date": "2026-09-17",
+      "pnl": -5.85,
+      "pnl_pct": -6.29
+    },
+    {
+      "symbol": "NVDA",
+      "entry_date": "2026-10-12",
+      "pnl": -42.51,
+      "pnl_pct": -6.19
+    }
+  ],
+  "paper_stats": {
+    "total_return": 0.07349491877955039,
+    "sharpe_ratio": 1.8569809173512375,
+    "max_drawdown": 2.3871178211559907,
+    "win_rate": 0.4
+  },
+  "observer_notes": "- The open position in **INTC** is down\u202f\u201111.8% (\u2011$12.8), far larger than the portfolio\u2019s max drawdown of\u202f2.39%, indicating a concentration risk that the overall metrics hide.  \n- The closed **NVDA** trade lost **$42.51** (\u20116.19%), the biggest dollar loss of the day, yet the strategy still posted a 7.35% total return and a Sharpe of\u202f1.86, suggesting performance is fragile to a single large loser.  \n- Research usage was low: only **12** of **83** suggested symbols (\u224814%) matched the bot\u2019s selections over the past three days, despite a watchlist of six tickers, implying many research signals were ignored.  \n- **Hypothesis:** The bot is overweighting a few high\u2011volatility names (e.g., INTC, NVDA) based on sparse research matches, which creates outsized losses that are not reflected in the low drawdown figure.  \n- **What to verify/change:** Tighten position\u2011sizing limits for any single ticker, raise the threshold for accepting research suggestions, and add a cap on exposure to high\u2011beta stocks before tomorrow\u2019s run."
 }
