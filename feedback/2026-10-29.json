@@ -3,14 +3,20 @@
   "research_usage": [
     {
       "iteration": 1,
-      "matched": 12,
-      "total": 83,
-      "history_days": 3
+      "matched": 25,
+      "total": 82,
+      "history_days": 4
+    },
+    {
+      "iteration": 2,
+      "matched": 2,
+      "total": 82,
+      "history_days": 4
     }
   ],
   "eval": {
-    "iterations": 1,
-    "best_score": 1.1038
+    "iterations": 2,
+    "best_score": 0.0
   },
   "worst_open_positions": [
     {
@@ -54,6 +60,5 @@
     "sharpe_ratio": 1.8569809173512375,
     "max_drawdown": 2.3871178211559907,
     "win_rate": 0.4
-  },
-  "observer_notes": "****\n- The research module only matched 12 of 83 candidates over the last 3 days, indicating a narrow filter that omitted sectors now showing weakness (e.g., semiconductors and telecom).  \n- Open positions in INTC (\u201111.82\u202f% unrealized) and the closed loss on NVDA (\u20116.19\u202f% P&L) flag semiconductor exposure as a risk that the current watchlist (A, CSCO, DHR, FAST, MA, V) did not capture.  \n- The closed loss on T (\u201112.69\u202f% P&L) highlights telecom as another sector the research module ignored; verify whether telecom fundamentals have deteriorated and consider adding a telecom filter.  \n- MO\u2019s modest loss (\u20112.2\u202f%) suggests the tobacco sector may be under\u2011weighted in the research output; assess whether any macro\u2011risk signals (e.g., regulatory) are being missed.  \n- Given the low match rate, expand the research horizon beyond the current watchlist to include additional high\u2011beta sectors (semiconductors, telecom) while still monitoring the strong performers already suggested (MA, V).  \n\n**"
+  }
 }
