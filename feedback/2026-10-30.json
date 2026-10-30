@@ -1,0 +1,70 @@
+{
+  "date": "2026-10-30",
+  "research_usage": [
+    {
+      "iteration": 1,
+      "matched": 32,
+      "total": 82,
+      "history_days": 4
+    },
+    {
+      "iteration": 2,
+      "matched": 20,
+      "total": 82,
+      "history_days": 4
+    },
+    {
+      "iteration": 3,
+      "matched": 10,
+      "total": 82,
+      "history_days": 4
+    }
+  ],
+  "eval": {
+    "iterations": 3,
+    "best_score": 0.0
+  },
+  "worst_open_positions": [
+    {
+      "symbol": "PANW",
+      "unrealized_pnl": -21.8118,
+      "pnl_pct": -5.42
+    },
+    {
+      "symbol": "TSLA",
+      "unrealized_pnl": -7.17,
+      "pnl_pct": -1.75
+    },
+    {
+      "symbol": "ADP",
+      "unrealized_pnl": -3.0989,
+      "pnl_pct": -1.07
+    }
+  ],
+  "worst_closed_trades": [
+    {
+      "symbol": "NOW",
+      "entry_date": "2026-10-23",
+      "pnl": -109.33,
+      "pnl_pct": -23.3
+    },
+    {
+      "symbol": "ACN",
+      "entry_date": "2026-10-23",
+      "pnl": -19.64,
+      "pnl_pct": -7.79
+    },
+    {
+      "symbol": "CRM",
+      "entry_date": "2026-10-28",
+      "pnl": -16.84,
+      "pnl_pct": -3.54
+    }
+  ],
+  "paper_stats": {
+    "total_return": 0.07349491877955039,
+    "sharpe_ratio": 1.8569809173512375,
+    "max_drawdown": 2.3871178211559907,
+    "win_rate": 0.4
+  }
+}
