@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-10-31",
+  "watchlist": [
+    {"symbol":"MO","thesis":"Altria is the strongest current composite candidate, combining an 83 StockLens composite with 87 technical strength and defensive macro support while remaining highly liquid."},
+    {"symbol":"REGN","thesis":"Regeneron combines a 78 composite with an 88 technical score and a fresh October 30 earnings beat, 36% revenue growth and raised collaboration catalyst."},
+    {"symbol":"ROP","thesis":"Roper has the highest technical score in the current technology screen at 89, with a 78 composite and fresh Q3 results that supported higher full-year guidance."},
+    {"symbol":"MRSH","thesis":"Marsh offers strong financial-sector momentum with an 87 technical score, 71 composite and recent Q3 revenue and adjusted EPS growth."},
+    {"symbol":"PGR","thesis":"Progressive provides strong insurance momentum with an 85 technical score and 71 composite, offering diversification away from the technology selloff."},
+    {"symbol":"ALL","thesis":"Allstate combines a 76 composite with strong fundamentals and improving financial-sector positioning, making it a defensive financials candidate."},
+    {"symbol":"RSG","thesis":"Republic Services has a 79 composite, 86 technical score and strong fundamentals, providing liquid defensive industrial exposure."},
+    {"symbol":"CTAS","thesis":"Cintas combines a 75 composite with an 81 technical score and strong fundamentals, offering a clean industrial trend with less technology sensitivity."},
+    {"symbol":"UNP","thesis":"Union Pacific has a 77 composite and solid fundamentals with a 77 technical score, offering liquid industrial momentum and sector diversification."},
+    {"symbol":"HLT","thesis":"Hilton leads the current consumer-cyclical technical screen with an 88 score and 75 composite, giving the watchlist a liquid travel-sector momentum setup."},
+    {"symbol":"EBAY","thesis":"eBay combines a 75 composite with an 85 technical score and high liquidity, although elevated risk requires tighter confirmation before entry."},
+    {"symbol":"CL","thesis":"Colgate-Palmolive has a 77 composite and 83 technical score, supported by October 30 results showing 4.6% sales growth and raised 2026 margin and EPS guidance."},
+    {"symbol":"MNST","thesis":"Monster Beverage retains a 76 composite and 77 technical score with high liquidity, providing defensive consumer momentum during a risk-off technology backdrop."},
+    {"symbol":"DHR","thesis":"Danaher combines a 72 composite with a 72 technical score and solid fundamentals, while its October 30 Massive bar confirms active, liquid trading."},
+    {"symbol":"GEHC","thesis":"GE HealthCare has a 76 composite and strong sentiment with a 70 technical score, offering healthcare diversification and a liquid setup."},
+    {"symbol":"VEEV","thesis":"Veeva combines a 76 composite with an 86 technical score and strong fundamentals, but should be treated selectively while software remains under pressure."},
+    {"symbol":"APH","thesis":"Amphenol retains a 78 composite and strong fundamentals after another record quarter, with October 28 results showing 65% sales growth and a 1.19 book-to-bill ratio."},
+    {"symbol":"SYY","thesis":"Sysco combines a 77 composite and strong fundamentals with high liquidity, providing defensive consumer exposure despite only moderate technical strength."}
+  ],
+  "sector_notes":"Friday October 30 produced a broad risk-off session: the Nasdaq fell 2.86% and the S&P 500 1.82% as AI-spending and technology earnings concerns intensified, with technology and communication services leading the weakness. Energy was a relative bright spot after Exxon and Chevron beat profit expectations, while financials, healthcare, consumer defensives and selected industrials provide more resilient diversification. The preferred stance is selective momentum rather than aggressive technology exposure, with extra caution around semiconductor and software names after the October selloff.",
+  "earnings_flags": [],
+  "universe_suggestions":["MO","REGN","ROP","MRSH","PGR","ALL","RSG","CTAS","UNP","HLT","EBAY","CL","MNST","DHR","GEHC","VEEV","APH","SYY","COP","EOG","LNG","DVN","TRGP","VG","FANG","EPD","KMI","AJG","CME","NDAQ","ICE","ACGL","DE","DAL","SUNB","UAL","FDX","ITW","PAYX","NXPI","MCHP","ADP","ZS","MSTR","CRM","ACN","PG","CSCO","SPG","SPOT","NUE","PFE","BIIB","VRTX","NTRA","CAH","TEVA","TGT","MDLZ","KDP","EL"],
+  "avoid":[
+    {"symbol":"EOG","reason":"Strong energy momentum is attractive, but the next earnings event is too close to the intended swing horizon and the date could not be verified from an authoritative company source in this run."},
+    {"symbol":"COP","reason":"Strong technical energy setup but an estimated November 5 earnings event creates immediate gap risk that is not sufficiently verified by an authoritative company source."},
+    {"symbol":"LNG","reason":"Strong technical and composite readings are offset by elevated energy/geopolitical event risk and insufficiently verified near-term earnings timing."},
+    {"symbol":"ACN","reason":"Despite a strong current StockLens composite, recent feedback shows a material realized loss and the technology-sector risk-off regime weakens the immediate swing thesis."},
+    {"symbol":"NOW","reason":"Recent feedback identifies a large realized loss, while the current technology-sector selloff increases the probability of unstable continuation setups."},
+    {"symbol":"CRM","reason":"Current technology-sector weakness and recent feedback showing a realized loss make the setup less attractive despite strong fundamentals."},
+    {"symbol":"PANW","reason":"Recent feedback shows the largest current unrealized loss among open positions, so the thesis requires revalidation before another swing allocation."},
+    {"symbol":"INTC","reason":"The October 30 earnings shock and roughly 29% one-day collapse demonstrate extreme event and semiconductor execution risk."},
+    {"symbol":"ZS","reason":"The 86 technical score conflicts with a low 48 composite and weak fundamental and macro scores, producing contradictory evidence."},
+    {"symbol":"MSTR","reason":"The current composite is only 38 despite high trading volume, and its crypto sensitivity adds unacceptable risk during the broader risk-off move."},
+    {"symbol":"BIIB","reason":"Technical strength is contradicted by a 52 composite and very weak fundamental score, so the setup lacks balanced evidence."},
+    {"symbol":"MRNA","reason":"The current composite is only 30 despite technical strength, indicating severe fundamental and sentiment contradiction."},
+    {"symbol":"DE","reason":"The technical score is strong but the composite is only 51 because of very weak fundamentals, making the setup insufficiently balanced."},
+    {"symbol":"KDP","reason":"The 88 technical score is attractive, but the 68 composite and weak fundamental score reduce confidence in continuation quality."},
+    {"symbol":"EL","reason":"The 87 technical score is contradicted by a 56 composite and weak fundamentals, so the apparent momentum is not sufficiently supported."}
+  ]
+}
