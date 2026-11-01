@@ -1,0 +1,39 @@
+{
+  "generated_at": "2026-11-01",
+  "watchlist": [
+    {"symbol":"MO","thesis":"High composite and technical strength with defensive macro support make Altria a strong liquid momentum candidate while the broader market remains risk-off."},
+    {"symbol":"REGN","thesis":"Strong technical structure is supported by a fresh Q3 earnings beat, 36% revenue growth and an expanded Sanofi collaboration catalyst."},
+    {"symbol":"ROP","thesis":"Roper combines the strongest current technical reading in the screened large-cap set with solid fundamentals and a diversified software/business-services profile."},
+    {"symbol":"RSG","thesis":"Republic Services offers strong technical and composite strength with defensive industrial exposure and fresh Q3 results supporting the setup."},
+    {"symbol":"CL","thesis":"Colgate combines strong technical strength with defensive macro support and fresh Q3 sales and EPS growth, reducing sensitivity to the technology selloff."},
+    {"symbol":"APH","thesis":"Amphenol retains strong composite quality after record Q3 sales, EPS, orders and book-to-bill, although its technology exposure warrants selective sizing."},
+    {"symbol":"HLT","thesis":"Hilton shows strong technical and composite readings with resilient travel demand and a near-term Nasdaq listing change that may increase trading attention."},
+    {"symbol":"MRSH","thesis":"Marsh combines strong technical and risk scores with liquid financial-sector exposure, although recent insider selling is a sentiment headwind."},
+    {"symbol":"PGR","thesis":"Progressive has strong technical and risk readings with improving volume flow and solid insurance fundamentals, offset by insider-selling sentiment."},
+    {"symbol":"SPOT","thesis":"Spotify combines strong fundamentals, risk posture and composite strength with improving technical structure, but remains sensitive to broader growth-stock volatility."},
+    {"symbol":"ECL","thesis":"Ecolab has strong technical, risk and sentiment readings with resilient operating growth, while its lower fundamental score argues for selective confirmation."},
+    {"symbol":"CTAS","thesis":"Cintas offers strong fundamentals, technical structure and risk quality with lower technology sensitivity, though macro and sentiment readings are weaker."},
+    {"symbol":"UNP","thesis":"Union Pacific provides strong fundamentals and risk quality with bullish technical structure, adding diversified industrial momentum to the watchlist."},
+    {"symbol":"MNST","thesis":"Monster Beverage combines solid composite, technical and risk readings with strong macro support, offering defensive consumer momentum in a volatile tape."},
+    {"symbol":"DHR","thesis":"Danaher provides healthcare diversification with bullish technical and macro readings and strong balance-sheet risk quality, despite softer sentiment."}
+  ],
+  "sector_notes":"The latest U.S. session was strongly risk-off: the Nasdaq fell 2.84% on October 30 and the S&P 500 fell 1.80% as AI-spending and technology-earnings concerns intensified. Energy and several non-technology groups showed better relative resilience, while healthcare, consumer defensives, financials and selected industrials offer cleaner diversification. The coming week adds U.S. midterm-election uncertainty and a heavy macro/earnings calendar, so the preferred stance is selective momentum rather than aggressive technology exposure.",
+  "earnings_flags":[
+    {"symbol":"SPG","date":"2026-11-05","note":"Simon Property Group has officially scheduled its Q3 2026 earnings release after market close on November 5, creating near-term gap risk for any swing setup."}
+  ],
+  "universe_suggestions":["MO","REGN","ROP","RSG","CL","APH","HLT","MRSH","PGR","SPOT","ECL","CTAS","UNP","MNST","DHR","GEHC","SYY","PG","CSCO","PM","KO","PFE","VRTX","NTRA","CAH","MDT","EW","ABT","AJG","TRV","ACGL","CME","NDAQ","ICE","CB","V","MA","DE","ITW","PAYX","FDX","DAL","UAL","FAST","EMR","COP","EOG","LNG","KMI","TRGP","FANG","EPD","DVN","NUE","SPG","CRM","ACN","ADP","ZS","TEAM","MSTR"],
+  "avoid":[
+    {"symbol":"ACN","reason":"Recent feedback records a material realized loss, while the current technology-sector selloff weakens the immediate swing thesis despite strong StockLens scores."},
+    {"symbol":"CRM","reason":"Technology-sector weakness and recent feedback showing a realized loss reduce the attractiveness of the current setup despite strong fundamentals."},
+    {"symbol":"NOW","reason":"Recent feedback records a large realized loss, while the current technology selloff increases continuation and gap risk."},
+    {"symbol":"PANW","reason":"Recent feedback shows the largest current unrealized loss among the reviewed open positions, so the thesis requires revalidation before another swing allocation."},
+    {"symbol":"EOG","reason":"Strong energy momentum is offset by near-term earnings/event risk; the setup is better revisited after the event window is cleared and the date is revalidated."},
+    {"symbol":"COP","reason":"Strong technical energy characteristics are offset by near-term earnings and oil/geopolitical gap risk for a short swing horizon."},
+    {"symbol":"SPG","reason":"Strong composite quality is outweighed by officially scheduled Q3 earnings after the close on November 5, creating immediate gap risk."},
+    {"symbol":"KDP","reason":"Very strong technical strength is contradicted by a materially weaker composite and fundamental score, creating mixed evidence."},
+    {"symbol":"BIIB","reason":"Technical strength is contradicted by weak composite and fundamental scores, so the setup lacks balanced evidence."},
+    {"symbol":"APD","reason":"Technical strength is contradicted by a very weak composite and fundamental score, making continuation evidence insufficient."},
+    {"symbol":"MSTR","reason":"Low composite quality and high crypto sensitivity make the setup unsuitable for the current risk-off environment despite high liquidity."},
+    {"symbol":"DE","reason":"Strong technical characteristics are offset by a weak composite and fundamental profile, producing insufficiently balanced evidence."}
+  ]
+}
