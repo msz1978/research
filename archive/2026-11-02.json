@@ -1,0 +1,187 @@
+{
+  "generated_at": "2026-11-02",
+  "watchlist": [
+    {
+      "symbol": "MO",
+      "thesis": "Strong current composite and technical readings with defensive macro support make Altria a liquid momentum candidate while the broader tape remains selective."
+    },
+    {
+      "symbol": "LLY",
+      "thesis": "Fresh Q3 results delivered strong revenue and EPS growth with raised 2026 guidance, while current technical strength remains among the strongest in the screened universe."
+    },
+    {
+      "symbol": "ROP",
+      "thesis": "Roper combines very strong technical structure with a recent earnings beat, raised guidance and strong recurring-software exposure, although the move is already extended."
+    },
+    {
+      "symbol": "REGN",
+      "thesis": "Fresh Q3 results showed 36% revenue growth and 70% non-GAAP EPS growth, with additional Sanofi and pipeline catalysts supporting the technical setup."
+    },
+    {
+      "symbol": "RSG",
+      "thesis": "Republic Services offers strong technical and composite quality with defensive industrial exposure and recently reported results that support the operating thesis."
+    },
+    {
+      "symbol": "APH",
+      "thesis": "Amphenol retains strong composite quality after strong Q3 operating results, providing liquid industrial-technology momentum with less dependence on speculative AI names."
+    },
+    {
+      "symbol": "SPOT",
+      "thesis": "Spotify combines strong fundamentals and improving technical structure with liquid momentum, but remains sensitive to renewed growth-stock volatility."
+    },
+    {
+      "symbol": "HLT",
+      "thesis": "Hilton shows strong technical and composite characteristics and offers diversified consumer exposure as investors rotate away from concentrated AI risk."
+    },
+    {
+      "symbol": "MRSH",
+      "thesis": "Marsh has strong technical and risk characteristics with liquid financial-sector exposure, although recent insider selling is a sentiment headwind."
+    },
+    {
+      "symbol": "PGR",
+      "thesis": "Progressive combines solid technical structure, strong risk quality and liquid insurance exposure, providing a defensive financial-sector momentum alternative."
+    },
+    {
+      "symbol": "CL",
+      "thesis": "Colgate offers defensive consumer momentum with strong technical characteristics and lower sensitivity to the technology-led October drawdown."
+    },
+    {
+      "symbol": "CTAS",
+      "thesis": "Cintas provides high-quality industrial momentum with strong fundamentals and technical structure, adding diversification from healthcare and consumer defensives."
+    },
+    {
+      "symbol": "UNP",
+      "thesis": "Union Pacific adds liquid industrial exposure with strong fundamentals and technical structure while avoiding the highest-risk technology concentration."
+    },
+    {
+      "symbol": "MNST",
+      "thesis": "Monster Beverage combines solid composite and technical characteristics with defensive consumer exposure and supportive macro positioning."
+    },
+    {
+      "symbol": "DHR",
+      "thesis": "Danaher provides healthcare diversification with strong technical and macro characteristics and a high-quality risk profile despite softer sentiment."
+    }
+  ],
+  "sector_notes": "U.S. equities opened higher on November 2 as technology and AI-linked shares stabilized and falling oil prices improved risk appetite, but the backdrop remains fragile after Friday's sharp technology-led selloff. Healthcare, consumer defensives, selected financials and industrials offer cleaner diversification than the most crowded AI exposures, while energy remains volatile as oil prices fall on Middle East de-escalation hopes. The preferred stance is selective momentum rather than broad risk-on positioning, with event risk and the November 3 U.S. midterm election adding uncertainty.",
+  "earnings_flags": [
+    {
+      "symbol": "EOG",
+      "date": "2026-11-06",
+      "note": "EOG has an official investor-relations notice for its Q3 2026 results and conference call on November 6; the event creates immediate earnings-gap risk for a swing position."
+    }
+  ],
+  "universe_suggestions": [
+    "MO",
+    "LLY",
+    "ROP",
+    "REGN",
+    "RSG",
+    "APH",
+    "SPOT",
+    "HLT",
+    "MRSH",
+    "PGR",
+    "CL",
+    "CTAS",
+    "UNP",
+    "MNST",
+    "DHR",
+    "PM",
+    "PG",
+    "KO",
+    "CSCO",
+    "GEHC",
+    "SYY",
+    "PFE",
+    "VRTX",
+    "NTRA",
+    "CAH",
+    "MDT",
+    "EW",
+    "ABT",
+    "AJG",
+    "TRV",
+    "ACGL",
+    "CME",
+    "NDAQ",
+    "ICE",
+    "CB",
+    "V",
+    "MA",
+    "DE",
+    "ITW",
+    "PAYX",
+    "FDX",
+    "DAL",
+    "UAL",
+    "FAST",
+    "EMR",
+    "COP",
+    "EOG",
+    "LNG",
+    "KMI",
+    "TRGP",
+    "FANG",
+    "EPD",
+    "DVN",
+    "NUE",
+    "SPG",
+    "CRM",
+    "ACN",
+    "ADP",
+    "ZS",
+    "TEAM",
+    "MSTR"
+  ],
+  "avoid": [
+    {
+      "symbol": "ACN",
+      "reason": "Recent feedback records a material realized loss, while the technology-sector drawdown weakens the immediate swing thesis despite strong technical characteristics."
+    },
+    {
+      "symbol": "CRM",
+      "reason": "Technology-sector weakness and recent feedback showing a realized loss reduce the attractiveness of the current setup despite strong fundamentals."
+    },
+    {
+      "symbol": "NOW",
+      "reason": "Recent feedback records a large realized loss, while the current technology environment increases continuation and gap risk."
+    },
+    {
+      "symbol": "PANW",
+      "reason": "Recent feedback shows a material unrealized loss, so the thesis requires revalidation before another swing allocation."
+    },
+    {
+      "symbol": "EOG",
+      "reason": "Energy momentum is strong, but the officially scheduled November 6 earnings event creates near-term gap risk for a short swing horizon."
+    },
+    {
+      "symbol": "COP",
+      "reason": "Strong technical energy characteristics are offset by elevated oil and geopolitical volatility and near-term event risk."
+    },
+    {
+      "symbol": "SPG",
+      "reason": "Strong composite quality is outweighed by the near-term Q3 earnings event, which creates material gap risk."
+    },
+    {
+      "symbol": "KDP",
+      "reason": "Very strong technical strength is contradicted by materially weaker composite and fundamental readings, creating mixed evidence."
+    },
+    {
+      "symbol": "BIIB",
+      "reason": "Technical strength is contradicted by weak composite and fundamental readings, so the setup lacks balanced evidence."
+    },
+    {
+      "symbol": "APD",
+      "reason": "Technical strength is contradicted by very weak composite and fundamental readings, making continuation evidence insufficient."
+    },
+    {
+      "symbol": "MSTR",
+      "reason": "Low composite quality and high crypto sensitivity make the setup unsuitable for the current selective-risk environment despite liquidity."
+    },
+    {
+      "symbol": "DE",
+      "reason": "Strong technical characteristics are offset by weaker composite and fundamental readings, producing insufficiently balanced evidence."
+    }
+  ],
+  "fetched_at": "2026-11-02T22:00:46.571667+00:00"
+}
