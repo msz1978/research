@@ -1,0 +1,71 @@
+{
+  "date": "2026-11-03",
+  "research_usage": [
+    {
+      "iteration": 1,
+      "matched": 69,
+      "total": 82,
+      "history_days": 7
+    },
+    {
+      "iteration": 2,
+      "matched": 0,
+      "total": 82,
+      "history_days": 7
+    },
+    {
+      "iteration": 3,
+      "matched": 34,
+      "total": 82,
+      "history_days": 7
+    }
+  ],
+  "eval": {
+    "iterations": 3,
+    "best_score": 0.3878
+  },
+  "worst_open_positions": [
+    {
+      "symbol": "UNH",
+      "unrealized_pnl": -13.905,
+      "pnl_pct": -3.36
+    },
+    {
+      "symbol": "XOM",
+      "unrealized_pnl": -7.9872,
+      "pnl_pct": -2.17
+    },
+    {
+      "symbol": "CVX",
+      "unrealized_pnl": -8.3235,
+      "pnl_pct": -1.79
+    }
+  ],
+  "worst_closed_trades": [
+    {
+      "symbol": "NOW",
+      "entry_date": "2026-10-29",
+      "pnl": -35.86,
+      "pnl_pct": -9.92
+    },
+    {
+      "symbol": "QCOM",
+      "entry_date": "2026-10-29",
+      "pnl": -31.26,
+      "pnl_pct": -8.63
+    },
+    {
+      "symbol": "ADP",
+      "entry_date": "2026-10-26",
+      "pnl": -16.79,
+      "pnl_pct": -5.51
+    }
+  ],
+  "paper_stats": {
+    "total_return": 0.07349491877955039,
+    "sharpe_ratio": 1.8569809173512375,
+    "max_drawdown": 2.3871178211559907,
+    "win_rate": 0.4
+  },
+  "observer_notes": "- The second research\u2011usage entry returned **0 matches** out of 82 candidates (7\u2011day history). Investigate data\u2011feed integrity or filter thresholds that caused a complete miss.\n- Across the three usage logs the watchlist is repeatedly limited to 15 symbols, heavily weighted toward **healthcare (e.g., APH, DHR, LLY, HLT, UNH)** and **consumer staples (CL, MO)**. Verify whether sector concentration is intentional or if broader diversification is needed.\n- Many universe\u2011suggested tickers (e.g., **ABT, ACGL, ADP, CME, GEHC, ICE, KMI, MA, MDT, NDAQ, PAYX, PFE, PG, TRGP, V, VRTX, ZS**) never appear in the watchlist and were not matched. Flag these for a secondary review to ensure promising candidates aren\u2019t being ignored.\n- The worst open positions are in **energy (XOM, CVX)** and **healthcare (UNH)**, while the worst closed trades are in **technology/software (NOW, QCOM, ADP)**. Consider adding sector\u2011risk filters for energy and high\u2011beta tech stocks in tomorrow\u2019s candidate selection.\n- Tomorrow\u2019s research pass should explicitly **exclude stocks with recent >\u20113\u202f% unrealized loss** (UNH, XOM, CVX) and **review any high\u2011volatility tech names** that generated large negative closes (NOW, QCOM, ADP)."
+}
