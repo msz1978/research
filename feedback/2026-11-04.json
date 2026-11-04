@@ -1,0 +1,71 @@
+{
+  "date": "2026-11-04",
+  "research_usage": [
+    {
+      "iteration": 1,
+      "matched": 0,
+      "total": 82,
+      "history_days": 7
+    },
+    {
+      "iteration": 2,
+      "matched": 0,
+      "total": 82,
+      "history_days": 7
+    },
+    {
+      "iteration": 3,
+      "matched": 0,
+      "total": 82,
+      "history_days": 7
+    }
+  ],
+  "eval": {
+    "iterations": 3,
+    "best_score": 0.3915
+  },
+  "worst_open_positions": [
+    {
+      "symbol": "TSLA",
+      "unrealized_pnl": -8.19,
+      "pnl_pct": -2.02
+    },
+    {
+      "symbol": "CVX",
+      "unrealized_pnl": -7.5578,
+      "pnl_pct": -1.65
+    },
+    {
+      "symbol": "WMT",
+      "unrealized_pnl": -5.97,
+      "pnl_pct": -1.57
+    }
+  ],
+  "worst_closed_trades": [
+    {
+      "symbol": "NOW",
+      "entry_date": "2026-10-23",
+      "pnl": -109.33,
+      "pnl_pct": -23.3
+    },
+    {
+      "symbol": "AAPL",
+      "entry_date": "2026-10-28",
+      "pnl": -22.2,
+      "pnl_pct": -6.39
+    },
+    {
+      "symbol": "PANW",
+      "entry_date": "2026-10-28",
+      "pnl": -20.53,
+      "pnl_pct": -5.1
+    }
+  ],
+  "paper_stats": {
+    "total_return": 0.07349491877955039,
+    "sharpe_ratio": 1.8569809173512375,
+    "max_drawdown": 2.3871178211559907,
+    "win_rate": 0.4
+  },
+  "observer_notes": "- The external research module returned **0 matches out of 82 candidates** for each of the three recent windows, indicating a complete lack of actionable signals despite a sizable candidate pool.  \n- Open positions with the largest unrealized losses are **TSLA (\u20112.02\u202f%), CVX (\u20111.65\u202f%), and WMT (\u20111.57\u202f%)** \u2013 sectors (EV/auto, energy, consumer staples) that may be under\u2011represented or flagged by the research filter.  \n- Closed losing trades cluster in **technology\u2011focused names** (NOW, AAPL, PANW) with drawdowns ranging from \u20115\u202f% to \u201123\u202f%; verify whether the research model is correctly weighting recent earnings, macro\u2011tech risk, or sector momentum for these stocks.  \n- Given the zero\u2011match outcome, consider expanding the research criteria (e.g., lower the relevance threshold or include alternative data sources) to avoid missing candidates that the bot is currently selecting without external validation."
+}
