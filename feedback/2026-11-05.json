@@ -1,0 +1,66 @@
+{
+  "date": "2026-11-05",
+  "research_usage": [
+    {
+      "iteration": 1,
+      "matched": 7,
+      "total": 102,
+      "history_days": 8
+    },
+    {
+      "iteration": 2,
+      "matched": 7,
+      "total": 102,
+      "history_days": 8
+    },
+    {
+      "iteration": 3,
+      "matched": 7,
+      "total": 102,
+      "history_days": 8
+    }
+  ],
+  "eval": {
+    "iterations": 3,
+    "best_score": 0.0
+  },
+  "worst_open_positions": [
+    {
+      "symbol": "TSLA",
+      "unrealized_pnl": -20.6755,
+      "pnl_pct": -5.09
+    },
+    {
+      "symbol": "CVX",
+      "unrealized_pnl": -19.453,
+      "pnl_pct": -4.29
+    }
+  ],
+  "worst_closed_trades": [
+    {
+      "symbol": "NOW",
+      "entry_date": "2026-10-29",
+      "pnl": -35.86,
+      "pnl_pct": -9.92
+    },
+    {
+      "symbol": "QCOM",
+      "entry_date": "2026-10-29",
+      "pnl": -31.26,
+      "pnl_pct": -8.63
+    },
+    {
+      "symbol": "UNH",
+      "entry_date": "2026-10-29",
+      "pnl": -16.87,
+      "pnl_pct": -4.07
+    }
+  ],
+  "paper_stats": {
+    "total_return": 0.07349491877955039,
+    "sharpe_ratio": 1.8569809173512375,
+    "max_drawdown": 2.3871178211559907,
+    "win_rate": 0.4
+  },
+  "observer_notes": "- The module produced 102 candidate symbols but only 7 matched the bot\u2019s criteria, indicating a high false\u2011positive rate that should be tightened.  \n- The watchlist contains only \u201cV,\u201d yet the suggestions are dominated by large\u2011cap tech names (AMZN, GOOGL, MSFT, NVDA) plus a financial ticker, creating sector concentration risk.  \n- All three worst closed trades (NOW, QCOM, UNH) were entered on the same day, suggesting the research filter missed a negative macro/sector signal; add a check for adverse market or earnings news on entry dates.  \n- The worst open positions (TSLA \u20135.09% and CVX \u20134.29%) highlight that high\u2011volatility or energy\u2011sector stocks lacked adequate risk screening; consider adding volatility\u2011adjusted or sector\u2011trend filters.  \n- Verify that any candidate from the energy sector (e.g., CVX) passes a liquidity and price\u2011trend filter before being forwarded to the planner."
+}
