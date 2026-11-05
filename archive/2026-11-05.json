@@ -1,0 +1,268 @@
+{
+  "generated_at": "2026-11-05",
+  "watchlist": [
+    {
+      "symbol": "GWW",
+      "thesis": "Q3 sales grew 11.3%, adjusted EPS rose 22.8% and FY26 guidance was raised; the 9.6% three-session advance and 1.5x prior-session volume confirm strong post-earnings demand, although the move is extended."
+    },
+    {
+      "symbol": "EMR",
+      "thesis": "Q4 underlying sales and orders grew 7% and 14%, respectively, with margin expansion; a 3.3% three-session rise and 1.3x volume show relative strength despite a weak industrial ETF."
+    },
+    {
+      "symbol": "ITW",
+      "thesis": "Q3 organic growth of 4%, margin expansion and raised FY26 guidance align with a 5.4% three-session gain and improving stock-specific momentum."
+    },
+    {
+      "symbol": "WAB",
+      "thesis": "Q3 sales grew 8.1%, adjusted EPS rose 22% and 2026 guidance was raised; the 5.5% three-session advance supports a continuing industrial trend with adequate dollar liquidity."
+    },
+    {
+      "symbol": "ECL",
+      "thesis": "Q3 performance and improved full-year margin and EPS outlook are supported by a 4.0% three-session rise and 2.2x prior-session volume, indicating renewed participation."
+    },
+    {
+      "symbol": "V",
+      "thesis": "Post-earnings relative strength is supported by a 5.6% three-session advance and 1.75x prior-session volume as financials lead the current rotation."
+    },
+    {
+      "symbol": "MA",
+      "thesis": "Q3 revenue and value-added services growth align with a 5.4% three-session advance and 1.43x volume as payment networks benefit from resilient transaction activity."
+    },
+    {
+      "symbol": "MSCI",
+      "thesis": "An 8.2% three-session advance, 5.4% daily gain and 1.5x volume show strong relative momentum within a strengthening financial-services group."
+    },
+    {
+      "symbol": "ACGL",
+      "thesis": "Post-Q3 price action has advanced 4.1% over three sessions with steady volume, offering liquid insurance-sector exposure while financials outperform the broader market."
+    },
+    {
+      "symbol": "AMGN",
+      "thesis": "Q3 revenue and adjusted EPS grew 8% and 14%, with a higher 2026 outlook; a 3.7% daily rise and nearly 2x volume support a positive post-earnings continuation setup."
+    },
+    {
+      "symbol": "MDT",
+      "thesis": "An 8.7% three-session advance with 1.7x prior-session volume shows strong healthcare-device momentum, while the next confirmed earnings date is outside the 14-day horizon."
+    },
+    {
+      "symbol": "CL",
+      "thesis": "Q3 organic sales and adjusted EPS grew 3.6% and 7%, with higher full-year margin and EPS guidance; a 3.6% three-session rise tracks the defensive-consumer bid."
+    },
+    {
+      "symbol": "PG",
+      "thesis": "Q1 FY27 organic sales rose 4%, and a 3.6% three-session advance with 1.3x volume confirms defensive-consumer participation, although EPS growth remains modest."
+    },
+    {
+      "symbol": "MDLZ",
+      "thesis": "A Q3 adjusted-profit beat, improving product volumes and a 3.8% three-session advance with 1.3x volume support a recovery setup, with consumer demand still a risk."
+    },
+    {
+      "symbol": "SPOT",
+      "thesis": "Recent subscriber growth and Q4 user guidance above expectations accompany a 5.8% three-session gain and 1.7x volume, showing renewed momentum despite an EPS shortfall."
+    },
+    {
+      "symbol": "ROP",
+      "thesis": "Strong technical leadership and a 5.5% three-session gain with 1.45x volume show stock-specific relative strength despite weakness across the wider technology sector."
+    },
+    {
+      "symbol": "SN",
+      "thesis": "Q3 sales rose 21.2%, gross margin expanded and FY26 guidance was raised; a 5.4% three-session advance supports momentum, but lower volume than the prior session warrants confirmation."
+    }
+  ],
+  "sector_notes": "On 4 November, breadth improved (SPY +1.65%, DIA +3.10%, IWM +1.51%, QQQ +0.97%), but leadership was uneven and mega-cap names accounted for a large share of the S&P 500 advance. Financials, consumer discretionary, communication services, staples and healthcare led, while energy fell 4.74%, technology was flat and industrials declined 1.09%; over three sessions XLE was down 9.28% and XLK 1.68%, versus XLF +4.76% and XLY +6.02%. This is a rotation and dispersion regime rather than broad risk-on: favor liquid financials, selected industrials, healthcare and defensive consumer names, while avoiding energy and semiconductor/AI-infrastructure exposure until relative strength stabilizes.",
+  "earnings_flags": [
+    {
+      "symbol": "COP",
+      "date": "2026-11-05",
+      "note": "Q3 results were scheduled for release before the U.S. market open; wait for regular-session post-release price and volume confirmation."
+    },
+    {
+      "symbol": "ED",
+      "date": "2026-11-05",
+      "note": "Con Edison is scheduled to report Q3 2026 results after the market close; immediate overnight gap risk."
+    },
+    {
+      "symbol": "MNST",
+      "date": "2026-11-05",
+      "note": "Monster Beverage is scheduled to release Q3 2026 results after the market close; material post-market gap risk."
+    },
+    {
+      "symbol": "SPG",
+      "date": "2026-11-05",
+      "note": "Simon Property Group's Q3 2026 earnings conference call is scheduled for 5:00 p.m. ET; avoid unreviewed overnight exposure."
+    },
+    {
+      "symbol": "EOG",
+      "date": "2026-11-06",
+      "note": "EOG Resources' Q3 2026 results conference call is scheduled for 10:00 a.m. ET; event risk is elevated alongside energy-sector weakness."
+    },
+    {
+      "symbol": "TGT",
+      "date": "2026-11-18",
+      "note": "Target's Q3 2026 earnings conference call is scheduled for 8:00 a.m. ET, within the 14-day holding horizon; release timing was not stated on the IR event listing."
+    }
+  ],
+  "universe_suggestions": [
+    "NVDA",
+    "MU",
+    "MSFT",
+    "AMZN",
+    "META",
+    "GOOGL",
+    "ORCL",
+    "AVGO",
+    "LLY",
+    "V",
+    "JPM",
+    "CAT",
+    "LRCX",
+    "TXN",
+    "MA",
+    "CSCO",
+    "AMAT",
+    "HD",
+    "COST",
+    "JNJ",
+    "GS",
+    "KO",
+    "ABBV",
+    "VST",
+    "BAC",
+    "NEE",
+    "KLAC",
+    "PG",
+    "ISRG",
+    "AMGN",
+    "GE",
+    "ETN",
+    "C",
+    "LMT",
+    "SPOT",
+    "WFC",
+    "SO",
+    "PEP",
+    "CEG",
+    "APH",
+    "BSX",
+    "GWW",
+    "EMR",
+    "ITW",
+    "WAB",
+    "ECL",
+    "MSCI",
+    "ACGL",
+    "MDT",
+    "CL",
+    "ROP",
+    "SN",
+    "MDLZ"
+  ],
+  "avoid": [
+    {
+      "symbol": "ED",
+      "reason": "Q3 results are scheduled after the close on 5 November, creating immediate overnight gap risk despite strong technical readings."
+    },
+    {
+      "symbol": "SPG",
+      "reason": "Q3 earnings are scheduled for 5 November after the regular session; wait for the earnings reaction and next-session liquidity confirmation."
+    },
+    {
+      "symbol": "MNST",
+      "reason": "Q3 results are scheduled after the close on 5 November; wait for the earnings reaction before considering a new swing position."
+    },
+    {
+      "symbol": "COP",
+      "reason": "Q3 results are due before the 5 November open, while the energy sector has fallen sharply; wait for post-release regular-session confirmation."
+    },
+    {
+      "symbol": "EOG",
+      "reason": "Q3 results are due on 6 November and energy-sector weakness is severe, creating combined event and trend risk."
+    },
+    {
+      "symbol": "TGT",
+      "reason": "Q3 earnings conference call is scheduled for 18 November, inside the maximum 14-day holding horizon."
+    },
+    {
+      "symbol": "MCK",
+      "reason": "Q2 FY2027 results were released after the 4 November close; the large regular-session advance preceded the release, so post-event price and volume confirmation is still required."
+    },
+    {
+      "symbol": "LNG",
+      "reason": "The stock fell 6.15% on 4 November and 11.59% over three sessions as the energy complex deteriorated."
+    },
+    {
+      "symbol": "XOM",
+      "reason": "The stock fell 4.62% on 4 November and 9.60% over three sessions; recent feedback also identifies an open losing position."
+    },
+    {
+      "symbol": "CVX",
+      "reason": "The stock fell 3.69% on 4 November and 7.88% over three sessions; recent feedback identifies an open losing position and the energy trend remains weak."
+    },
+    {
+      "symbol": "QCOM",
+      "reason": "Premarket trading on 5 November indicated a sharp decline after weak handset sales and a margin outlook pressured by higher memory costs."
+    },
+    {
+      "symbol": "ACN",
+      "reason": "Recent feedback records a material realized loss, and technology-sector weakness reduces the attractiveness of the immediate continuation setup."
+    },
+    {
+      "symbol": "AAPL",
+      "reason": "Recent feedback records a realized loss; despite the 4 November rebound, services-growth and margin concerns argue for a fresh reset before reconsideration."
+    },
+    {
+      "symbol": "NOW",
+      "reason": "Recent feedback records the largest realized loss in the reviewed period, while the stock declined on 4 November; require a fully repaired setup."
+    },
+    {
+      "symbol": "PANW",
+      "reason": "Recent feedback records a material realized loss and the broader technology group remains under pressure."
+    },
+    {
+      "symbol": "ADP",
+      "reason": "Recent feedback records a realized loss; require fresh relative-strength and trend confirmation rather than carrying forward the prior thesis."
+    },
+    {
+      "symbol": "TSLA",
+      "reason": "Recent feedback identifies an open losing position and the stock declined 3.66% over three sessions amid company-specific policy and headline risk."
+    },
+    {
+      "symbol": "WMT",
+      "reason": "Recent feedback identifies an open losing position; revalidate price structure and relative strength before reconsideration."
+    },
+    {
+      "symbol": "CRWD",
+      "reason": "The stock declined 1.50% on 4 November and 3.77% over three sessions while technology-sector momentum weakened."
+    },
+    {
+      "symbol": "MRNA",
+      "reason": "A 16.53% three-session surge is not supported by StockLens composite and fundamental readings; avoid chasing a high-volatility move with weak underlying evidence."
+    },
+    {
+      "symbol": "HLT",
+      "reason": "Q3 revenue missed expectations and management highlighted potential fourth-quarter pressure from geopolitical conditions; the rebound does not yet resolve the guidance risk."
+    },
+    {
+      "symbol": "KDP",
+      "reason": "The latest report highlighted slower U.S. coffee-profit growth and weaker legacy-business expectations; the 5.9% one-day rebound lacked volume expansion."
+    },
+    {
+      "symbol": "CRM",
+      "reason": "The stock remains down 0.90% over three sessions despite the latest daily bounce, leaving momentum weaker than higher-ranked alternatives."
+    },
+    {
+      "symbol": "MO",
+      "reason": "The stock is essentially flat over three sessions and its technical reading is materially weaker than its composite ranking."
+    },
+    {
+      "symbol": "AJG",
+      "reason": "The technical screen is strong, but the composite reading is below the 70-point selection threshold and fundamental evidence is weak."
+    },
+    {
+      "symbol": "BDX",
+      "reason": "The technical screen is strong, but the composite reading is below the 70-point selection threshold and fundamental evidence is weak."
+    }
+  ],
+  "fetched_at": "2026-11-05T14:30:36.318021+00:00"
+}
