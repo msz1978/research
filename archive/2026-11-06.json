@@ -1,0 +1,197 @@
+{
+  "generated_at": "2026-11-06",
+  "watchlist": [
+    {
+      "symbol": "CAH",
+      "thesis": "Q1 FY27 revenue grew 5% and adjusted EPS 28%, with FY27 guidance raised; the 5 November close advanced 2.25% on approximately 3.0M shares, confirming a positive post-results reaction."
+    },
+    {
+      "symbol": "EW",
+      "thesis": "Q3 sales rose 10.5% and adjusted EPS 19%, with 2026 sales and EPS guidance raised; shares gained 1.46% on 5 November with approximately 9.2M shares traded."
+    },
+    {
+      "symbol": "HSY",
+      "thesis": "Q3 sales rose 3% and management lifted its 2026 outlook; the stock gained 1.68% on 5 November and 5.9% over three sessions, showing defensive-consumer relative strength."
+    },
+    {
+      "symbol": "RSG",
+      "thesis": "Shares gained 1.63% on 5 November and 2.7% over three sessions despite the broad selloff, showing resilience in a defensive waste-services business."
+    },
+    {
+      "symbol": "PG",
+      "thesis": "A nearly flat 5 November close and 3.1% three-session gain show defensive relative strength, supported by deep liquidity and a StockLens technical score of 88."
+    },
+    {
+      "symbol": "ACGL",
+      "thesis": "The stock was almost unchanged on 5 November and remains 2.6% higher over three sessions, while its StockLens technical score of 86 supports a relative-strength insurance setup."
+    },
+    {
+      "symbol": "ROP",
+      "thesis": "Technical leadership at 91 and a 3.7% three-session gain kept the stock nearly flat through the 5 November technology rout, making it one of the more resilient software names."
+    },
+    {
+      "symbol": "SN",
+      "thesis": "Q3 sales rose 21.2% and FY26 guidance was raised; despite a 0.97% 5 November pullback, the stock remains 3.1% higher over three sessions."
+    },
+    {
+      "symbol": "FAST",
+      "thesis": "Shares fell only 0.58% on 5 November versus a 4.12% drop in industrials and remain 1.1% higher over three sessions, indicating relative strength in industrial distribution."
+    },
+    {
+      "symbol": "ACN",
+      "thesis": "The stock gained 0.34% on 5 November and 4.2% over three sessions despite an 8.0% technology-sector decline, showing resilient relative strength in IT services."
+    }
+  ],
+  "sector_notes": "On 5 November, SPY fell 4.41%, QQQ 6.49% and IWM 4.59%; 91 of 109 names in the StockLens sector-screen universe declined, confirming broad risk-off breadth. Technology (XLK -8.00%), industrials (XLI -4.12%) and energy (XLE -2.98% on the day and -7.57% over three sessions) were weakest, while consumer staples (XLP -0.75% daily, +2.59% over three sessions), communication services (XLC -0.59%, +2.86%) and healthcare (XLV -2.50%, +0.48%) showed relative resilience. The October employment report showed 165,000 payroll gains versus 65,000 expected and 4.1% unemployment; early futures at 8:31 ET were mixed, with Nasdaq-100 +1.37% and Dow futures -0.96%, so the technology rebound is not yet a broad risk-on signal. Price and volume validation uses the latest completed regular session, 5 November, because the 6 November U.S. cash session had not opened at the time of this run.",
+  "earnings_flags": [
+    {
+      "symbol": "EOG",
+      "date": "2026-11-06",
+      "note": "Q3 results were released after the 5 November close; the company webcast and earnings call are scheduled for 10:00 a.m. ET on 6 November, leaving an active event window."
+    },
+    {
+      "symbol": "DIS",
+      "date": "2026-11-17",
+      "note": "Fiscal full-year and Q4 2026 results are scheduled before the market open, inside the 14-day holding horizon."
+    },
+    {
+      "symbol": "PGR",
+      "date": "2026-11-18",
+      "note": "The October 2026 earnings release is scheduled for 18 November, inside the 14-day holding horizon."
+    }
+  ],
+  "universe_suggestions": [
+    "ACN",
+    "ROP",
+    "MSFT",
+    "WDAY",
+    "MAR",
+    "SN",
+    "EBAY",
+    "HLT",
+    "MO",
+    "HSY",
+    "KDP",
+    "PG",
+    "MDLZ",
+    "CAH",
+    "EW",
+    "AMGN",
+    "REGN",
+    "LLY",
+    "TRV",
+    "ACGL",
+    "MA",
+    "V",
+    "FAST",
+    "CTAS",
+    "RSG",
+    "MMM",
+    "ITW",
+    "SPOT",
+    "CMCSA",
+    "TMUS",
+    "VZ",
+    "AMT",
+    "EXR",
+    "CBRE",
+    "AWK",
+    "DUK",
+    "NEE",
+    "ECL",
+    "NEM",
+    "LIN",
+    "FCX"
+  ],
+  "avoid": [
+    {
+      "symbol": "PGR",
+      "reason": "The October earnings release is scheduled for 18 November, inside the 14-day holding horizon; avoid opening a new swing position before the event."
+    },
+    {
+      "symbol": "DIS",
+      "reason": "Fiscal full-year and Q4 2026 results are scheduled before the open on 17 November, inside the 14-day holding horizon."
+    },
+    {
+      "symbol": "EOG",
+      "reason": "Energy shares remain weak and the Q3 earnings call is scheduled for 10:00 a.m. ET on 6 November; wait for the post-call session reaction."
+    },
+    {
+      "symbol": "ED",
+      "reason": "Q3 results were released after the 5 November close; no regular-session post-earnings price and volume reaction is available yet."
+    },
+    {
+      "symbol": "SPG",
+      "reason": "Q3 results were released on 5 November and the earnings call followed after the close; wait for a full post-event session and volume confirmation."
+    },
+    {
+      "symbol": "MCK",
+      "reason": "The 5 November session ranged from 1,121.50 to 1,072.00 and closed at its low, leaving an unstable setup despite a small positive close-to-close return."
+    },
+    {
+      "symbol": "TSLA",
+      "reason": "Recent feedback identifies an open loss, and the stock fell 10.77% on 5 November and 13.75% over three sessions."
+    },
+    {
+      "symbol": "CVX",
+      "reason": "Recent feedback identifies an open loss, and the stock fell 5.48% over three sessions as energy-sector momentum deteriorated."
+    },
+    {
+      "symbol": "XOM",
+      "reason": "The stock fell 6.85% over three sessions and remains a feedback-flagged open loser within a weak energy group."
+    },
+    {
+      "symbol": "NOW",
+      "reason": "Recent feedback records the largest closed loss; the stock fell 5.93% on 5 November and 6.23% over three sessions."
+    },
+    {
+      "symbol": "QCOM",
+      "reason": "Recent feedback records a material closed loss; the stock fell 9.49% on 5 November and 4.67% over three sessions."
+    },
+    {
+      "symbol": "UNH",
+      "reason": "Recent feedback records a material closed loss and the stock fell 3.34% on 5 November, with no recovery confirmation."
+    },
+    {
+      "symbol": "NVDA",
+      "reason": "The stock fell 9.26% on 5 November and 12.14% over three sessions after the AI and semiconductor repricing, breaking the clean momentum setup."
+    },
+    {
+      "symbol": "MU",
+      "reason": "The 17.46% one-day and 23.24% three-session declines are a high-volatility breakdown, not a suitable fresh momentum-long setup."
+    },
+    {
+      "symbol": "AMD",
+      "reason": "The stock fell 17.26% on 5 November and 16.43% over three sessions, indicating severe semiconductor trend damage."
+    },
+    {
+      "symbol": "AVGO",
+      "reason": "A 10.43% one-day and 12.22% three-session decline leaves the AI-infrastructure trend unstable."
+    },
+    {
+      "symbol": "TEL",
+      "reason": "The stock fell 6.29% on 5 November and 6.10% over three sessions, with semiconductor exposure amplifying sector risk."
+    },
+    {
+      "symbol": "LNG",
+      "reason": "The stock fell 4.26% on 5 November and 10.16% over three sessions amid energy-sector weakness."
+    },
+    {
+      "symbol": "OXY",
+      "reason": "The stock fell 6.74% over three sessions and energy-sector breadth remains weak."
+    },
+    {
+      "symbol": "COP",
+      "reason": "The stock fell 6.19% over three sessions, with no relative-strength signal to offset the sector breakdown."
+    },
+    {
+      "symbol": "ADP",
+      "reason": "Feedback records a recent realized loss; despite a 3.8% three-session rebound, require a sustained base and fresh confirmation before reconsideration."
+    },
+    {
+      "symbol": "PM",
+      "reason": "The stock fell 4.63% on 5 November and 3.14% over three sessions, while its StockLens technical reading of 65 remains below the preferred threshold."
+    }
+  ],
+  "fetched_at": "2026-11-06T14:30:46.981793+00:00"
+}
