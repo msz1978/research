@@ -1,0 +1,89 @@
+{
+  "date": "2026-11-06",
+  "research_usage": [
+    {
+      "iteration": 1,
+      "matched": 0,
+      "total": 76,
+      "history_days": 9
+    },
+    {
+      "iteration": 2,
+      "matched": 0,
+      "total": 76,
+      "history_days": 9
+    },
+    {
+      "iteration": 3,
+      "matched": 0,
+      "total": 76,
+      "history_days": 9
+    },
+    {
+      "iteration": 4,
+      "matched": 0,
+      "total": 76,
+      "history_days": 9
+    },
+    {
+      "iteration": 5,
+      "matched": 0,
+      "total": 76,
+      "history_days": 9
+    },
+    {
+      "iteration": 6,
+      "matched": 9,
+      "total": 76,
+      "history_days": 9
+    }
+  ],
+  "eval": {
+    "iterations": 6,
+    "best_score": 0.9696
+  },
+  "worst_open_positions": [
+    {
+      "symbol": "TXN",
+      "unrealized_pnl": -31.9398,
+      "pnl_pct": -10.3
+    },
+    {
+      "symbol": "HON",
+      "unrealized_pnl": -13.0042,
+      "pnl_pct": -2.92
+    },
+    {
+      "symbol": "NOW",
+      "unrealized_pnl": -11.7006,
+      "pnl_pct": -2.78
+    }
+  ],
+  "worst_closed_trades": [
+    {
+      "symbol": "TSLA",
+      "entry_date": "2026-10-29",
+      "pnl": -32.94,
+      "pnl_pct": -8.12
+    },
+    {
+      "symbol": "AMD",
+      "entry_date": "2026-11-03",
+      "pnl": -29.21,
+      "pnl_pct": -6.08
+    },
+    {
+      "symbol": "CVX",
+      "entry_date": "2026-10-29",
+      "pnl": -21.59,
+      "pnl_pct": -4.65
+    }
+  ],
+  "paper_stats": {
+    "total_return": 0.07349491877955039,
+    "sharpe_ratio": 1.8569809173512375,
+    "max_drawdown": 2.3871178211559907,
+    "win_rate": 0.4
+  },
+  "observer_notes": "- The research module matched 0\u202f/\u202f76 candidates on five of the six look\u2011backs, indicating that most candidate selection is occurring without external signals; consider increasing the weight of research matches before entry.  \n- The current \u201cavoid\u201d list (CVX, DIS, NVDA, TSLA, XOM) contains high\u2011volatility or earnings\u2011sensitive names\u2014TSLA and NVDA also appear in the worst closed trades, confirming the flag\u2019s relevance. Verify that any new candidates do not belong to these flagged sectors before inclusion.  \n- PG is the sole watch\u2011list ticker and appears in the \u201cuniverse suggestions\u201d alongside MSFT; both are consumer\u2011staple/technology leaders with stable earnings\u2014prioritize confirming their latest earnings guidance and sector momentum for tomorrow\u2019s scan.  \n- DIS is flagged for upcoming earnings; double\u2011check its earnings calendar and any pre\u2011earnings analyst sentiment before allowing it past the selection filter.  \n- The research usage shows a single entry with 9\u202f/\u202f76 matches; investigate why the other five look\u2011backs produced zero matches\u2014there may be an ignored\u2011research cluster (e.g., missing sector coverage) that should be re\u2011enabled."
+}
