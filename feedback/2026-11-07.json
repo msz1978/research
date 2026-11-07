@@ -1,0 +1,54 @@
+{
+  "date": "2026-11-07",
+  "research_usage": [
+    {
+      "iteration": 1,
+      "matched": 0,
+      "total": 131,
+      "history_days": 10
+    },
+    {
+      "iteration": 2,
+      "matched": 0,
+      "total": 131,
+      "history_days": 10
+    },
+    {
+      "iteration": 3,
+      "matched": 13,
+      "total": 131,
+      "history_days": 10
+    }
+  ],
+  "eval": {
+    "iterations": 3,
+    "best_score": 0.9696
+  },
+  "worst_closed_trades": [
+    {
+      "symbol": "JPM",
+      "entry_date": "2026-09-14",
+      "pnl": -18.69,
+      "pnl_pct": -5.26
+    },
+    {
+      "symbol": "AMZN",
+      "entry_date": "2026-09-14",
+      "pnl": -6.26,
+      "pnl_pct": -2.47
+    },
+    {
+      "symbol": "XOM",
+      "entry_date": "2026-09-14",
+      "pnl": -11.67,
+      "pnl_pct": -2.3
+    }
+  ],
+  "paper_stats": {
+    "total_return": 0.07349491877955039,
+    "sharpe_ratio": 1.8569809173512375,
+    "max_drawdown": 2.3871178211559907,
+    "win_rate": 0.4
+  },
+  "observer_notes": "- The first two research windows returned 0 matches out of 131 candidates, indicating a possible data\u2011feed gap or overly strict matching criteria.  \n- Only 13 of 131 candidates were matched in the latest window; the majority of the suggested universe (e.g., BE, UNH, V) received no research signal.  \n- The watchlist emphasizes large\u2011cap tech (AMZN, GOOGL, MSFT) and a payment\u2011card stock (V) while explicitly avoiding NVDA, suggesting a bias that may need re\u2011balancing.  \n- Recent closed losses on JPM (\u20115.26\u202f%) and AMZN (\u20112.47\u202f%) highlight sector risk in financials and high\u2011valuation tech; verify whether the research module is under\u2011weighting sector\u2011specific downside signals.  \n- XOM appears in the worst closed trades despite not being in the watchlist or universe suggestions, indicating a missed research flag for energy exposure."
+}
