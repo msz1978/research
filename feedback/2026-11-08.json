@@ -1,0 +1,54 @@
+{
+  "date": "2026-11-08",
+  "research_usage": [
+    {
+      "iteration": 1,
+      "matched": 0,
+      "total": 77,
+      "history_days": 11
+    },
+    {
+      "iteration": 2,
+      "matched": 26,
+      "total": 77,
+      "history_days": 11
+    },
+    {
+      "iteration": 3,
+      "matched": 0,
+      "total": 77,
+      "history_days": 11
+    }
+  ],
+  "eval": {
+    "iterations": 3,
+    "best_score": 0.9696
+  },
+  "worst_closed_trades": [
+    {
+      "symbol": "JPM",
+      "entry_date": "2026-09-14",
+      "pnl": -18.69,
+      "pnl_pct": -5.26
+    },
+    {
+      "symbol": "AMZN",
+      "entry_date": "2026-09-14",
+      "pnl": -6.26,
+      "pnl_pct": -2.47
+    },
+    {
+      "symbol": "XOM",
+      "entry_date": "2026-09-14",
+      "pnl": -11.67,
+      "pnl_pct": -2.3
+    }
+  ],
+  "paper_stats": {
+    "total_return": 0.07349491877955039,
+    "sharpe_ratio": 1.8569809173512375,
+    "max_drawdown": 2.3871178211559907,
+    "win_rate": 0.4
+  },
+  "observer_notes": "- The research module matched only 26 of 77 candidates (\u224834\u202f%) in the most recent window, while the other two windows had zero matches \u2013 a clear under\u2011utilisation anomaly.  \n- The \u201cavoid\u201d list contains a heavy concentration of technology (e.g., AMD, NVDA, AVGO), energy (XOM, CVX), consumer discretionary (DIS, WMT) and financial (JPM) tickers, suggesting the filter may be overly broad across multiple sectors.  \n- Earnings\u2011flagged symbols (AMAT, CSCO, DIS, PGR, WMT) appear both in the avoid list and as earnings\u2011risk alerts; verify that the bot is not entering positions on or immediately after earnings releases for these tickers.  \n- Tomorrow\u2019s research pass should explicitly re\u2011check the avoid list for sector bias and confirm that any candidate overlapping an earnings\u2011flag is excluded before selection."
+}
