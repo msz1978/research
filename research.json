@@ -1,215 +1,180 @@
 {
-  "generated_at": "2026-11-08",
+  "generated_at": "2026-11-09",
   "watchlist": [
     {
       "symbol": "ABNB",
-      "thesis": "A 15.6% weekly advance and roughly $2.4B Friday dollar turnover followed Q3 revenue growth of 19%, gross-booking-value growth of 21% and an above-consensus Q4 outlook; the post-earnings gap is strong but extended."
-    },
-    {
-      "symbol": "BDX",
-      "thesis": "A 7.1% weekly gain with roughly $460M Friday turnover followed Q4 revenue growth of 5.4%, stronger free cash flow and FY27 guidance; the bullish technical trend is compelling but fundamental and macro signals remain mixed."
+      "thesis": "Q3 revenue grew 19% and gross booking value 21% with a raised Q4 outlook; a 15.6% weekly advance and about $2.4B Friday turnover confirm strong post-earnings momentum, but a controlled pullback is preferable to chasing the gap."
     },
     {
       "symbol": "EW",
-      "thesis": "An 11.0% weekly advance and roughly $522M Friday turnover followed Q3 sales growth and higher full-year sales and EPS guidance, while StockLens identifies leading relative strength within medical devices."
+      "thesis": "Q3 sales grew 10.5%, TMTT sales 44% and FY26 sales and EPS guidance was raised; 11.0% weekly and 14.7% two-week gains on about $522M Friday turnover show earnings-confirmed relative strength."
     },
     {
       "symbol": "CAH",
-      "thesis": "An 8.5% weekly gain with about $538M Friday turnover followed Q1 FY27 revenue growth of 5%, adjusted EPS growth of 28% and raised FY27 EPS guidance; macro sensitivity remains the main risk."
+      "thesis": "Q1 FY27 revenue rose 5% and non-GAAP EPS 28% with FY27 guidance raised; 8.5% weekly and 8.9% two-week gains on about $538M Friday turnover support a catalyst-backed continuation setup."
     },
     {
-      "symbol": "TPR",
-      "thesis": "A 14.2% weekly advance followed FY27 Q1 revenue growth of 11%, adjusted EPS growth of 32% and raised full-year outlook; momentum is strong but the earnings gap calls for a pullback or consolidation."
+      "symbol": "BDX",
+      "thesis": "FY26 Q4 revenue rose 5.4% and free cash flow 42.5% as the company issued FY27 guidance; 7.1% weekly and 6.5% two-week gains on about $460M turnover show improving momentum, though the business transition remains a risk."
     },
     {
       "symbol": "HSY",
-      "thesis": "A 7.5% weekly gain follows Q3 sales growth and an improved 2026 outlook, while current StockLens fundamentals and risk posture are supportive; insider selling and consumer caution temper conviction."
-    },
-    {
-      "symbol": "PSA",
-      "thesis": "A 3.9% weekly advance and 1.2M Friday shares traded followed higher FY26 FFO guidance and a dividend increase, with real-estate relative strength improving; rate sensitivity remains material."
-    },
-    {
-      "symbol": "V",
-      "thesis": "A 2.2% weekly gain and roughly $3.9B Friday dollar turnover accompany FY26 Q4 revenue growth of 13%, payment-volume growth of 9% and adjusted EPS growth of 17%; low relative volatility supports a liquid continuation setup, though insider selling is a caution."
-    },
-    {
-      "symbol": "ED",
-      "thesis": "A 1.6% weekly advance and roughly $298M Friday turnover show resilience against a falling broad market, while StockLens reports a very strong bullish trend and healthy cash-flow profile; utility-sector weakness limits upside."
-    },
-    {
-      "symbol": "PG",
-      "thesis": "A 2.4% weekly advance and roughly $1.3B Friday turnover show defensive relative strength with a bullish technical trend and solid balance sheet; broad insider selling and input-cost pressure remain important cautions."
+      "thesis": "Q3 sales rose 3% and management updated its FY26 outlook; a 7.5% weekly gain with about $490M turnover supports defensive momentum, but modest organic sales growth and consumer caution warrant conservative sizing."
     },
     {
       "symbol": "ROP",
-      "thesis": "A 2.1% weekly gain while XLK fell about 8.2%, alongside Q3 organic revenue growth and higher FY26 guidance, shows unusual relative resilience; the very strong trend is extended and technology macro remains a headwind."
+      "thesis": "Q3 revenue grew 8% (7% organically) and adjusted EPS 15%, lifting FY26 guidance; an 8.8% two-week gain while XLK fell 10.1% shows strong relative resilience, although technology-sector weakness remains a headwind."
+    },
+    {
+      "symbol": "SPG",
+      "thesis": "Q3 real-estate FFO per share grew 4.7%, portfolio NOI 6.7% and full-year FFO guidance was raised; 4.9% weekly and 7.9% two-week gains align with improving REIT-sector leadership."
+    },
+    {
+      "symbol": "NEM",
+      "thesis": "Record Q3 adjusted net income and $1.9B free cash flow accompanied an improved cost outlook; 13.4% weekly and 11.1% two-week gains as GLD rose 4.7% support a strong gold-momentum setup, with commodity reversal risk."
+    },
+    {
+      "symbol": "V",
+      "thesis": "Visa's FY26 Q4 results are already reported; 2.2% weekly and 3.6% two-week gains with about $3.9B Friday turnover and positive financial-sector breadth support a liquid continuation setup, though consumer-spending sensitivity remains."
+    },
+    {
+      "symbol": "PG",
+      "thesis": "Q1 FY27 organic sales grew 4% and operating cash flow reached $5.8B; a 2.4% weekly gain with about $1.3B turnover shows defensive relative strength, while commodity-driven margin pressure limits the upside case."
     }
   ],
-  "sector_notes": "Communication services, consumer discretionary, financials and real estate showed the best weekly relative strength, while technology—especially semiconductors—and energy were the clearest breakdowns: XLK fell about 8.2%, SOXX 13.1% and XLE 12.0%, versus SPY down 2.7% and QQQ down 5.0%. Friday's rebound in the Nasdaq and semiconductors followed a severe Thursday selloff, but the fourth consecutive weekly Nasdaq decline and elevated volatility argue for selective, catalyst-backed swings rather than broad AI-beta exposure. October payrolls beat expectations and unemployment fell to 4.1%, increasing rate sensitivity ahead of US CPI on November 10 and PPI on November 13.",
-  "earnings_flags": [
-    {
-      "symbol": "CSCO",
-      "date": "2026-11-12",
-      "note": "Q1 FY2027 results are scheduled after market close; the earnings gap falls inside the 14-day swing horizon."
-    },
-    {
-      "symbol": "AMAT",
-      "date": "2026-11-12",
-      "note": "Q4 and FY2026 results are scheduled with a 4:30 p.m. ET conference call; the event falls inside the swing horizon."
-    },
-    {
-      "symbol": "DIS",
-      "date": "2026-11-17",
-      "note": "FY2026 Q4 and full-year results are scheduled before the market open; the event falls inside the swing horizon."
-    },
-    {
-      "symbol": "PGR",
-      "date": "2026-11-18",
-      "note": "The October earnings release is scheduled by Investor Relations; the event falls inside the swing horizon."
-    },
-    {
-      "symbol": "WMT",
-      "date": "2026-11-19",
-      "note": "FY2027 Q3 results are scheduled for 7:00 a.m. US/Central; the event falls inside the swing horizon."
-    }
-  ],
+  "sector_notes": "Communication services (XLC +4.9% week over week), real estate (XLRE +1.9%), consumer discretionary (XLY +1.9%), financials (XLF +1.2%) and consumer staples (XLP +0.7%) led the October 30–November 6 rotation; technology (XLK -8.2%, semiconductors SOXX -13.1%) and energy (XLE -12.0%) were the clearest laggards, while healthcare was approximately flat. Friday breadth improved to 3,773 advancers versus 2,023 decliners among 5,945 names with at least 100,000 shares traded, but Monday premarket futures strength coexists with headline risk in AI/semiconductors. October CPI is due November 10 at 8:30 a.m. ET and October PPI November 13 at 8:30 a.m. ET, so macro-driven gaps remain a near-term risk.",
+  "earnings_flags": [],
   "universe_suggestions": [
-    "NVDA",
-    "INTC",
-    "ORCL",
-    "AMD",
-    "MU",
-    "AAPL",
-    "AMZN",
-    "TSLA",
-    "BAC",
-    "NFLX",
-    "AVGO",
     "MSFT",
-    "WMT",
-    "GOOG",
-    "TSM",
-    "CSCO",
-    "KO",
     "META",
-    "WFC",
-    "CRWD",
-    "V",
-    "JNJ",
-    "DELL",
-    "DIS",
-    "PG",
-    "JPM",
-    "GEV",
-    "UNH",
-    "PM",
-    "HD",
-    "GE",
-    "ABBV",
-    "CAT",
     "LLY",
-    "MA",
-    "UBER",
+    "V",
     "QCOM",
-    "NKE",
-    "KDP",
-    "MNST",
-    "ROP",
-    "PSA",
+    "COST",
     "ABNB",
-    "BDX",
-    "EW",
+    "MA",
+    "KO",
+    "PG",
+    "LIN",
+    "AMGN",
+    "PM",
+    "SPOT",
+    "ACN",
+    "VZ",
+    "NEE",
+    "REGN",
+    "DIS",
+    "NEM",
+    "ABT",
+    "TMUS",
+    "MSI",
+    "T",
+    "DASH",
+    "DE",
+    "GM",
+    "MDT",
+    "DUK",
+    "ADP",
+    "SLB",
+    "SHW",
+    "MNST",
+    "MAR",
+    "SPGI",
+    "ECL",
+    "XYZ",
+    "CMCSA",
+    "HLT",
+    "MMM",
+    "WELL",
+    "KDP",
+    "UAL",
+    "AMT",
+    "XEL",
+    "ITW",
     "CAH",
+    "DAL",
+    "VEEV",
+    "CL",
+    "ROST",
+    "EW",
+    "ROP",
     "HSY",
-    "TPR",
-    "ED",
-    "FAST"
+    "MRSH",
+    "CCI",
+    "BDX",
+    "ETR",
+    "WEC",
+    "RSG",
+    "CME",
+    "SPG",
+    "PSA",
+    "FAST",
+    "EBAY",
+    "NDAQ",
+    "O",
+    "AEE",
+    "SN",
+    "AU",
+    "VMC",
+    "PAYX",
+    "ACGL",
+    "VTR",
+    "CBRE",
+    "EXR",
+    "TPR"
   ],
   "avoid": [
     {
-      "symbol": "DIS",
-      "reason": "FY2026 Q4 and full-year results are scheduled before the open on 17 November, inside the 14-day holding horizon; avoid initiating a fresh swing before the event."
-    },
-    {
-      "symbol": "PGR",
-      "reason": "The October earnings release is scheduled for 18 November, inside the 14-day holding horizon."
-    },
-    {
-      "symbol": "WMT",
-      "reason": "FY2027 Q3 results are scheduled for 19 November, inside the 14-day holding horizon."
-    },
-    {
-      "symbol": "CSCO",
-      "reason": "Q1 FY2027 results are scheduled after the close on 12 November; wait for the earnings reaction before considering a new swing."
-    },
-    {
-      "symbol": "AMAT",
-      "reason": "Q4 FY2026 results are scheduled for 12 November, creating material overnight gap risk during the holding window."
-    },
-    {
-      "symbol": "AWK",
-      "reason": "Despite a strong technical reading, the latest StockLens assessment flags negative free-cash-flow yield and a mixed overall profile; require stronger fundamental confirmation."
-    },
-    {
-      "symbol": "KDP",
-      "reason": "Management warned that US coffee profit growth will slow as consumers trade down, and the shares sold off after Q3 results; wait for price stabilization."
-    },
-    {
-      "symbol": "MRSH",
-      "reason": "The latest direct Massive daily bars show no positive weekly follow-through, conflicting with the prior report's positive weekly claim; exclude until the price series is reconciled."
-    },
-    {
       "symbol": "NVDA",
-      "reason": "The semiconductor group remains in a severe weekly breakdown; Friday's rebound alone does not confirm trend repair."
-    },
-    {
-      "symbol": "MU",
-      "reason": "A sharp weekly decline alongside the SOXX drawdown signals damaged momentum and elevated volatility; wait for a stable base."
-    },
-    {
-      "symbol": "AMD",
-      "reason": "The Friday rebound followed a large weekly semiconductor selloff; require sustained relative strength before reconsideration."
+      "reason": "Premarket headline risk around the CEO coincides with a weak semiconductor tape; SOXX fell 13.1% over the latest week, so wait for stabilization and fresh price/volume confirmation."
     },
     {
       "symbol": "AVGO",
-      "reason": "The weekly decline and semiconductor-sector breakdown leave the AI-infrastructure setup technically damaged."
+      "reason": "Friday fell 5.6% while the semiconductor ETF SOXX lost 13.1% over the week; group weakness raises breakdown and failed-rebound risk."
     },
     {
-      "symbol": "MRVL",
-      "reason": "The severe weekly decline is a breakdown rather than a clean momentum setup; avoid chasing short-term rebounds."
+      "symbol": "MU",
+      "reason": "Friday fell 2.6% within a semiconductor group down 13.1% for the week; avoid a fresh swing until relative strength and trend structure recover."
     },
     {
       "symbol": "SNDK",
-      "reason": "The large weekly loss and high volatility indicate a breakdown; wait for consolidation and renewed relative strength."
-    },
-    {
-      "symbol": "TSLA",
-      "reason": "The stock remains sharply lower over the week and appears in recent worst closed paper trades; require a confirmed trend repair."
-    },
-    {
-      "symbol": "CVX",
-      "reason": "Energy-sector weakness and a recent losing paper position argue against fresh exposure until the sector stabilizes."
+      "reason": "Friday fell 7.0% amid the sharp semiconductor drawdown; elevated volatility and gap risk make the current setup unsuitable for a fresh 14-day swing."
     },
     {
       "symbol": "XOM",
-      "reason": "The weekly energy-sector breakdown and a recent realized paper loss make the current long setup unattractive."
+      "reason": "Down 11.4% over the week and 9.5% over two weeks while XLE fell 12.0%; the sector trend is materially deteriorating."
     },
     {
-      "symbol": "TXN",
-      "reason": "Recent feedback flags an open loss exceeding 10%, while the semiconductor-sector trend remains damaged."
+      "symbol": "CVX",
+      "reason": "Down 9.7% over the week and 8.8% over two weeks during a broad energy-sector breakdown; wait for momentum stabilization."
     },
     {
-      "symbol": "NOW",
-      "reason": "Recent feedback records repeated realized losses and the technology-sector selloff has not yet produced a confirmed recovery."
+      "symbol": "MPC",
+      "reason": "Down 16.2% over the week and 18.5% over two weeks, indicating severe momentum deterioration and substantial gap risk."
     },
     {
-      "symbol": "ADP",
-      "reason": "Recent feedback records a realized loss; require a fresh base and independent momentum confirmation before reconsideration."
+      "symbol": "LNG",
+      "reason": "Down 15.9% over the week and 6.9% over two weeks against a 12.0% weekly decline in XLE; the trend remains unstable."
     },
     {
-      "symbol": "JPM",
-      "reason": "A recent realized paper-trading loss warrants a fresh technical review before re-entry, despite relative strength in the broader financial sector."
+      "symbol": "OKE",
+      "reason": "Down 12.2% over the week and 11.1% over two weeks; avoid until the energy-sector breakdown reverses and price structure improves."
+    },
+    {
+      "symbol": "TPR",
+      "reason": "A 14.2% weekly and 20.3% two-week rally after Q1 FY27 results leaves the post-earnings move extended; wait for a base or orderly pullback."
+    },
+    {
+      "symbol": "MRNA",
+      "reason": "A 27.0% two-week advance is exceptionally extended and StockLens shows a weak overall/fundamental profile despite strong technical momentum; do not chase."
+    },
+    {
+      "symbol": "CVNA",
+      "reason": "A 27.3% two-week rally is extended while StockLens technical and composite readings remain weak relative to peers; volatility and reversal risk are elevated."
+    },
+    {
+      "symbol": "DIS",
+      "reason": "FY26 Q4 results are scheduled before the market open on November 17, inside the 14-day swing horizon; wait for the earnings reaction."
     }
   ]
 }
