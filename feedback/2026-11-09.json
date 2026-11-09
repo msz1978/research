@@ -1,0 +1,54 @@
+{
+  "date": "2026-11-09",
+  "research_usage": [
+    {
+      "iteration": 1,
+      "matched": 13,
+      "total": 98,
+      "history_days": 12
+    },
+    {
+      "iteration": 2,
+      "matched": 1,
+      "total": 98,
+      "history_days": 12
+    },
+    {
+      "iteration": 3,
+      "matched": 2,
+      "total": 98,
+      "history_days": 12
+    }
+  ],
+  "eval": {
+    "iterations": 3,
+    "best_score": 0.4457
+  },
+  "worst_closed_trades": [
+    {
+      "symbol": "XOM",
+      "entry_date": "2026-09-15",
+      "pnl": -27.88,
+      "pnl_pct": -5.61
+    },
+    {
+      "symbol": "JPM",
+      "entry_date": "2026-09-15",
+      "pnl": -14.84,
+      "pnl_pct": -4.22
+    },
+    {
+      "symbol": "NFLX",
+      "entry_date": "2026-09-15",
+      "pnl": -16.49,
+      "pnl_pct": -3.46
+    }
+  ],
+  "paper_stats": {
+    "total_return": 0.07349491877955039,
+    "sharpe_ratio": 1.8569809173512375,
+    "max_drawdown": 2.3871178211559907,
+    "win_rate": 0.4
+  },
+  "observer_notes": "- The avoid list clusters heavily in energy (CVX, XOM, OKE, LNG, MPC) and semiconductors (NVDA, AVGO, MU, SNDK); verify whether the research filter is over\u2011penalizing these sectors given the paper\u2019s modest drawdown and decent Sharpe.\n- \u201cWELL\u201d and \u201cFAST\u201d are the only universe\u2011suggested tickers; cross\u2011check their sector exposure (healthcare & logistics) against the current portfolio bias to avoid over\u2011concentration.\n- The recent loss on XOM (\u20115.61\u202f%) suggests the research module\u2019s risk flag for XOM may need tightening (e.g., add a volatility\u2011threshold filter for oil majors).\n- Consider adding a secondary sanity check for high\u2011beta financials after the JPM loss (\u20114.22\u202f%); the module currently does not flag financial sector risk.\n- Flag any candidate with recent earnings surprise >\u202f10\u202f% negative as a \u201cverify\u2011later\u201d candidate to prevent similar drawdowns."
+}
