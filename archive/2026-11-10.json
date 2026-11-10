@@ -1,0 +1,155 @@
+{
+  "generated_at": "2026-11-10",
+  "watchlist": [
+    {
+      "symbol": "NEM",
+      "thesis": "Record Q3 adjusted net income, $1.9B free cash flow and improved cost guidance align with a strong technical trend and relative strength in precious metals, although recent insider selling and commodity sensitivity favor a pullback entry."
+    },
+    {
+      "symbol": "EW",
+      "thesis": "Q3 sales grew 10.5%, TMTT sales 44% and adjusted EPS 19%, while FY26 sales and TAVR guidance were raised; recent price and turnover strength support continuation, but avoid chasing the post-earnings extension."
+    },
+    {
+      "symbol": "BDX",
+      "thesis": "Q4 revenue rose 5.4%, adjusted EPS 27.3% and free cash flow 42.5%, with FY27 guidance and a U.S. manufacturing partnership supporting post-earnings strength; monitor execution through the portfolio transition."
+    },
+    {
+      "symbol": "CEG",
+      "thesis": "Q3 adjusted operating earnings rose to $5.06 per share from $3.04 and the full-year guidance midpoint was raised, with new nuclear-capacity agreements adding a catalyst; the sharp three-day rebound makes a pullback entry preferable."
+    },
+    {
+      "symbol": "CAH",
+      "thesis": "Q1 FY27 revenue increased 5%, non-GAAP EPS 28% and FY27 EPS guidance was raised, while recent gains and turnover support continuation; weakness in the medical-products segment remains a counterweight."
+    }
+  ],
+  "sector_notes": "Monday's rebound was broad but led by industrials and technology, with consumer discretionary and communication services also strong; energy lagged while gold and silver showed relative resilience. Although 3,549 advancers versus 1,205 decliners in the liquid-stock sample confirmed broad participation on November 9, hotter-than-expected U.S. CPI on November 10 pushed S&P 500 and Nasdaq futures lower, and technology and semiconductors remained below their November 4 closes, so treat this as a volatile rebound rather than a confirmed broad risk-on trend.",
+  "earnings_flags": [],
+  "universe_suggestions": [
+    "NVDA",
+    "MU",
+    "AAPL",
+    "MSFT",
+    "AMZN",
+    "TSLA",
+    "SNDK",
+    "META",
+    "AVGO",
+    "GOOGL",
+    "INTC",
+    "TSM",
+    "LLY",
+    "MRVL",
+    "AMAT",
+    "LRCX",
+    "PLTR",
+    "STX",
+    "LITE",
+    "GEV",
+    "COHR",
+    "ASML",
+    "ORCL",
+    "KLAC",
+    "BE",
+    "APP",
+    "TXN",
+    "WMT",
+    "NBIS",
+    "ADI",
+    "WDC",
+    "JPM",
+    "CRWV",
+    "COST",
+    "MPWR",
+    "CAT",
+    "ANET",
+    "CEG",
+    "CSCO",
+    "CVX",
+    "GS",
+    "CRWD",
+    "JNJ",
+    "UNH",
+    "MSTR",
+    "PANW",
+    "MA",
+    "HD",
+    "ABBV",
+    "MS",
+    "TMO",
+    "PEP",
+    "KO",
+    "UBER",
+    "NOW",
+    "HOOD",
+    "SMCI",
+    "ABNB",
+    "NEM",
+    "COIN",
+    "AXP",
+    "RTX",
+    "LOW",
+    "EW",
+    "SOFI",
+    "CDE",
+    "ROP",
+    "SPG",
+    "BDX",
+    "HSY",
+    "CAH",
+    "KTOS",
+    "SFM",
+    "GE",
+    "V"
+  ],
+  "avoid": [
+    {
+      "symbol": "MRNA",
+      "reason": "The strong technical reading is contradicted by a weak overall and fundamental profile and a poor risk posture; avoid chasing a high-volatility biotech move."
+    },
+    {
+      "symbol": "RKLB",
+      "reason": "The recent three-day surge is not supported by StockLens technical or overall readings, leaving a material risk of a failed momentum extension."
+    },
+    {
+      "symbol": "VST",
+      "reason": "The recent price surge conflicts with a very weak technical reading and weaker risk posture; wait for price structure and trend confirmation."
+    },
+    {
+      "symbol": "AMD",
+      "reason": "A sharp rebound has added more than 13% since Friday, but the macro assessment remains strongly bearish and the move is vulnerable to reversal after the hot CPI release."
+    },
+    {
+      "symbol": "QCOM",
+      "reason": "Despite a strong technical reading, negative sentiment and macro assessments coincide with a negative three-day price trend; wait for relative-strength confirmation."
+    },
+    {
+      "symbol": "XOM",
+      "reason": "The three-day decline, weaker energy-sector performance and falling crude prices reinforce current downside momentum; prior paper-trading losses make a stricter re-entry test appropriate."
+    },
+    {
+      "symbol": "ECL",
+      "reason": "The three-day price trend remains negative despite a high nightly technical score; require a clear reclaim of recent levels and improving volume before reconsideration."
+    },
+    {
+      "symbol": "ED",
+      "reason": "The recent three-day decline and weak latest session do not confirm the high nightly technical reading; wait for price and volume to stabilize."
+    },
+    {
+      "symbol": "MRSH",
+      "reason": "The three-day decline and negative latest session indicate deteriorating short-term price action despite a strong nightly technical score."
+    },
+    {
+      "symbol": "EL",
+      "reason": "The overall and risk readings are materially weaker than its technical score, while the recent price move lacks a sufficiently clean risk/reward profile."
+    },
+    {
+      "symbol": "KDP",
+      "reason": "The current price trend is largely flat and management flagged slower U.S. coffee profit growth; wait for renewed momentum rather than relying on the high nightly technical score."
+    },
+    {
+      "symbol": "PG",
+      "reason": "The November 19 Investor Day falls inside the swing horizon and may create event-driven gap risk; reassess after management's update."
+    }
+  ],
+  "fetched_at": "2026-11-10T14:30:23.608588+00:00"
+}
