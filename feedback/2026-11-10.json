@@ -1,0 +1,41 @@
+{
+  "date": "2026-11-10",
+  "research_usage": [
+    {
+      "iteration": 1,
+      "matched": 0,
+      "total": 92,
+      "history_days": 13
+    }
+  ],
+  "eval": {
+    "iterations": 1,
+    "best_score": 0.989
+  },
+  "worst_closed_trades": [
+    {
+      "symbol": "XOM",
+      "entry_date": "2026-09-15",
+      "pnl": -27.88,
+      "pnl_pct": -5.61
+    },
+    {
+      "symbol": "JPM",
+      "entry_date": "2026-09-15",
+      "pnl": -14.84,
+      "pnl_pct": -4.22
+    },
+    {
+      "symbol": "NFLX",
+      "entry_date": "2026-09-15",
+      "pnl": -16.49,
+      "pnl_pct": -3.46
+    }
+  ],
+  "paper_stats": {
+    "total_return": 0.07349491877955039,
+    "sharpe_ratio": 1.8569809173512375,
+    "max_drawdown": 2.3871178211559907,
+    "win_rate": 0.4
+  }
+}
