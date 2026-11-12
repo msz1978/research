@@ -1,0 +1,151 @@
+{
+  "generated_at": "2026-11-12",
+  "watchlist": [
+    {
+      "symbol": "BRK.B",
+      "thesis": "The stock advanced 2.8% from Nov 5 to Nov 11 with liquid turnover and $9.6B of Q3 repurchases, but the 6% year-over-year decline in operating earnings keeps this a defensive rather than high-beta momentum setup."
+    },
+    {
+      "symbol": "MAR",
+      "thesis": "A 2.9% five-session advance is backed by 6.5% global Q3 RevPAR growth and a raised FY26 RevPAR outlook, keeping the post-results uptrend constructive despite higher debt and Middle East exposure."
+    },
+    {
+      "symbol": "KDP",
+      "thesis": "The stock has rebounded 10.1% from its Nov 3 close to $38.25 by Nov 11, with Q3 adjusted EPS up 22.2% and FY26 guidance reaffirmed, but slower Q4 coffee-profit growth remains a catalyst risk."
+    },
+    {
+      "symbol": "EW",
+      "thesis": "A 5.0% five-session gain to $105.81 follows Q3 sales growth of 10.5%, TMTT growth of 44% and raised 2026 guidance, though the post-earnings extension argues against chasing gaps."
+    }
+  ],
+  "sector_notes": "U.S. equities staged a technology-led rebound on Nov 11: Nasdaq rose 1.60%, S&P 500 1.31%, Dow 0.49% and Russell 2000 0.9%; Massive daily bars show semiconductors leading, with SMH up 4.8% versus QQQ 2.3%, SPY 1.3% and IWM 0.9%. Industrials and financials participated while consumer discretionary was roughly flat, but AI/semiconductor leadership remains headline-sensitive and higher rate expectations argue for selective momentum rather than broad chasing.",
+  "earnings_flags": [
+    {
+      "symbol": "AMAT",
+      "date": "2026-11-12",
+      "note": "Q4 FY2026 earnings conference call is scheduled for Nov 12; event-day semiconductor equipment gap risk."
+    },
+    {
+      "symbol": "CSCO",
+      "date": "2026-11-12",
+      "note": "Q1 FY2027 earnings results are scheduled for Nov 12 at 4:30 p.m. ET; elevated post-close gap risk."
+    },
+    {
+      "symbol": "NVDA",
+      "date": "2026-11-17",
+      "note": "Q3 FY2027 results are scheduled for Nov 17; the company confirms a 5:00 p.m. ET conference call and written results commentary around 1:20 p.m. PT."
+    }
+  ],
+  "universe_suggestions": [
+    "NVDA",
+    "AMD",
+    "MU",
+    "MSFT",
+    "AMZN",
+    "AAPL",
+    "AVGO",
+    "TSLA",
+    "META",
+    "GOOGL",
+    "GOOG",
+    "INTC",
+    "TSM",
+    "GEV",
+    "CRWV",
+    "LLY",
+    "MRVL",
+    "PLTR",
+    "ORCL",
+    "BRK.B",
+    "STX",
+    "LRCX",
+    "BE",
+    "CAT",
+    "V",
+    "AMAT",
+    "COHR",
+    "ASML",
+    "DELL",
+    "WMT",
+    "APP",
+    "CVX",
+    "JNJ",
+    "RKLB",
+    "AKAM",
+    "TTWO",
+    "NOW",
+    "XOM",
+    "WDC",
+    "TXN",
+    "MSTR",
+    "UNH",
+    "KLAC",
+    "CSCO",
+    "ADI",
+    "NFLX",
+    "JPM",
+    "CRM",
+    "QCOM",
+    "COST",
+    "KO",
+    "ANET",
+    "PANW",
+    "SE",
+    "IREN",
+    "MPWR",
+    "MA",
+    "PG",
+    "NET",
+    "GS",
+    "CRWD",
+    "VRT",
+    "HD",
+    "TMO",
+    "SMCI",
+    "COP",
+    "BAC",
+    "GE",
+    "SNOW",
+    "MCD",
+    "PM",
+    "HOOD",
+    "APH",
+    "BA",
+    "FAST",
+    "CAH",
+    "CEG",
+    "KDP",
+    "EW",
+    "MAR",
+    "AJG",
+    "HIMS",
+    "ASTS"
+  ],
+  "avoid": [
+    {
+      "symbol": "BDX",
+      "reason": "The technical ranking is high but the StockLens composite score is below the normal cutoff; trailing revenue and net income are down year over year, and prior paper-trading feedback flagged an open position."
+    },
+    {
+      "symbol": "EXR",
+      "reason": "The five-session move remains negative and the price is below the Nov 4 close of $161.04; wait for a reclaim of the $160\u2013161 area before treating the setup as renewed continuation."
+    },
+    {
+      "symbol": "ROP",
+      "reason": "Price fell from $490.96 on Nov 5 to $477.70 on Nov 11 and remains well below its recent $507.24 high, so current price action contradicts the strong technical ranking."
+    },
+    {
+      "symbol": "ECL",
+      "reason": "The stock is down about 2.3% from its Nov 4 close despite a small Nov 11 rebound; the post-earnings pullback has not yet stabilized."
+    },
+    {
+      "symbol": "ED",
+      "reason": "The latest five-session price move is slightly negative and the low-volatility utility profile lacks a clear swing catalyst or volume expansion."
+    },
+    {
+      "symbol": "EL",
+      "reason": "The StockLens composite score is 60 and the latest session fell 0.97%; a strong technical rank alone does not justify a momentum entry."
+    }
+  ],
+  "fetched_at": "2026-11-12T14:30:51.912038+00:00"
+}
