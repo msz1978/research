@@ -1,91 +1,39 @@
 {
-  "generated_at": "2026-11-11",
+  "generated_at": "2026-11-12",
   "watchlist": [
     {
-      "symbol": "QNT",
-      "thesis": "Q3 revenue grew 233% year over year and the stock advanced 31.3% over five sessions on about $179M of turnover, but its recent listing and substantial operating losses make this a high-volatility pullback-only candidate."
+      "symbol": "BRK.B",
+      "thesis": "The stock advanced 2.8% from Nov 5 to Nov 11 with liquid turnover and $9.6B of Q3 repurchases, but the 6% year-over-year decline in operating earnings keeps this a defensive rather than high-beta momentum setup."
     },
     {
-      "symbol": "AAON",
-      "thesis": "A post-earnings 19.3% session gain on 2.7x prior-day volume extends the five-session advance to 28.8%, but the gap is exceptionally large and should be monitored for a base or retest rather than chased."
-    },
-    {
-      "symbol": "ZETA",
-      "thesis": "The latest quarter delivered 46% revenue growth, positive GAAP income and higher full-year guidance, while price rose 8.2% on the latest session and 10.4% over five sessions; post-earnings gap risk remains elevated."
-    },
-    {
-      "symbol": "TTWO",
-      "thesis": "Post-results momentum is supported by an 8.3% latest-session gain and the scheduled GTA VI launch on November 19, although the approaching product event creates unusually high overnight gap risk."
-    },
-    {
-      "symbol": "RKLB",
-      "thesis": "A 19.7% five-session advance and record $3.6B backlog support the post-results trend, but the Neutron delay into 2027 and wider expected EBITDA losses warrant smaller, risk-controlled exposure."
-    },
-    {
-      "symbol": "EMBJ",
-      "thesis": "Record Q3 revenue and a raised 2026 outlook accompanied a 7.1% latest-session gain and roughly $293M of turnover; monitor whether the post-earnings move holds its opening gap."
-    },
-    {
-      "symbol": "FROG",
-      "thesis": "Q3 revenue rose 31% and cloud revenue 60%, supporting a 19.9% five-session advance, but the latest 4.3% pullback needs to stabilize before momentum continuation is assumed."
-    },
-    {
-      "symbol": "AMD",
-      "thesis": "The Q3 beat and stronger Q4 revenue outlook align with a 14.7% two-session rebound and 5.4% five-session gain on very high liquidity, though the semiconductor move remains sensitive to macro and AI-sector volatility."
-    },
-    {
-      "symbol": "AVGO",
-      "thesis": "A 3.9% latest-session gain and 13.0% two-session rebound have restored short-term momentum with strong dollar turnover, but confirmation above the recent range is still required."
-    },
-    {
-      "symbol": "AMZN",
-      "thesis": "A 4.5% two-session rebound and 1.5% latest-session gain are supported by very high liquidity and recent AWS growth, while the modest five-session advance still needs follow-through."
-    },
-    {
-      "symbol": "TSM",
-      "thesis": "The 5.6% two-session rebound and 2.0% latest-session gain coincide with strong October sales, but the five-session return is nearly flat, so require continuation before treating it as a renewed trend."
-    },
-    {
-      "symbol": "MSI",
-      "thesis": "The five-session advance of 6.1% and six-session gain of 8.2% remain constructive with roughly $659M of latest-session turnover; a quiet latest close is acceptable if the recent support zone holds."
-    },
-    {
-      "symbol": "EW",
-      "thesis": "A 11.5% six-session gain and 4.7% five-session advance keep the healthcare trend constructive, although the latest mild pullback argues against chasing an extended move."
-    },
-    {
-      "symbol": "CAH",
-      "thesis": "The stock gained 5.7% over five sessions and 8.8% over six sessions with a positive latest close and roughly $443M of turnover, providing a steadier healthcare momentum profile."
-    },
-    {
-      "symbol": "CEG",
-      "thesis": "A 9.0% five-session gain and 7.1% two-session rebound preserve the broader uptrend despite a 3.0% latest-session pullback; require support confirmation before a new swing entry."
+      "symbol": "MAR",
+      "thesis": "A 2.9% five-session advance is backed by 6.5% global Q3 RevPAR growth and a raised FY26 RevPAR outlook, keeping the post-results uptrend constructive despite higher debt and Middle East exposure."
     },
     {
       "symbol": "KDP",
-      "thesis": "A steady 2.2% five-session advance, 1.8% latest-session gain and roughly $638M of dollar turnover offer a lower-volatility defensive continuation setup rather than an aggressive breakout."
+      "thesis": "The stock has rebounded 10.1% from its Nov 3 close to $38.25 by Nov 11, with Q3 adjusted EPS up 22.2% and FY26 guidance reaffirmed, but slower Q4 coffee-profit growth remains a catalyst risk."
     },
     {
-      "symbol": "FAST",
-      "thesis": "The gradual 3.1% five-session advance and positive latest close on roughly $281M of turnover provide an industrial diversification candidate, but volume expansion is still needed for a stronger breakout signal."
+      "symbol": "EW",
+      "thesis": "A 5.0% five-session gain to $105.81 follows Q3 sales growth of 10.5%, TMTT growth of 44% and raised 2026 guidance, though the post-earnings extension argues against chasing gaps."
     }
   ],
-  "sector_notes": "On November 10, SPY fell 0.37%, QQQ 0.68% and IWM 0.68%, while only 35.4% of 3,105 liquid names advanced after hotter October CPI; the 10-year Treasury yield approached 5% and the U.S. bond market was closed for Veterans Day. Across November 6–10, momentum and cyclical leadership remained strongest in MTUM (+4.7%), semiconductors (SMH +4.2%) and industrials (XLI +3.7%), while energy lagged and gold, silver, miners and long-duration Treasuries weakened. The November 11 premarket rebound in AI and semiconductors is event-led by CoreWeave's results and is not yet a confirmed breadth reversal; keep exposure selective and avoid chasing large earnings gaps. Near-term event risk is concentrated in Applied Materials and Cisco after the close on November 12, October PPI on November 13 and NVIDIA results on November 17, with continued AI-infrastructure concentration the main sector-level risk.",
+  "sector_notes": "U.S. equities staged a technology-led rebound on Nov 11: Nasdaq rose 1.60%, S&P 500 1.31%, Dow 0.49% and Russell 2000 0.9%; Massive daily bars show semiconductors leading, with SMH up 4.8% versus QQQ 2.3%, SPY 1.3% and IWM 0.9%. Industrials and financials participated while consumer discretionary was roughly flat, but AI/semiconductor leadership remains headline-sensitive and higher rate expectations argue for selective momentum rather than broad chasing.",
   "earnings_flags": [
     {
       "symbol": "AMAT",
       "date": "2026-11-12",
-      "note": "Fourth-quarter and fiscal 2026 results after the market close; event falls inside the swing horizon, so avoid fresh entries ahead of the release."
+      "note": "Q4 FY2026 earnings conference call is scheduled for Nov 12; event-day semiconductor equipment gap risk."
     },
     {
       "symbol": "CSCO",
       "date": "2026-11-12",
-      "note": "First-quarter fiscal 2027 results after the market close; near-term gap risk is elevated."
+      "note": "Q1 FY2027 earnings results are scheduled for Nov 12 at 4:30 p.m. ET; elevated post-close gap risk."
     },
     {
       "symbol": "NVDA",
       "date": "2026-11-17",
-      "note": "Third-quarter fiscal 2027 results; company-confirmed conference call at 5:00 p.m. ET, within the 14-day horizon."
+      "note": "Q3 FY2027 results are scheduled for Nov 17; the company confirms a 5:00 p.m. ET conference call and written results commentary around 1:20 p.m. PT."
     }
   ],
   "universe_suggestions": [
@@ -93,26 +41,20 @@
     "AMD",
     "MU",
     "MSFT",
-    "SNDK",
     "AMZN",
     "AAPL",
     "AVGO",
     "TSLA",
     "META",
     "GOOGL",
+    "GOOG",
     "INTC",
     "TSM",
     "GEV",
     "CRWV",
     "LLY",
-    "GOOG",
     "MRVL",
     "PLTR",
-    "FOXA",
-    "JHX",
-    "MRNA",
-    "LITE",
-    "NBIS",
     "ORCL",
     "BRK.B",
     "STX",
@@ -156,7 +98,6 @@
     "NET",
     "GS",
     "CRWD",
-    "CVS",
     "VRT",
     "HD",
     "TMO",
@@ -170,66 +111,46 @@
     "HOOD",
     "APH",
     "BA",
-    "QNT",
-    "AAON",
-    "ZETA",
-    "EMBJ",
-    "FROG",
-    "MSI",
-    "EW",
+    "FAST",
     "CAH",
     "CEG",
     "KDP",
-    "FAST",
-    "WELL",
-    "BDX",
-    "EL",
+    "EW",
+    "MAR",
+    "EXR",
+    "ROP",
     "ECL",
-    "AJG",
     "ED",
+    "EL",
+    "AJG",
     "HIMS",
-    "ASTS"
+    "ASTS",
+    "BDX"
   ],
   "avoid": [
     {
-      "symbol": "NVDA",
-      "reason": "The five-session decline is 15.6% and the latest session fell 5.5%; the premarket rebound does not yet repair the price structure, and November 17 earnings add event risk."
+      "symbol": "BDX",
+      "reason": "The technical ranking is high but the StockLens composite score is below the normal cutoff; trailing revenue and net income are down year over year, and prior paper-trading feedback flagged an open position."
     },
     {
-      "symbol": "CRWV",
-      "reason": "The post-earnings premarket gap is about 15%, making the prior close stale for a fresh swing decision; wait for regular-session price and volume to establish a new base."
+      "symbol": "EXR",
+      "reason": "The five-session move remains negative and the price is below the Nov 4 close of $161.04; wait for a reclaim of the $160–161 area before treating the setup as renewed continuation."
     },
     {
-      "symbol": "NBIS",
-      "reason": "The five-session and latest-session declines are both about 5.3%; the sympathy premarket rebound needs regular-session confirmation before reconsideration."
+      "symbol": "ROP",
+      "reason": "Price fell from $490.96 on Nov 5 to $477.70 on Nov 11 and remains well below its recent $507.24 high, so current price action contradicts the strong technical ranking."
     },
     {
-      "symbol": "HIMS",
-      "reason": "A 28.2% five-session decline and 16.6% latest-session drop indicate a material momentum breakdown; wait for stabilization and a repaired trend."
+      "symbol": "ECL",
+      "reason": "The stock is down about 2.3% from its Nov 4 close despite a small Nov 11 rebound; the post-earnings pullback has not yet stabilized."
     },
     {
-      "symbol": "SNDK",
-      "reason": "The five-session decline is 17.1% and the latest session fell 3.0%; current price action does not support a continuation setup."
+      "symbol": "ED",
+      "reason": "The latest five-session price move is slightly negative and the low-volatility utility profile lacks a clear swing catalyst or volume expansion."
     },
     {
-      "symbol": "MRNA",
-      "reason": "The latest session fell 6.8% and the five-session trend remains negative despite a high technical reading; the price action currently contradicts the screening signal."
-    },
-    {
-      "symbol": "AMAT",
-      "reason": "Fourth-quarter and fiscal 2026 results are scheduled after the close on November 12, creating near-term binary gap risk."
-    },
-    {
-      "symbol": "CSCO",
-      "reason": "First-quarter fiscal 2027 results are scheduled after the close on November 12; wait for the report and subsequent price discovery."
-    },
-    {
-      "symbol": "XOM",
-      "reason": "The five-session decline and 8.5% six-session drawdown coincide with weak energy-relative performance; prior paper-trading losses justify a stricter re-entry test for oil majors."
-    },
-    {
-      "symbol": "JPM",
-      "reason": "The five-session trend is negative and recent paper-trading losses warrant a stronger relative-strength and volatility check before reconsideration."
+      "symbol": "EL",
+      "reason": "The StockLens composite score is 60 and the latest session fell 0.97%; a strong technical rank alone does not justify a momentum entry."
     }
   ]
 }
