@@ -1,0 +1,76 @@
+{
+  "date": "2026-11-14",
+  "research_usage": [
+    {
+      "iteration": 1,
+      "matched": 0,
+      "total": 93,
+      "history_days": 14
+    },
+    {
+      "iteration": 2,
+      "matched": 3,
+      "total": 93,
+      "history_days": 14
+    },
+    {
+      "iteration": 3,
+      "matched": 0,
+      "total": 93,
+      "history_days": 14
+    },
+    {
+      "iteration": 4,
+      "matched": 0,
+      "total": 93,
+      "history_days": 14
+    },
+    {
+      "iteration": 5,
+      "matched": 0,
+      "total": 93,
+      "history_days": 14
+    },
+    {
+      "iteration": 6,
+      "matched": 3,
+      "total": 93,
+      "history_days": 14
+    },
+    {
+      "iteration": 7,
+      "matched": 0,
+      "total": 93,
+      "history_days": 14
+    },
+    {
+      "iteration": 8,
+      "matched": 11,
+      "total": 93,
+      "history_days": 14
+    },
+    {
+      "iteration": 9,
+      "matched": 0,
+      "total": 93,
+      "history_days": 14
+    },
+    {
+      "iteration": 10,
+      "matched": 0,
+      "total": 93,
+      "history_days": 14
+    }
+  ],
+  "eval": {
+    "iterations": 10,
+    "best_score": 0.9841
+  },
+  "paper_stats": {
+    "total_return": 0.07349491877955039,
+    "sharpe_ratio": 1.8569809173512375,
+    "max_drawdown": 2.3871178211559907,
+    "win_rate": 0.4
+  },
+  "observer_notes": "- 9 of the 10 research_usage entries reported 0 matches out of a 93\u2011ticker universe, indicating the external research module rarely contributed to candidate selection.  \n- The module repeatedly flagged NVDA for avoidance and earnings risk across multiple windows; AMD appears once in an avoid list.  \n- One entry supplied a broad universe suggestion list of 11 tickers (AAPL, AMZN, C, GOOGL, JNJ, META, MSFT, TSLA, UNH, V, XOM) yet still recorded 0 matches, suggesting a mismatch between suggestion and selection.  \n- The only entries with any matches (3/93) coincided with the same NVDA avoidance/earnings flags and a single universe suggestion (AMZN), implying the filter may be overly restrictive on NVDA and not leveraging the suggested candidates.  \n- Verify why the research filter is excluding virtually all candidates despite a full 93\u2011ticker universe, and consider relaxing the NVDA avoidance flag for tomorrow\u2019s selection."
+}
