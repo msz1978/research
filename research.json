@@ -1,214 +1,211 @@
 {
-  "generated_at": "2026-11-13",
+  "generated_at": "2026-11-14",
   "watchlist": [
     {
-      "symbol": "AMD",
-      "thesis": "Record Q3 growth and four-session momentum remain aligned with the AI accelerator cycle, but the roughly 30% four-session advance is extended and favors a controlled pullback setup."
+      "symbol": "HAWK",
+      "thesis": "Q3 revenue grew 84%, international revenue rose 76%, and FY2026 guidance was raised; a 23.8% Friday gain on 4.19× average volume with a close near the high confirms a fresh breakout, but the post-earnings gap calls for pullback entries."
     },
     {
-      "symbol": "AVGO",
-      "thesis": "Custom AI accelerator and networking demand support a strong four-session advance with volume confirmation, though the rapid extension and December 9 results create gap risk."
+      "symbol": "LFTO",
+      "thesis": "Q3 revenue rose 32%, adjusted EBITDA 45%, and FY2026 guidance was raised; a 30.6% Friday surge on 10.55× average volume shows exceptional momentum, but the move is highly extended and the recent IPO and debt profile increase gap risk."
     },
     {
-      "symbol": "ANET",
-      "thesis": "Q3 revenue growth of 58.5% and a fresh four-session advance align with AI networking demand; wait for orderly consolidation after the sharp move."
+      "symbol": "STN",
+      "thesis": "Q3 revenue rose 9.4%, adjusted EBITDA 16.6%, and adjusted EPS 23.5%, while 2026 profitability targets were raised; a 14.1% Friday gain on 3.54× average volume confirms a strong post-earnings breakout."
     },
     {
-      "symbol": "CLS",
-      "thesis": "Q3 revenue grew 83% and the company raised its 2026 outlook, while price and volume confirm strong continuation in data-center infrastructure."
+      "symbol": "PUBM",
+      "thesis": "Q3 revenue grew 17%, adjusted EBITDA rose 133%, and the company expanded its buyback authorization; a 15.7% five-session advance and 2.09× Friday volume support continuation, although small-cap volatility remains relevant."
     },
     {
-      "symbol": "VRT",
-      "thesis": "Q3 sales rose 61%, orders more than doubled and FY26 guidance was raised; recent strength supports continuation, but wait for volume to recover."
+      "symbol": "TNDM",
+      "thesis": "Q3 worldwide sales grew 14%, gross margin improved to 57%, and new Health Canada approvals expanded product access; an 18.7% five-session gain with 1.37× volume confirms momentum, while operating losses remain a risk."
     },
     {
-      "symbol": "MPWR",
-      "thesis": "Record Q3 revenue grew 63% year over year, led by AI and server power demand, and the four-session trend remains intact despite a modest low-volume pullback."
+      "symbol": "TARS",
+      "thesis": "Q3 XDEMVY product sales rose 64% to $194.6 million with gross margin near 93%; a 17.0% five-session advance and positive Friday close support momentum, while product concentration and biotech volatility warrant tight risk limits."
     },
     {
-      "symbol": "BE",
-      "thesis": "Record Q3 revenue grew 138% year over year and FY26 guidance was raised, supporting the data-center power theme, though the latest pullback and high volatility require strict risk control."
+      "symbol": "MPC",
+      "thesis": "Q3 adjusted EPS beat estimates as refining margins more than doubled to $45.70 per barrel; an 11.2% five-session gain, strong energy-sector breadth, and high dollar liquidity support continuation, subject to cyclical refining-margin risk."
     },
     {
-      "symbol": "CRWD",
-      "thesis": "Positive four-session momentum and a close near the daily high keep the cybersecurity trend constructive; volume is below its recent average and December 1 earnings are approaching."
+      "symbol": "FROG",
+      "thesis": "Q3 revenue rose 31%, cloud revenue 60%, and remaining performance obligations 60%; the 12.5% five-session advance remains constructive, but Friday volume was below its recent average and needs follow-through."
     },
     {
-      "symbol": "GOOGL",
-      "thesis": "Q3 revenue growth of 25% and continued AI infrastructure investment support a steady four-session advance, with volume confirmation in the latest session."
+      "symbol": "GCT",
+      "thesis": "Q3 revenue grew 27.4%, net income 36%, and diluted EPS 42.4%, with Q4 revenue guidance of $425–450 million; a 14.2% five-session rise and close near the daily high support a post-earnings continuation setup, though liquidity is below large-cap levels."
     },
     {
-      "symbol": "TSLA",
-      "thesis": "A four-session rebound and a positive latest session preserve high-beta momentum, but price swings and macro sensitivity require a wider risk buffer."
-    },
-    {
-      "symbol": "APH",
-      "thesis": "Record Q3 sales, a 1.19 book-to-bill ratio and 37% organic growth reinforce the uptrend, with the latest session supported by above-average volume."
-    },
-    {
-      "symbol": "CAT",
-      "thesis": "Q3 sales and revenue grew 17% with a record backlog, while the four-session trend remains positive; contracting volume calls for confirmation before entry."
-    },
-    {
-      "symbol": "TXN",
-      "thesis": "Q3 revenue grew 28% and EPS 77% year over year, while the four-session price advance and positive latest session support a higher-quality semiconductor setup."
-    },
-    {
-      "symbol": "XOM",
-      "thesis": "Strong Q3 adjusted EPS, disciplined buybacks and a leading energy-sector tape support a four-session advance, with latest-session gains confirming relative strength."
-    },
-    {
-      "symbol": "STX",
-      "thesis": "Record fiscal Q1 revenue and gross margin alongside AI-driven storage demand support the trend, but the four-session rally is extended and latest-session volume contracted, favoring consolidation."
+      "symbol": "LMND",
+      "thesis": "Q3 revenue grew 73%, in-force premium 34%, and management raised full-year guidance after a sixth consecutive quarter of positive adjusted free cash flow; an 11.7% five-session advance and 1.29× volume support momentum, with the November 17 Investor Day adding event risk."
     }
   ],
-  "sector_notes": "Semiconductors and AI infrastructure remained the strongest five-session leadership (SOXX about +13.5%, SMH about +8.1%, QQQ about +4.9% from November 6 to 12), with AMD, AVGO, ANET, CLS and power/cooling suppliers showing strong price action. Breadth deteriorated sharply on November 12: 854 advancers versus 1,878 decliners among liquid US names, while SPY, QQQ and DIA fell roughly 0.3–0.4% and IWM fell about 1.6%; the sudden NVIDIA leadership transition adds event risk to the AI complex. Energy was the clearest sector winner on November 12 (XLE about +1.5%) and remained strong over the five-session window, while materials, industrials, financials and communication services weakened; favor selective longs rather than broad beta chasing.",
+  "sector_notes": "Semiconductors led the five-session sector move (SOXX +9.35%) but reversed sharply on Friday (-3.67%), while energy (XOP +6.35%, XLE +5.42%), industrials (+3.76%) and communication services (+3.72%) also showed relative strength. Among 1,884 liquid US names screened, 1,268 advanced versus 611 decliners over five sessions, but Friday breadth was nearly balanced at 954 advancers versus 908 decliners as major indexes retreated. The environment favors selective post-earnings momentum and energy exposure rather than chasing the AI-chip complex, where leadership uncertainty, rising yields and persistent wholesale inflation are increasing gap risk.",
   "earnings_flags": [
     {
       "symbol": "NVDA",
       "date": "2026-11-17",
-      "note": "Q3 FY2027 results; the announced leadership transition and current AI-complex volatility increase gap risk."
+      "note": "Q3 FY2027 results; leadership uncertainty and recent semiconductor volatility raise the risk of a large market-moving gap."
+    },
+    {
+      "symbol": "PANW",
+      "date": "2026-11-18",
+      "note": "Q1 FY2027 results after the close; a key read-through for cybersecurity spending and software-sector sentiment."
+    },
+    {
+      "symbol": "WMT",
+      "date": "2026-11-19",
+      "note": "Q3 FY2027 results; important read-through for US consumer demand and retail margins."
+    },
+    {
+      "symbol": "ZM",
+      "date": "2026-11-23",
+      "note": "Q3 FY2027 results; the date falls within the strategy's 14-day horizon and creates event-gap risk."
     },
     {
       "symbol": "DELL",
       "date": "2026-11-24",
-      "note": "Q3 FY2027 results; the date falls within the strategy's 14-day holding horizon."
-    },
-    {
-      "symbol": "CRWD",
-      "date": "2026-12-01",
-      "note": "Q3 FY2027 results; monitor event risk if a position is held beyond the normal 14-day window."
-    },
-    {
-      "symbol": "AVGO",
-      "date": "2026-12-09",
-      "note": "Q4 and FY2026 results; outside the standard holding window but relevant to extended holds."
+      "note": "Q3 FY2027 results; relevant to AI-server demand and the wider data-center supply chain."
     }
   ],
   "universe_suggestions": [
-    "AMD",
-    "AVGO",
-    "ANET",
-    "CLS",
-    "DELL",
-    "VRT",
-    "CRWD",
-    "GOOGL",
-    "TSLA",
-    "APH",
-    "CAT",
-    "GEV",
-    "XOM",
-    "CVX",
     "NVDA",
+    "AMD",
     "MU",
-    "STX",
-    "WDC",
-    "SNDK",
-    "LRCX",
+    "AAPL",
+    "MSFT",
+    "TSLA",
+    "AVGO",
+    "META",
+    "GOOGL",
+    "AMZN",
     "AMAT",
-    "KLAC",
-    "MRVL",
-    "COHR",
     "TSM",
-    "INTC",
-    "QCOM",
-    "TXN",
-    "ADI",
-    "MPWR",
+    "DELL",
+    "LLY",
     "ORCL",
     "PLTR",
-    "MSFT",
-    "AAPL",
-    "AMZN",
-    "META",
+    "LRCX",
+    "STX",
     "NFLX",
-    "JPM",
-    "GS",
-    "V",
-    "MA",
-    "LLY",
-    "UNH",
-    "ABBV",
-    "COST",
     "WMT",
-    "HD",
+    "COST",
+    "V",
+    "XOM",
+    "KLAC",
+    "QCOM",
     "JNJ",
     "KO",
-    "TMO"
+    "PANW",
+    "ANET",
+    "CVX",
+    "HD",
+    "CRWD",
+    "JPM",
+    "WDC",
+    "UNH",
+    "CAT",
+    "TMO",
+    "MA",
+    "NET",
+    "PG",
+    "GS",
+    "PEP",
+    "GE",
+    "CRM",
+    "VRT",
+    "BAC",
+    "WFC",
+    "ABBV",
+    "MRK",
+    "C",
+    "MPC",
+    "CLS",
+    "NOW",
+    "COP",
+    "LOW",
+    "PFE",
+    "RTX",
+    "HON",
+    "LMT",
+    "ZM",
+    "CORZ",
+    "FROG",
+    "LFTO",
+    "HAWK",
+    "LMND",
+    "TNDM",
+    "STN",
+    "TARS",
+    "GCT",
+    "PUBM"
   ],
   "avoid": [
     {
+      "symbol": "MOD",
+      "reason": "A takeover report drove an extreme gap, but the reported discussions remain unconfirmed and Friday's candle faded materially from its high; wait for confirmation and a more stable structure."
+    },
+    {
+      "symbol": "AAON",
+      "reason": "The five-session surge was followed by a negative Friday session, volume below its recent average and a close well off the high, leaving insufficient follow-through."
+    },
+    {
       "symbol": "NVDA",
-      "reason": "Down roughly 11% over four sessions and 4.3% on November 12 amid elevated volume; the announced CEO transition and November 17 earnings create concentrated gap risk."
+      "reason": "The stock fell 12.8% over five sessions amid leadership uncertainty and semiconductor-sector volatility, with November 17 earnings adding immediate gap risk."
+    },
+    {
+      "symbol": "AMD",
+      "reason": "Despite a positive five-session return, the 8.8% Friday reversal erased the prior session's rally and left price materially below the day's high; momentum confirmation has deteriorated."
+    },
+    {
+      "symbol": "AVGO",
+      "reason": "The five-session gain was followed by a 4.8% Friday reversal as the AI-chip rotation unwound; wait for the trend and volume to stabilize."
+    },
+    {
+      "symbol": "ANET",
+      "reason": "A 4.5% Friday decline and a close about 7% below the session high weakened the recent breakout, while volume did not confirm renewed demand."
+    },
+    {
+      "symbol": "CLS",
+      "reason": "The stock gave back 5.4% on Friday and closed more than 7% below the session high, weakening the recent data-center momentum setup."
+    },
+    {
+      "symbol": "CORZ",
+      "reason": "Although price momentum remains positive, the latest results highlighted substantial capital expenditure, $4.3 billion of long-term debt and a sharp reduction in liquidity, creating an unfavorable risk profile."
+    },
+    {
+      "symbol": "ZM",
+      "reason": "November 23 earnings fall within the 14-day holding horizon, so a new position would carry material event-gap risk."
     },
     {
       "symbol": "DELL",
-      "reason": "November 24 earnings fall inside the 14-day holding horizon, making a fresh swing position exposed to a material event gap."
+      "reason": "November 24 earnings fall within the 14-day holding horizon, and the recent AI-hardware selloff leaves the pre-event setup unstable."
     },
     {
-      "symbol": "CSCO",
-      "reason": "Q1 FY2027 results were released after the November 12 close; despite strong reported results, the post-earnings price and volume reaction has not been verified."
+      "symbol": "DOCN",
+      "reason": "The stock gave back 4.2% on Friday, closed more than 5% below the session high and traded below its recent average volume, weakening the breakout."
     },
     {
-      "symbol": "AMAT",
-      "reason": "FY2026 Q4 results were released after the November 12 close; the post-earnings gap and price/volume response have not been verified."
+      "symbol": "LUNR",
+      "reason": "Despite a large five-session advance, Friday failed to extend the move and volume remained below the recent average, leaving weak continuation confirmation."
     },
     {
-      "symbol": "CRWV",
-      "reason": "A roughly 6.9% November 12 reversal followed a sharp four-session rise, leaving an unstable high-volatility structure."
-    },
-    {
-      "symbol": "NBIS",
-      "reason": "Fell about 16.8% on November 12 on roughly 2.6 times its recent volume, indicating a high-risk breakdown."
-    },
-    {
-      "symbol": "SMCI",
-      "reason": "Fell about 11.3% on November 12 on roughly 2.8 times its recent volume, with a negative four-session trend."
+      "symbol": "TNGX",
+      "reason": "The recent advance is tied to clinical-development news, but below-average volume and binary clinical risk make the current setup less suitable than the selected candidates."
     },
     {
       "symbol": "MSTR",
-      "reason": "Lost about 11.3% over four sessions and 6.5% on November 12; crypto-linked volatility currently overwhelms the setup."
+      "reason": "The stock lost 13.4% over five sessions amid crypto-linked volatility, leaving a weak trend and elevated gap risk."
     },
     {
       "symbol": "IREN",
-      "reason": "Lost about 10% over four sessions and 6.5% on November 12, with an unfavorable high-volatility profile."
+      "reason": "A 16.0% five-session decline and a further 6.7% Friday drop indicate a deteriorating high-volatility structure."
     },
     {
       "symbol": "BABA",
-      "reason": "Fell about 13.8% over four sessions and 7.1% on November 12; China and trade-policy sensitivity compound the technical deterioration."
-    },
-    {
-      "symbol": "SNDK",
-      "reason": "An eight-for-one split is scheduled to take effect for trading on November 20; exclude until split-adjusted price, volume and position handling are confirmed."
-    },
-    {
-      "symbol": "BDX",
-      "reason": "Despite a high StockLens technical rank, recent relative price strength is modest and volume confirmation is weak; the current setup does not justify inclusion."
-    },
-    {
-      "symbol": "EXR",
-      "reason": "Negative four-session performance and a weak latest close do not confirm a durable momentum trend."
-    },
-    {
-      "symbol": "ROP",
-      "reason": "Near-flat four-session performance and a close near the daily low indicate fading momentum."
-    },
-    {
-      "symbol": "ECL",
-      "reason": "Only modest four-session appreciation, followed by a negative latest session near the day's low, leaves weak momentum confirmation."
-    },
-    {
-      "symbol": "GEHC",
-      "reason": "Negative four-session performance and a weak latest session fail the current momentum filter."
-    },
-    {
-      "symbol": "MRSH",
-      "reason": "Near-flat four-session performance and a negative latest session provide insufficient relative-strength confirmation."
-    },
-    {
-      "symbol": "MSI",
-      "reason": "A modest four-session gain followed by a negative latest session near the day's low suggests momentum is fading."
+      "reason": "A 13.8% five-session decline and elevated China and trade-policy sensitivity leave an unfavorable momentum and event-risk profile."
     }
   ]
 }
