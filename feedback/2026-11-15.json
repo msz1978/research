@@ -1,0 +1,34 @@
+{
+  "date": "2026-11-15",
+  "research_usage": [
+    {
+      "iteration": 1,
+      "matched": 0,
+      "total": 93,
+      "history_days": 14
+    },
+    {
+      "iteration": 2,
+      "matched": 1,
+      "total": 93,
+      "history_days": 14
+    },
+    {
+      "iteration": 3,
+      "matched": 13,
+      "total": 93,
+      "history_days": 14
+    }
+  ],
+  "eval": {
+    "iterations": 3,
+    "best_score": 0.8089
+  },
+  "paper_stats": {
+    "total_return": 0.07349491877955039,
+    "sharpe_ratio": 1.8569809173512375,
+    "max_drawdown": 2.3871178211559907,
+    "win_rate": 0.4
+  },
+  "observer_notes": "- The research module matched **0 of 93** candidates in the first 14\u2011day window \u2013 an anomaly that suggests the filter criteria are overly restrictive or mis\u2011aligned with the current universe.  \n- Only **1 of 93** matches involved the suggested ticker **NET**; verify whether the underlying signal (e.g., sector momentum, earnings outlook) is still valid before allocating capital.  \n- The module flagged **NVDA** both as an \u201cavoid\u201d and an \u201cearnings flag.\u201d Confirm the earnings\u2011date impact and consider excluding NVDA entirely until the post\u2011earnings volatility subsides.  \n- The latest suggestion list (13 matches) is heavily weighted toward large\u2011cap tech and financial names (**AAPL, AMZN, GOOGL, MSFT, JPM, MA, V, UNH, XOM, COST, LOW**). Assess sector concentration risk and decide if tomorrow\u2019s selection should broaden to under\u2011represented sectors (e.g., industrials, consumer discretionary).  \n- The overall match rate (13/93 \u2248\u202f14\u202f%) is low; schedule a review of the research\u2011to\u2011universe mapping logic to capture more viable candidates without diluting signal quality."
+}
