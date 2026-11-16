@@ -1,0 +1,28 @@
+{
+  "date": "2026-11-16",
+  "research_usage": [
+    {
+      "iteration": 1,
+      "matched": 0,
+      "total": 93,
+      "history_days": 14
+    },
+    {
+      "iteration": 2,
+      "matched": 0,
+      "total": 93,
+      "history_days": 14
+    }
+  ],
+  "eval": {
+    "iterations": 2,
+    "best_score": 0.9318
+  },
+  "paper_stats": {
+    "total_return": 0.07349491877955039,
+    "sharpe_ratio": 1.8569809173512375,
+    "max_drawdown": 2.3871178211559907,
+    "win_rate": 0.4
+  },
+  "observer_notes": "- The research module returned **0 matches out of 93 candidates** for each of the two 14\u2011day windows \u2013 an extreme filtering anomaly that suggests the criteria are too restrictive or the data feed is incomplete.  \n- Because no candidates were selected, entire clusters of potentially viable sectors (e.g., technology, healthcare) were effectively ignored; verify that sector\u2011level filters are not inadvertently set to exclude all symbols.  \n- The zero\u2011match outcome flags a possible mismatch between the research database\u2019s ticker universe and the bot\u2019s trading universe \u2013 confirm that the identifier mapping is correct and that the research source covers the same exchange list.  \n- Tomorrow\u2019s pre\u2011run should include a quick sanity check: pull a raw list of the 93 research candidates and confirm at least one passes the basic \u201cscore > 0\u201d threshold before the module applies its advanced filters."
+}
