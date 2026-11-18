@@ -1,0 +1,139 @@
+{
+  "generated_at": "2026-11-18",
+  "watchlist": [
+    {
+      "symbol": "ACM",
+      "thesis": "Post-earnings continuation remains strong: the stock gained 21.6% over the last 11 sessions and traded 2.6\u00d7 its prior-10-session average volume on Nov 17; record backlog growth and free-cash-flow growth support the move, while lower reported revenue and project-execution risk argue against chasing gaps."
+    },
+    {
+      "symbol": "ENR",
+      "thesis": "Post-results momentum accelerated 3.5% on Nov 17 with 3.2\u00d7 its prior-10-session volume and a 13.8% 11-session gain; higher margins, adjusted EPS growth and stronger free cash flow support the move, but flat-to-down organic-sales guidance and leverage temper conviction."
+    },
+    {
+      "symbol": "BDX",
+      "thesis": "A steady 8.7% 11-session advance and a strong StockLens technical reading align with Q4 adjusted EPS growth of 27%, revenue growth of 5.4% and free-cash-flow growth of 42%; healthcare weakness and only average recent volume favor patient entries."
+    },
+    {
+      "symbol": "RSG",
+      "thesis": "A strong StockLens technical reading and a Nov 17 close 0.09% above the open on 1.9M shares support a defensive industrials setup in a weak tape; without a fresh company catalyst, favor pullbacks and require renewed relative-strength confirmation."
+    }
+  ],
+  "sector_notes": "U.S. breadth was sharply negative on Nov 17: 2,904 stocks priced at least $5 with at least 500K shares traded showed 663 advancing versus 2,195 declining on an open-to-close basis; the S&P 500 fell 1.03% and the VIX rose to 25.46. Energy and industrials were the relative leaders on the down day, while financials were the weakest sector and all 11 S&P sectors finished lower, favoring selective post-earnings continuation over broad momentum exposure. Technology and semiconductors remain vulnerable after the latest AI-led selloff, so avoid concentrated high-beta exposure.",
+  "earnings_flags": [
+    {
+      "symbol": "PANW",
+      "date": "2026-11-18",
+      "note": "Fiscal Q1 2027 results are scheduled after the U.S. market close; confirmed by Palo Alto Networks Investor Relations."
+    },
+    {
+      "symbol": "WMT",
+      "date": "2026-11-19",
+      "note": "Fiscal Q3 2027 results are scheduled for 6:00 a.m. Central Time before the U.S. market open; confirmed by Walmart."
+    },
+    {
+      "symbol": "DELL",
+      "date": "2026-11-24",
+      "note": "Fiscal Q3 2027 results are scheduled ahead of the 3:30 p.m. Central Time conference call; confirmed by Dell Investor Relations."
+    }
+  ],
+  "universe_suggestions": [
+    "NVDA",
+    "MU",
+    "AMD",
+    "MSFT",
+    "AAPL",
+    "SNDK",
+    "AMZN",
+    "TSM",
+    "GOOGL",
+    "AVGO",
+    "TSLA",
+    "META",
+    "INTC",
+    "GOOG",
+    "MRVL",
+    "GEV",
+    "LLY",
+    "COST",
+    "NBIS",
+    "ASML",
+    "UNH",
+    "ORCL",
+    "CRWV",
+    "PLTR",
+    "JPM",
+    "LITE",
+    "BE",
+    "WMT",
+    "JNJ",
+    "HD",
+    "AMAT",
+    "DIS",
+    "V",
+    "LRCX",
+    "DELL",
+    "KLAC",
+    "PANW",
+    "MSTR",
+    "COHR",
+    "NOW",
+    "NFLX",
+    "MA",
+    "XOM",
+    "KO",
+    "CSCO",
+    "QCOM",
+    "APP",
+    "CVX",
+    "STX",
+    "TXN",
+    "CRWD",
+    "BAC",
+    "MRNA",
+    "CAT",
+    "ADI",
+    "GS",
+    "PG",
+    "BABA",
+    "UBER",
+    "TJX",
+    "XEL",
+    "WDC",
+    "SYK",
+    "MPWR",
+    "PEP",
+    "RSG",
+    "MSI",
+    "EW",
+    "GEHC",
+    "ACGL",
+    "AJG",
+    "BDX",
+    "ACM",
+    "ENR",
+    "BRK.B"
+  ],
+  "avoid": [
+    {
+      "symbol": "POWL",
+      "reason": "Despite an 8.0% post-earnings session on Nov 16, the 11-session return remains -7.6% and follow-through stalled near flat on Nov 17; wait for a sustained recovery and stronger volume."
+    },
+    {
+      "symbol": "CRM",
+      "reason": "Nov 17 fell 6.9% from the open and closed near the session low on heavy turnover, indicating a clear short-term breakdown."
+    },
+    {
+      "symbol": "NKE",
+      "reason": "Nov 17 fell 10.8% from the open and closed near the session low on 66.7M shares, creating excessive gap and continuation risk for a routine swing entry."
+    },
+    {
+      "symbol": "SLS",
+      "reason": "Nov 17 fell 20.6% from the open on 120.3M shares after an extreme prior run, leaving severe volatility and poor risk/reward."
+    },
+    {
+      "symbol": "NXT",
+      "reason": "Nov 17 fell 14.0% from the open and closed near the session low on 4.0M shares, signaling a high-risk technical breakdown."
+    }
+  ],
+  "fetched_at": "2026-11-18T14:30:13.887543+00:00"
+}
