@@ -3,33 +3,37 @@
   "watchlist": [
     {
       "symbol": "ACM",
-      "thesis": "Post-earnings momentum is supported by 13% backlog growth, record fourth-quarter margins and 104% free-cash-flow growth; strong turnover confirms participation, while lower reported revenue and project-execution risk favor pullback entries over chasing."
-    },
-    {
-      "symbol": "POWL",
-      "thesis": "A fresh post-earnings continuation setup is backed by 33% fourth-quarter revenue growth, 59% EPS growth, 162% quarterly order growth and a 96% backlog increase; liquidity is strong, with order conversion and project concentration the main risks."
+      "thesis": "Post-earnings continuation remains strong: the stock gained 21.6% over the last 11 sessions and traded 2.6× its prior-10-session average volume on Nov 17; record backlog growth and free-cash-flow growth support the move, while lower reported revenue and project-execution risk argue against chasing gaps."
     },
     {
       "symbol": "ENR",
-      "thesis": "Post-results momentum is confirmed by a 3.5% session gain and 13% three-session advance after adjusted EPS rose 30% and gross margin expanded 320 basis points; weak organic sales, 5.1× net leverage and cautious FY2027 sales guidance temper the setup."
+      "thesis": "Post-results momentum accelerated 3.5% on Nov 17 with 3.2× its prior-10-session volume and a 13.8% 11-session gain; higher margins, adjusted EPS growth and stronger free cash flow support the move, but flat-to-down organic-sales guidance and leverage temper conviction."
+    },
+    {
+      "symbol": "BDX",
+      "thesis": "A steady 8.7% 11-session advance and a strong StockLens technical reading align with Q4 adjusted EPS growth of 27%, revenue growth of 5.4% and free-cash-flow growth of 42%; healthcare weakness and only average recent volume favor patient entries."
+    },
+    {
+      "symbol": "RSG",
+      "thesis": "A strong StockLens technical reading and a Nov 17 close 0.09% above the open on 1.9M shares support a defensive industrials setup in a weak tape; without a fresh company catalyst, favor pullbacks and require renewed relative-strength confirmation."
     }
   ],
-  "sector_notes": "Energy (XLE +1.85% over November 10–17) and oil services (XOP +1.19%) showed the strongest relative resilience, while consumer staples edged up 0.47%; energy ETFs nevertheless pulled back on November 17. Technology and semiconductors weakened (XLK -3.34%, SOXX -3.50%, SMH -4.87%), as did small caps (IWM -4.11%) and materials/miners (XME -7.67%, GDX -8.0%). November 17 breadth was poor, with 2,651 decliners versus 766 advancers among 3,470 liquid stocks, favoring selective post-earnings setups rather than broad momentum exposure.",
+  "sector_notes": "U.S. breadth was sharply negative on Nov 17: 2,904 stocks priced at least $5 with at least 500K shares traded showed 663 advancing versus 2,195 declining on an open-to-close basis; the S&P 500 fell 1.03% and the VIX rose to 25.46. Energy and industrials were the relative leaders on the down day, while financials were the weakest sector and all 11 S&P sectors finished lower, favoring selective post-earnings continuation over broad momentum exposure. Technology and semiconductors remain vulnerable after the latest AI-led selloff, so avoid concentrated high-beta exposure.",
   "earnings_flags": [
     {
       "symbol": "PANW",
       "date": "2026-11-18",
-      "note": "Fiscal Q1 2027 results scheduled after the U.S. market close; the company confirmed the date and 4:30 p.m. ET webcast."
+      "note": "Fiscal Q1 2027 results are scheduled after the U.S. market close; confirmed by Palo Alto Networks Investor Relations."
     },
     {
       "symbol": "WMT",
       "date": "2026-11-19",
-      "note": "Fiscal Q3 2027 results scheduled for 6:00 a.m. Central Time before the U.S. market open; confirmed by Walmart Investor Relations."
+      "note": "Fiscal Q3 2027 results are scheduled for 6:00 a.m. Central Time before the U.S. market open; confirmed by Walmart."
     },
     {
       "symbol": "DELL",
       "date": "2026-11-24",
-      "note": "Fiscal Q3 2027 results scheduled before the 3:30 p.m. Central Time conference call; confirmed by Dell Investor Relations."
+      "note": "Fiscal Q3 2027 results are scheduled ahead of the 3:30 p.m. Central Time conference call; confirmed by Dell Investor Relations."
     }
   ],
   "universe_suggestions": [
@@ -45,8 +49,8 @@
     "AVGO",
     "TSLA",
     "META",
-    "GOOG",
     "INTC",
+    "GOOG",
     "MRVL",
     "GEV",
     "LLY",
@@ -93,48 +97,45 @@
     "GS",
     "PG",
     "BABA",
-    "UBER"
+    "UBER",
+    "TJX",
+    "XEL",
+    "WDC",
+    "SYK",
+    "MPWR",
+    "PEP",
+    "RSG",
+    "MSI",
+    "EW",
+    "GEHC",
+    "ACGL",
+    "AJG",
+    "BDX",
+    "ACM",
+    "ENR",
+    "POWL",
+    "BRK.B"
   ],
   "avoid": [
     {
-      "symbol": "BILL",
-      "reason": "A roughly 20% three-session advance and 14.3% November 17 surge coincide with reports of possible TPG take-private talks; the deal remains unconfirmed, making the move rumor-driven and exposed to a sharp reversal."
-    },
-    {
-      "symbol": "RYTM",
-      "reason": "The recent 9.2% session gain is entangled with takeover speculation and clinical-development headlines; binary biotech and acquisition-gap risk make the setup unsuitable for a routine swing entry."
-    },
-    {
-      "symbol": "MOD",
-      "reason": "Despite a roughly 22% three-session advance, the stock fell 2.6% on November 17 and closed well below its intraday high; takeover-related reports remain unconfirmed."
-    },
-    {
-      "symbol": "LFTO",
-      "reason": "A 21% three-session rise was followed by a 9.0% November 17 decline and a close near the session low, indicating an unstable, extended setup with elevated gap risk."
-    },
-    {
-      "symbol": "SLS",
-      "reason": "The roughly 138% three-session spike reversed 20.6% on November 17 and closed near the lower part of the day's range, creating extreme volatility and poor risk/reward."
-    },
-    {
-      "symbol": "TSN",
-      "reason": "The recent price advance is not supported by the latest fiscal fourth-quarter results: GAAP EPS was a loss of $0.22 and adjusted EPS fell to $0.61 from $1.15 a year earlier."
-    },
-    {
-      "symbol": "KLAR",
-      "reason": "Although Q3 revenue grew 12% and transaction-margin dollars rose 32%, the company still reported a $65 million net loss; the stock has a highly volatile trading history and remains deeply below its first-year listing level."
-    },
-    {
-      "symbol": "NKE",
-      "reason": "A 10.8% single-session decline with the close near the session low signals a sharp technical breakdown and elevated downside-gap risk."
+      "symbol": "POWL",
+      "reason": "Despite an 8.0% post-earnings session on Nov 16, the 11-session return remains -7.6% and follow-through stalled near flat on Nov 17; wait for a sustained recovery and stronger volume."
     },
     {
       "symbol": "CRM",
-      "reason": "A 6.9% single-session decline and a close near the bottom of the day's range indicate deteriorating momentum and failed near-term support."
+      "reason": "Nov 17 fell 6.9% from the open and closed near the session low on heavy turnover, indicating a clear short-term breakdown."
     },
     {
-      "symbol": "MSTR",
-      "reason": "A 6.1% single-session decline with a close near the session low leaves a weak structure exposed to further crypto-linked volatility."
+      "symbol": "NKE",
+      "reason": "Nov 17 fell 10.8% from the open and closed near the session low on 66.7M shares, creating excessive gap and continuation risk for a routine swing entry."
+    },
+    {
+      "symbol": "SLS",
+      "reason": "Nov 17 fell 20.6% from the open on 120.3M shares after an extreme prior run, leaving severe volatility and poor risk/reward."
+    },
+    {
+      "symbol": "NXT",
+      "reason": "Nov 17 fell 14.0% from the open and closed near the session low on 4.0M shares, signaling a high-risk technical breakdown."
     }
   ]
 }
