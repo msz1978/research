@@ -1,0 +1,41 @@
+{
+  "date": "2026-11-19",
+  "research_usage": [
+    {
+      "iteration": 1,
+      "matched": 0,
+      "total": 87,
+      "history_days": 14
+    },
+    {
+      "iteration": 2,
+      "matched": 1,
+      "total": 87,
+      "history_days": 14
+    },
+    {
+      "iteration": 3,
+      "matched": 15,
+      "total": 87,
+      "history_days": 14
+    }
+  ],
+  "eval": {
+    "iterations": 3,
+    "best_score": 0.4481
+  },
+  "worst_open_positions": [
+    {
+      "symbol": "PYPL",
+      "unrealized_pnl": -0.9688,
+      "pnl_pct": -1.65
+    }
+  ],
+  "paper_stats": {
+    "total_return": 0.07349491877955039,
+    "sharpe_ratio": 1.8569809173512375,
+    "max_drawdown": 2.3871178211559907,
+    "win_rate": 0.4
+  },
+  "observer_notes": "- The first research usage returned **0 matches out of 87** candidates \u2013 a clear anomaly that suggests the external module failed to surface any viable picks for that window.  \n- Even in the third usage the module only matched **15 of 87** candidates, indicating overall low coverage; consider loosening the relevance thresholds or expanding the candidate universe.  \n- The \u201cavoid\u201d list is heavily weighted toward **semiconductor and large\u2011cap consumer names** (AMD, NVDA, MU, DELL, etc.). Verify that the bot\u2019s sector exposure isn\u2019t unintentionally skewed toward the remaining sectors.  \n- Research explicitly suggested **BE** and **KO** while flagging **DELL** for earnings risk \u2013 confirm their upcoming earnings dates and sector fundamentals before adding them to the next day\u2019s shortlist.  \n- The earnings\u2011flag for **DELL** should be enforced as a hard filter; double\u2011check any future signals that include DELL to prevent accidental entry."
+}
