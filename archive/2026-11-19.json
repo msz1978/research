@@ -1,0 +1,155 @@
+{
+  "generated_at": "2026-11-19",
+  "watchlist": [
+    {
+      "symbol": "TJX",
+      "thesis": "The Q3 FY27 beat (sales +6%, comparable sales +4%, diluted EPS +9%) is being confirmed by an 8.1% latest-session gain on 1.9\u00d7 recent volume; favor a controlled pullback rather than chasing the post-results gap."
+    },
+    {
+      "symbol": "DIS",
+      "thesis": "A fiscal Q4 earnings beat, 16% revenue growth and a double-digit FY27 adjusted-EPS growth outlook align with a 3.5% four-session advance and a 4.6% latest-session gain on 1.5\u00d7 recent volume; watch for follow-through above the post-results range."
+    },
+    {
+      "symbol": "ACM",
+      "thesis": "Post-results continuation is supported by record backlog growth of 13%, adjusted EPS growth of 20% and a 17.5% four-session advance, but lower reported revenue and the prior construction-project charge make pullback entries preferable to chasing."
+    },
+    {
+      "symbol": "GEHC",
+      "thesis": "Relative strength is improving with a 2.2% four-session gain and a 2.9% latest-session rise on 1.3\u00d7 recent volume, while Q3 revenue growth, EPS growth and raised 2026 guidance support the trend; monitor the patient-care leadership transition."
+    },
+    {
+      "symbol": "EXR",
+      "thesis": "A strong StockLens technical and fundamental reading plus 1.4\u00d7 recent volume supported a 1.0% latest-session gain, while the four-session decline of only 0.7% outperformed the broader REIT group; require a confirmed break above recent resistance."
+    }
+  ],
+  "sector_notes": "Across Nov 12\u201318, the broad tape remained risk-off: SPY fell 3.56% and QQQ 4.16%, while Nov 18 breadth among U.S. stocks priced at least $5 with at least 500K shares traded was 1,368 advancers versus 1,463 decliners. Technology (XLK -5.73%), energy (XLE -4.73%), healthcare (XLV -3.55%) and financials (XLF -3.08%) were weakest; consumer staples (+0.13%) and utilities (-0.59%) held up best, while consumer discretionary rebounded 1.79% on Nov 18. S&P futures were up about 1.15% premarket on Nov 19 after a five-session losing streak, but that rebound is not yet confirmation of a trend reversal, so favor selective post-earnings leaders and relative-strength defensives.",
+  "earnings_flags": [
+    {
+      "symbol": "DELL",
+      "date": "2026-11-24",
+      "note": "Fiscal Q3 2027 results are scheduled for release before the Nov 24 conference call; Dell Investor Relations confirms the event for 3:30 p.m. Central Time."
+    }
+  ],
+  "universe_suggestions": [
+    "AAPL",
+    "MSFT",
+    "AMZN",
+    "TSLA",
+    "AVGO",
+    "GOOGL",
+    "META",
+    "INTC",
+    "TSM",
+    "LLY",
+    "BRK.B",
+    "V",
+    "XOM",
+    "CRWD",
+    "NBIS",
+    "MRVL",
+    "TJX",
+    "COST",
+    "GEV",
+    "PLTR",
+    "MSTR",
+    "JPM",
+    "JNJ",
+    "DIS",
+    "STX",
+    "CVX",
+    "CSCO",
+    "BE",
+    "CAT",
+    "BAC",
+    "CRM",
+    "ASML",
+    "LITE",
+    "NOW",
+    "HD",
+    "ORCL",
+    "AMAT",
+    "KO",
+    "LRCX",
+    "GS",
+    "NFLX",
+    "PG",
+    "MA",
+    "TXN",
+    "QCOM",
+    "BABA",
+    "COHR",
+    "KLAC",
+    "PEP",
+    "ADI",
+    "WDC",
+    "APP",
+    "SYK",
+    "NKE",
+    "UBER",
+    "MPWR",
+    "XEL",
+    "MSI",
+    "ED",
+    "EW",
+    "SPG",
+    "AJG",
+    "GEHC",
+    "RSG",
+    "BDX",
+    "ACM",
+    "EXR",
+    "SUNB",
+    "ACGL"
+  ],
+  "avoid": [
+    {
+      "symbol": "NVDA",
+      "reason": "The four-session decline is 9.2%, including a 2.9% latest-session loss after earnings; the AI/semiconductor group remains weak and the stock needs price stabilization before a fresh swing setup."
+    },
+    {
+      "symbol": "MU",
+      "reason": "The four-session decline is 11.7% and the latest session fell 1.0%; semiconductor weakness persists without a confirmed volume-backed reversal."
+    },
+    {
+      "symbol": "SNDK",
+      "reason": "The stock fell 17.2% over four sessions and another 2.6% in the latest session, leaving excessive volatility and poor near-term risk/reward."
+    },
+    {
+      "symbol": "CRWV",
+      "reason": "A 15.5% four-session decline and 6.3% latest-session loss indicate a broken short-term structure and elevated gap risk."
+    },
+    {
+      "symbol": "UNH",
+      "reason": "The latest session fell 10.2% and the four-session decline reached 13.6%, creating abnormal gap and continuation risk."
+    },
+    {
+      "symbol": "DELL",
+      "reason": "The stock is down 15.6% over four sessions and remains technically damaged ahead of its Nov 24 earnings event, creating unattractive overnight gap risk."
+    },
+    {
+      "symbol": "AWK",
+      "reason": "Despite a strong technical reading and a 1.7% four-session gain, StockLens flags a weak fundamental profile and a 0.39\u00d7 current ratio, which points to balance-sheet liquidity strain."
+    },
+    {
+      "symbol": "ENR",
+      "reason": "The 17.1% post-results advance is extended while Q4 organic sales declined, FY27 organic-sales guidance is flat to down low-single digits and net debt is 5.1\u00d7 adjusted EBITDA."
+    },
+    {
+      "symbol": "PANW",
+      "reason": "A 9.9% latest-session surge on 2.9\u00d7 recent volume is not enough to offset a weak current StockLens composite reading and a 0.87\u00d7 current ratio; wait for consolidation and stronger balance-sheet evidence."
+    },
+    {
+      "symbol": "POWL",
+      "reason": "The four-session recovery is 9.3%, but latest-session volume was below its recent average and the prior technical breakdown has not yet been convincingly repaired."
+    },
+    {
+      "symbol": "AMD",
+      "reason": "A 5.3% latest-session rebound follows a 9.4% four-session decline, but volume remained below its recent average, so reversal confirmation is missing."
+    },
+    {
+      "symbol": "WMT",
+      "reason": "Q3 FY27 results were released before the Nov 19 open, while the latest complete-session price and volume data predate the report; wait for post-earnings price discovery before evaluating a new swing."
+    }
+  ],
+  "fetched_at": "2026-11-19T14:30:42.163669+00:00"
+}
