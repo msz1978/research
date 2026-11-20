@@ -1,0 +1,150 @@
+{
+  "generated_at": "2026-11-20",
+  "watchlist": [
+    {
+      "symbol": "ED",
+      "thesis": "Defensive utility relative strength: ED rose 0.82% on Nov 19 and lost only 0.15% over five sessions versus XLU -2.34% and SPY -5.10%, but the Nov 16 six-million-share offering and 0.74\u00d7 recent average volume leave a supply overhang and require follow-through."
+    },
+    {
+      "symbol": "ACGL",
+      "thesis": "Insurance relative strength held near flat (-0.42%) over five sessions and gained 0.33% on Nov 19 while XLF fell 5.28%, with a strong technical reading; below-average volume still requires a confirmed breakout."
+    }
+  ],
+  "sector_notes": "Over Nov 13\u201319, utilities (XLU -2.34%) and consumer staples (XLP -2.70%) were the relative leaders, outperforming SPY (-5.10%); the only defensible long bias is selective defensive relative strength. Energy (-6.27%), healthcare (-6.03%), technology (-5.63%), communication services (-5.46%) and financials (-5.28%) lagged, while Nov 19 breadth collapsed to 428 advancers versus 2,507 decliners among U.S. stocks priced at least $5 with at least 500,000 shares traded. Selling remained concentrated in high-beta AI, semiconductor and data-center names, so require volume confirmation and avoid chasing isolated rebounds.",
+  "earnings_flags": [
+    {
+      "symbol": "DELL",
+      "date": "2026-11-24",
+      "note": "Fiscal Q3 FY2027 results are scheduled for Nov 24; the company says results will be released before its 3:30 p.m. CST conference call."
+    },
+    {
+      "symbol": "ADI",
+      "date": "2026-11-24",
+      "note": "Fiscal Q4 FY2026 results are scheduled for 7:00 a.m. ET, followed by a 10:00 a.m. ET conference call."
+    },
+    {
+      "symbol": "OKTA",
+      "date": "2026-12-01",
+      "note": "Fiscal Q3 FY2027 results are scheduled after the U.S. market close, with a webcast at 5:00 p.m. ET."
+    }
+  ],
+  "universe_suggestions": [
+    "AAPL",
+    "MSFT",
+    "AMZN",
+    "TSLA",
+    "GOOGL",
+    "AVGO",
+    "META",
+    "TSM",
+    "INTC",
+    "LLY",
+    "UNH",
+    "BRK.B",
+    "GEV",
+    "V",
+    "COST",
+    "PLTR",
+    "AMAT",
+    "ORCL",
+    "ASML",
+    "LRCX",
+    "JNJ",
+    "LITE",
+    "XOM",
+    "STX",
+    "JPM",
+    "GS",
+    "MSTR",
+    "NFLX",
+    "CSCO",
+    "CRWD",
+    "COHR",
+    "HD",
+    "QCOM",
+    "CAT",
+    "DIS",
+    "MA",
+    "CVX",
+    "ED",
+    "ACGL",
+    "BDX",
+    "PG",
+    "GEHC",
+    "MRSH",
+    "ROP",
+    "SPG",
+    "PDD",
+    "BRBR",
+    "VVV",
+    "WWD",
+    "RBRK"
+  ],
+  "avoid": [
+    {
+      "symbol": "NVDA",
+      "reason": "Five-session return was -3.30% and Nov 19 fell 4.54% on heavy turnover; wait for the AI/semiconductor selloff to stabilize."
+    },
+    {
+      "symbol": "AMD",
+      "reason": "Five-session return was -7.72% and Nov 19 fell 9.77%, indicating a sharp momentum breakdown."
+    },
+    {
+      "symbol": "MU",
+      "reason": "Nov 19 fell 6.74% on elevated turnover amid broad semiconductor weakness; no reversal confirmation is present."
+    },
+    {
+      "symbol": "NBIS",
+      "reason": "Five-session return was -9.39% and Nov 19 fell 13.15%, creating excessive continuation and overnight-gap risk."
+    },
+    {
+      "symbol": "CRWV",
+      "reason": "Five-session return was -6.10% and Nov 19 fell 10.20%, showing a broken short-term structure."
+    },
+    {
+      "symbol": "MRVL",
+      "reason": "Five-session return was -4.86% and Nov 19 fell 8.49% amid broad chip weakness."
+    },
+    {
+      "symbol": "BE",
+      "reason": "Five-session return was -1.68% and Nov 19 fell 7.12%; high-beta data-center exposure is not stabilizing."
+    },
+    {
+      "symbol": "PANW",
+      "reason": "Despite a 6.42% five-session gain, StockLens flags a 0.87 current ratio as liquidity distress and its overall reading remains cautionary; avoid until financial-risk concerns clear."
+    },
+    {
+      "symbol": "INSM",
+      "reason": "The 20.58% five-session surge came with 7.1\u00d7 recent volume, but StockLens flags severe debt-service risk with interest coverage of -6.4\u00d7; the gap risk is unsuitable."
+    },
+    {
+      "symbol": "ZS",
+      "reason": "Positive five-session price action is outweighed by StockLens' flagged negative interest coverage (-0.5\u00d7) and weak risk profile; wait for financial and trend evidence to improve."
+    },
+    {
+      "symbol": "WDC",
+      "reason": "The 2.98% five-session gain reversed into a 3.07% Nov 19 loss, while StockLens' current technical reading is strongly bearish."
+    },
+    {
+      "symbol": "OKTA",
+      "reason": "Despite a 5.75% five-session gain and 1.98\u00d7 recent volume, Q3 FY2027 earnings are scheduled for Dec 1 and the current composite reading is below the selection threshold."
+    },
+    {
+      "symbol": "DELL",
+      "reason": "Nov 19 fell 4.68% and Q3 FY2027 results are scheduled for Nov 24, leaving elevated near-term gap risk; enforce the earnings hard filter."
+    },
+    {
+      "symbol": "ADI",
+      "reason": "Nov 19 fell 3.71% and Q4 FY2026 results are scheduled for Nov 24, leaving near-term event risk."
+    },
+    {
+      "symbol": "WMT",
+      "reason": "The 1.94% Nov 19 post-earnings bounce is not supported by a positive five-session trend (-1.04%) and the current technical profile remains weak."
+    },
+    {
+      "symbol": "KO",
+      "reason": "The defensive profile has not translated into positive momentum: the five-session return was -2.04% and Nov 19 was slightly negative."
+    }
+  ],
+  "fetched_at": "2026-11-20T14:30:37.224939+00:00"
+}
