@@ -1,0 +1,220 @@
+{
+  "generated_at": "2026-11-21",
+  "watchlist": [
+    {
+      "symbol": "PG",
+      "thesis": "Defensive-staples relative strength remains strong: PG lost only 0.25% from Nov 13 to Nov 20 versus SPY down 8.56%, with a supportive StockLens technical and macro reading; it closed 0.36% below VWAP, so require a reclaim before entry."
+    },
+    {
+      "symbol": "ACGL",
+      "thesis": "Insurance relative strength remains notable: ACGL fell just 0.72% versus XLF down 7.00% and SPY down 8.56% over the same span, while its StockLens technical reading remains strong; price closed 0.49% below VWAP, so wait for renewed buying."
+    },
+    {
+      "symbol": "GIS",
+      "thesis": "Consumer-staples momentum is positive: GIS gained 4.14% over five sessions and 2.09% on Nov 20 on 1.95x its prior four-session average volume, but closed 0.52% below VWAP and its latest adjusted EPS declined 13% year over year in constant currency."
+    },
+    {
+      "symbol": "WMT",
+      "thesis": "Post-earnings defensive relative strength is holding: Q3 FY2027 revenue rose 5.2% and operating income 16%, while the stock gained 0.54% on Nov 20 on 1.74x prior four-session volume; the five-session return remains slightly negative, so wait for a breakout."
+    }
+  ],
+  "sector_notes": "Risk-off remains severe: on Nov 20 the S&P 500 fell 3.7% and Nasdaq 5.3%, while Massive's Nov 13-20 closes show SPY down 8.56% and QQQ down 10.51%; among U.S. tickers priced at least $5 with at least 500,000 shares traded, decliners led advancers 2,528 to 570. Consumer staples were the clearest relative leader, with XLP down 2.05% over the same span versus SPY down 8.56%, followed by utilities down 3.07%; technology was the weakest major sector at down 12.49%, and semiconductors suffered the sharpest losses. The regime favors selective defensive relative strength and reduced gross exposure, not aggressive momentum chasing, until breadth and price/volume stabilize.",
+  "earnings_flags": [
+    {
+      "symbol": "DELL",
+      "date": "2026-11-24",
+      "note": "Fiscal Q3 FY2027 results are scheduled before the 3:30 p.m. CT conference call; shares are already down 19.3% over five sessions, so gap risk is elevated."
+    },
+    {
+      "symbol": "ADI",
+      "date": "2026-11-24",
+      "note": "Fiscal Q4 FY2026 results are scheduled for 7:00 a.m. ET; the stock is down 13.1% over five sessions amid semiconductor weakness."
+    },
+    {
+      "symbol": "HRL",
+      "date": "2026-12-03",
+      "note": "Fiscal Q4 FY2026 results are scheduled before the market open; the recent five-session rally should not be chased into the release."
+    },
+    {
+      "symbol": "CPB",
+      "date": "2026-12-09",
+      "note": "Fiscal Q1 FY2027 results are scheduled for Dec 9; avoid holding through the release given overnight gap risk."
+    },
+    {
+      "symbol": "COST",
+      "date": "2026-12-10",
+      "note": "Fiscal Q1 FY2027 results are scheduled for Dec 10; the announced $30 special cash dividend is payable Dec 4 with a Nov 24 record date, adding corporate-action risk."
+    },
+    {
+      "symbol": "GIS",
+      "date": "2026-12-17",
+      "note": "Fiscal Q2 FY2027 results are scheduled for Dec 17; this is beyond the typical 14-day hold but relevant to the current defensive-momentum setup."
+    }
+  ],
+  "universe_suggestions": [
+    "AAPL",
+    "MSFT",
+    "AMZN",
+    "TSLA",
+    "GOOGL",
+    "META",
+    "TSM",
+    "INTC",
+    "LLY",
+    "UNH",
+    "GEV",
+    "PLTR",
+    "AMAT",
+    "BRK.B",
+    "ORCL",
+    "V",
+    "ASML",
+    "LRCX",
+    "JPM",
+    "GS",
+    "NFLX",
+    "JNJ",
+    "CSCO",
+    "QCOM",
+    "CAT",
+    "COHR",
+    "CVX",
+    "WDC",
+    "MA",
+    "BAC",
+    "CRM",
+    "DIS",
+    "MRNA",
+    "ANET",
+    "HOOD",
+    "APP",
+    "NOW",
+    "ABBV",
+    "PEP",
+    "HD",
+    "WMT",
+    "TJX",
+    "GIS",
+    "ACGL",
+    "PG"
+  ],
+  "avoid": [
+    {
+      "symbol": "NVDA",
+      "reason": "Down 22.92% over five sessions and 12.53% on Nov 20 with 1.52x prior four-session volume and a 15.32% intraday range; momentum breakdown and gap risk remain extreme."
+    },
+    {
+      "symbol": "MU",
+      "reason": "Down 23.62% over five sessions and 10.66% on Nov 20 on 1.69x prior four-session volume; semiconductor selling remains disorderly."
+    },
+    {
+      "symbol": "AMD",
+      "reason": "Down 20.54% over five sessions and 10.03% on Nov 20 on 1.55x prior four-session volume; no reversal confirmation is present."
+    },
+    {
+      "symbol": "AVGO",
+      "reason": "Down 12.28% over five sessions and 11.25% on Nov 20 on 1.76x prior four-session volume; trend damage persists."
+    },
+    {
+      "symbol": "SNDK",
+      "reason": "Down 28.37% over five sessions and 11.94% on Nov 20 with a 15.67% intraday range; execution and overnight-gap risk are excessive."
+    },
+    {
+      "symbol": "NBIS",
+      "reason": "Down 29.83% over five sessions and 13.21% on Nov 20; the high-beta AI infrastructure structure is broken."
+    },
+    {
+      "symbol": "MRVL",
+      "reason": "Down 22.00% over five sessions and 7.98% on Nov 20; price remains below VWAP amid broad chip weakness."
+    },
+    {
+      "symbol": "CRWV",
+      "reason": "Down 25.64% over five sessions and 8.54% on Nov 20; broken structure and elevated volatility make the setup unsuitable."
+    },
+    {
+      "symbol": "BE",
+      "reason": "Down 25.83% over five sessions and 12.12% on Nov 20; data-center exposure remains under heavy distribution."
+    },
+    {
+      "symbol": "DELL",
+      "reason": "Down 19.30% over five sessions with fiscal Q3 FY2027 results due Nov 24; near-term earnings gap risk is unacceptable."
+    },
+    {
+      "symbol": "ADI",
+      "reason": "Down 13.08% over five sessions with fiscal Q4 FY2026 results due Nov 24; semiconductor weakness compounds event risk."
+    },
+    {
+      "symbol": "COST",
+      "reason": "Flat over five sessions, with a $30 special dividend record date of Nov 24 and Q1 FY2027 results on Dec 10 creating near-term corporate-action and event risk."
+    },
+    {
+      "symbol": "HRL",
+      "reason": "Up 6.56% over five sessions but fiscal Q4 FY2026 results are due before the market open on Dec 3; avoid pre-earnings exposure."
+    },
+    {
+      "symbol": "CPB",
+      "reason": "Up 4.46% over five sessions but fiscal Q1 FY2027 results are due Dec 9; avoid holding through the near-term event."
+    },
+    {
+      "symbol": "BILL",
+      "reason": "The 12.78% five-session surge follows a $63.25 cash acquisition offer; the remaining spread is deal-arbitrage exposure, not a clean momentum setup."
+    },
+    {
+      "symbol": "CHKP",
+      "reason": "Despite a 5.23% five-session gain, Q3 revenue fell 1% year over year and non-GAAP EPS fell 37%; the rebound lacks fundamental confirmation."
+    },
+    {
+      "symbol": "VVV",
+      "reason": "Recent Q4 results showed sales growth but reported EPS fell 59%; wait for post-earnings price and volume confirmation."
+    },
+    {
+      "symbol": "WCN",
+      "reason": "Down 7.42% over five sessions, materially underperforming SPY, with a below-VWAP close and weak industrial-sector context."
+    },
+    {
+      "symbol": "EW",
+      "reason": "Down 4.95% over five sessions and underperforming the healthcare sector; no volume-supported reversal is present."
+    },
+    {
+      "symbol": "CTAS",
+      "reason": "Down 2.75% over five sessions with 1.85x observed average volume but a 1.14% close below VWAP; selling pressure remains unresolved."
+    },
+    {
+      "symbol": "ADP",
+      "reason": "Down 2.65% over five sessions and StockLens' composite reading remains below the selection threshold, with a weak fundamental profile."
+    },
+    {
+      "symbol": "CRWD",
+      "reason": "Despite a 1.25% five-session gain, fell 3.34% on Nov 20; StockLens' composite and risk readings remain weak."
+    },
+    {
+      "symbol": "BDX",
+      "reason": "Down 2.41% over five sessions; its strong StockLens technical ranking has not translated into positive price action and the close remains below VWAP."
+    },
+    {
+      "symbol": "PANW",
+      "reason": "Despite a 6.54% five-session gain, fell 4.38% on Nov 20 and StockLens flags a weak 0.87 current ratio; financial-risk concerns outweigh the rebound."
+    },
+    {
+      "symbol": "INSM",
+      "reason": "Up 16.65% over five sessions on elevated turnover, but StockLens flags interest coverage of -6.4x; balance-sheet and gap risk outweigh momentum."
+    },
+    {
+      "symbol": "PDD",
+      "reason": "Up 5.96% over five sessions but fell 3.91% on Nov 20 on 2.10x observed average volume; the rally lacks stable follow-through."
+    },
+    {
+      "symbol": "PYPL",
+      "reason": "Down 10.10% over five sessions, closed 1.43% below VWAP on Nov 20, and was the largest open loser in the latest bot feedback; recheck the thesis before new exposure."
+    },
+    {
+      "symbol": "KO",
+      "reason": "Down 2.28% over five sessions, underperformed XLP and remains below VWAP; the latest bot feedback also flags an open loss, so avoid new exposure."
+    },
+    {
+      "symbol": "SO",
+      "reason": "The latest bot feedback flags an open loss and the stock fell 1.11% on Nov 20 while closing below VWAP; wait for a reclaim before adding despite relative strength versus XLU."
+    }
+  ],
+  "fetched_at": "2026-11-21T14:30:56.436061+00:00"
+}
