@@ -1,0 +1,41 @@
+{
+  "date": "2026-11-21",
+  "research_usage": [
+    {
+      "iteration": 1,
+      "matched": 1,
+      "total": 84,
+      "history_days": 14
+    },
+    {
+      "iteration": 2,
+      "matched": 1,
+      "total": 84,
+      "history_days": 14
+    },
+    {
+      "iteration": 3,
+      "matched": 6,
+      "total": 84,
+      "history_days": 14
+    }
+  ],
+  "eval": {
+    "iterations": 3,
+    "best_score": 0.4469
+  },
+  "worst_open_positions": [
+    {
+      "symbol": "SO",
+      "unrealized_pnl": -0.7438,
+      "pnl_pct": -0.79
+    }
+  ],
+  "paper_stats": {
+    "total_return": 0.07349491877955039,
+    "sharpe_ratio": 1.8569809173512375,
+    "max_drawdown": 2.3871178211559907,
+    "win_rate": 0.4
+  },
+  "observer_notes": "- The module repeatedly flagged **SO** as an avoid candidate (1 match out of 84 screened over 14\u202fdays); verify whether the avoidance rule is too aggressive given its modest unrealized loss (~\u20110.8%).\n- Earnings\u2011flag alerts were raised for **ADI** and **DELL**; add a pre\u2011trade earnings\u2011date filter to exclude these symbols on earnings\u2011release days.\n- **BE** appears only in the avoid list without any earnings flag; investigate sector exposure (energy/utilities) to determine if a broader sector\u2011risk filter is needed.\n- The overall match\u2011to\u2011total ratio is low (\u22481\u20116/84); consider tightening the research\u2011score threshold to reduce noise from marginal candidates."
+}
