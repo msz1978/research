@@ -1,0 +1,41 @@
+{
+  "date": "2026-11-22",
+  "research_usage": [
+    {
+      "iteration": 1,
+      "matched": 0,
+      "total": 95,
+      "history_days": 14
+    },
+    {
+      "iteration": 2,
+      "matched": 22,
+      "total": 95,
+      "history_days": 14
+    },
+    {
+      "iteration": 3,
+      "matched": 29,
+      "total": 95,
+      "history_days": 14
+    }
+  ],
+  "eval": {
+    "iterations": 3,
+    "best_score": 0.4471
+  },
+  "worst_open_positions": [
+    {
+      "symbol": "SO",
+      "unrealized_pnl": -0.7438,
+      "pnl_pct": -0.79
+    }
+  ],
+  "paper_stats": {
+    "total_return": 0.07349491877955039,
+    "sharpe_ratio": 1.8569809173512375,
+    "max_drawdown": 2.3871178211559907,
+    "win_rate": 0.4
+  },
+  "observer_notes": "- The avoid list repeatedly flags semiconductor and high\u2011volatility tech names (AMD, MU, NVDA, PYPL, etc.), indicating a sector\u2011wide risk that the research module is already filtering out.  \n- Earnings\u2011flagged tickers (ADI, COST, DELL, HRL) appear across multiple windows; verify upcoming earnings dates and potential post\u2011earnings drift before the bot re\u2011considers them.  \n- The only open losing position is **SO** (energy/utilities) with a \u20130.79\u202f% unrealized loss, suggesting the current research may be under\u2011weighting sector\u2011specific catalysts for energy stocks.  \n- Matching rates are low (22/95 and 29/95) while many candidates remain unmatched, implying the research filter is discarding a large portion of the universe; review the criteria that cause these mismatches, especially for the \u201cuniverse_suggestions\u201d list that includes broad\u2011market leaders.  \n- Tomorrow\u2019s watchlist includes **ALL** and **PG**; confirm that any macro\u2011level consumer\u2011staples trends (inflation, discretionary spend) are still aligned with the bot\u2019s selection logic."
+}
