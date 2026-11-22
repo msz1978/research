@@ -1,0 +1,184 @@
+{
+  "generated_at": "2026-11-22",
+  "watchlist": [
+    {
+      "symbol": "ALL",
+      "thesis": "Allstate remains in a positive 10- and 20-session trend and held within 0.24% of its Nov 13 close while SPY fell 8.56%, but its Nov 20 close was 0.90% below VWAP, so a reclaim is needed before entry."
+    },
+    {
+      "symbol": "RPRX",
+      "thesis": "Royalty Pharma is up 7.19% over 20 sessions, remains 1.27% above its 20-day average and closed marginally above VWAP, while softening quarterly growth argues for confirmation rather than chasing."
+    },
+    {
+      "symbol": "PG",
+      "thesis": "Procter & Gamble is up 5.19% over 20 sessions and 2.04% above its 20-day average in the most resilient sector group, but its 0.72x current ratio and close below VWAP warrant conservative risk limits."
+    }
+  ],
+  "sector_notes": "Market breadth was decisively risk-off on Nov 20: 80.5% of 3,140 stocks priced at least $5 and trading at least 500,000 shares closed below their open, while SPY lost 8.56% and QQQ 10.51% over Nov 13\u201320. Consumer staples and utilities were the relative havens (XLP -2.05%, XLU -3.07% for the week), while technology and semiconductors led the drawdown (XLK -12.49%, SMH -17.8%). Keep exposure selective and favor names still above their 20-day averages; the AI and semiconductor unwind is not yet a confirmed bottom.",
+  "earnings_flags": [
+    {
+      "symbol": "DELL",
+      "date": "2026-11-24",
+      "note": "Fiscal 2027 third-quarter results are scheduled before the 3:30 p.m. Central earnings call; the severe recent drawdown makes the release a material gap-risk event."
+    },
+    {
+      "symbol": "ADI",
+      "date": "2026-11-24",
+      "note": "Fiscal 2026 fourth-quarter results are scheduled for 7:00 a.m. Eastern; semiconductor volatility makes the release a material gap-risk event."
+    },
+    {
+      "symbol": "HRL",
+      "date": "2026-12-03",
+      "note": "Fiscal 2026 fourth-quarter and full-year results are due before the market open; avoid carrying a short-term momentum position through the release."
+    },
+    {
+      "symbol": "COST",
+      "date": "2026-12-10",
+      "note": "Fiscal 2027 first-quarter results and call are scheduled; Costco's November sales update is also scheduled for Dec 2."
+    }
+  ],
+  "universe_suggestions": [
+    "AAPL",
+    "MSFT",
+    "AMZN",
+    "TSLA",
+    "GOOGL",
+    "META",
+    "TSM",
+    "INTC",
+    "PLTR",
+    "MRVL",
+    "ORCL",
+    "LLY",
+    "LRCX",
+    "UNH",
+    "GEV",
+    "AMAT",
+    "PANW",
+    "ASML",
+    "NFLX",
+    "JPM",
+    "BRK.B",
+    "GS",
+    "V",
+    "QCOM",
+    "JNJ",
+    "CRWD",
+    "WDC",
+    "CSCO",
+    "MSTR",
+    "HD",
+    "COHR",
+    "CAT",
+    "KO",
+    "ABBV",
+    "CVX",
+    "BAC",
+    "ANET",
+    "MA",
+    "PG",
+    "PEP",
+    "MRNA",
+    "HOOD",
+    "NOW",
+    "APP",
+    "CRM",
+    "IREN",
+    "DIS",
+    "APH",
+    "TJX",
+    "PDD",
+    "RKLB",
+    "ABNB",
+    "ADP",
+    "EOG",
+    "SO",
+    "IONQ",
+    "LNG",
+    "ASTS",
+    "ALL",
+    "GIS",
+    "TSN",
+    "TSCO",
+    "BDX",
+    "EW",
+    "BMRN",
+    "DXCM",
+    "WCN",
+    "RPRX",
+    "HIMS",
+    "CPB",
+    "CALM"
+  ],
+  "avoid": [
+    {
+      "symbol": "NVDA",
+      "reason": "Five-session loss of 22.92%, 15.44% intraday range and close 5.65% below VWAP; the AI and semiconductor liquidation has broken the setup."
+    },
+    {
+      "symbol": "MU",
+      "reason": "Five-session loss of 23.62%, 14.31% intraday range and close 3.23% below VWAP; volatility and downside momentum remain excessive."
+    },
+    {
+      "symbol": "AMD",
+      "reason": "Five-session loss of 20.54% and close 3.51% below VWAP; the semiconductor trend has deteriorated sharply."
+    },
+    {
+      "symbol": "AVGO",
+      "reason": "Five-session loss of 12.28%, 13.95% intraday range and close 2.49% below VWAP; AI infrastructure selling remains disorderly."
+    },
+    {
+      "symbol": "SNDK",
+      "reason": "Five-session loss of 28.37%, 15.87% intraday range and close 3.31% below VWAP; avoid until volatility and trend stabilize."
+    },
+    {
+      "symbol": "NBIS",
+      "reason": "Five-session loss of 29.83%, 16.57% intraday range and close 5.49% below VWAP; current price action is not suitable for a controlled swing setup."
+    },
+    {
+      "symbol": "CRWV",
+      "reason": "Five-session loss of 25.64%, 10.08% intraday range and close 2.76% below VWAP; AI infrastructure risk remains elevated."
+    },
+    {
+      "symbol": "BE",
+      "reason": "Five-session loss of 25.83%, 16.22% intraday range and close 4.00% below VWAP; investigate the stock-specific and energy/utility exposure before reconsideration."
+    },
+    {
+      "symbol": "DELL",
+      "reason": "Five-session loss of 19.30%, 10.66% intraday range and earnings on Nov 24 create excessive gap risk."
+    },
+    {
+      "symbol": "ADI",
+      "reason": "Five-session loss of 13.08%, close 2.11% below VWAP and earnings on Nov 24; semiconductor weakness and event risk are both material."
+    },
+    {
+      "symbol": "HRL",
+      "reason": "Despite a 6.56% five-session gain, price closed below VWAP and fourth-quarter results are due Dec 3, inside the normal holding window."
+    },
+    {
+      "symbol": "COST",
+      "reason": "Forward P/E of 48.3x is more than twice the peer median of 22.4x, and the Dec 2 sales update plus Dec 10 earnings create near-term event risk."
+    },
+    {
+      "symbol": "WMT",
+      "reason": "StockLens shows a bearish moving-average posture and a 58 composite reading; free cash flow declined 15.4% year over year despite relative price resilience."
+    },
+    {
+      "symbol": "ACGL",
+      "reason": "Strong technical structure is offset by negative or flat growth across all four quarterly measures and an estimated forward EPS decline of 20.9%; wait for fundamental momentum to stabilize."
+    },
+    {
+      "symbol": "RSG",
+      "reason": "Five-session loss of 2.53%, ten-session return near flat and a close only 0.21% above the 20-day average indicate a weakening setup that needs trend repair."
+    },
+    {
+      "symbol": "CTAS",
+      "reason": "Five-session loss of 2.75%, close 1.14% below VWAP, forward P/E of 38.5x versus a 19.8x peer median and a negative macro read."
+    },
+    {
+      "symbol": "PYPL",
+      "reason": "Five-session loss of 10.10% and close 1.43% below VWAP; it was also the largest recurring open loser in recent paper-trading feedback."
+    }
+  ],
+  "fetched_at": "2026-11-22T14:30:23.075443+00:00"
+}
