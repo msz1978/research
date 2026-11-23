@@ -1,0 +1,41 @@
+{
+  "date": "2026-11-23",
+  "research_usage": [
+    {
+      "iteration": 1,
+      "matched": 0,
+      "total": 68,
+      "history_days": 14
+    },
+    {
+      "iteration": 2,
+      "matched": 0,
+      "total": 68,
+      "history_days": 14
+    },
+    {
+      "iteration": 3,
+      "matched": 10,
+      "total": 68,
+      "history_days": 14
+    }
+  ],
+  "eval": {
+    "iterations": 3,
+    "best_score": 0.447
+  },
+  "worst_open_positions": [
+    {
+      "symbol": "SO",
+      "unrealized_pnl": -0.7438,
+      "pnl_pct": -0.79
+    }
+  ],
+  "paper_stats": {
+    "total_return": 0.07349491877955039,
+    "sharpe_ratio": 1.8569809173512375,
+    "max_drawdown": 2.3871178211559907,
+    "win_rate": 0.4
+  },
+  "observer_notes": "- The research module returned zero matches in two of the three 14\u2011day windows despite evaluating 68 candidates each time \u2013 a clear under\u2011utilisation anomaly.  \n- In the most recent window only 10 of 68 suggestions were matched; 58 candidates (including AAPL, AMZN, GOOG, MSFT, V, etc.) were ignored, suggesting the filter or scoring threshold is overly strict.  \n- The sole open losing position is SO (utility sector) with \u20130.79\u202f% unrealized loss; utility exposure should be flagged for additional sector\u2011risk review.  \n- Verify tomorrow that the research scoring cutoff aligns with the observed scores (0.428\u20110.447) so viable candidates aren\u2019t unintentionally filtered out.  \n- Add a sector\u2011bias check to de\u2011emphasise utilities or other low\u2011momentum sectors given the overall win\u2011rate of 40\u202f%."
+}
