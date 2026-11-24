@@ -1,0 +1,138 @@
+{
+  "generated_at": "2026-11-24",
+  "watchlist": [
+    {
+      "symbol": "EW",
+      "thesis": "A 16.01% 20-session advance remains intact after a 1.91% five-session pullback, and the Nov 23 rebound closed above VWAP on 3.29 million shares, making this a strong continuation candidate if regular-session breadth confirms."
+    },
+    {
+      "symbol": "GEHC",
+      "thesis": "A 12.96% 20-session gain with 3.50 million shares and a close above VWAP supports continuation, although the five-session pullback and weak healthcare-sector breadth argue for waiting for post-open confirmation."
+    },
+    {
+      "symbol": "PG",
+      "thesis": "A 6.05% 20-session gain, 10.21 million shares traded and positive staples-sector relative strength support a defensive setup, while the recent pullback favors a reclaim rather than chasing."
+    },
+    {
+      "symbol": "EXR",
+      "thesis": "A 9.63% 20-session gain and a positive Nov 23 close above VWAP preserve the uptrend, but flat-to-negative five-session momentum and muted REIT-sector strength make confirmation essential."
+    },
+    {
+      "symbol": "DXCM",
+      "thesis": "Positive five- and 20-session returns, a 3.91% Nov 23 rebound and a close above VWAP provide a constructive healthcare continuation setup, subject to confirmation while the wider sector remains soft."
+    },
+    {
+      "symbol": "BDX",
+      "thesis": "A 9.70% 20-session advance and a strong technical reading remain constructive after a shallow pullback, but mixed fundamental and macro signals require a cautious entry only after price confirmation."
+    }
+  ],
+  "sector_notes": "Consumer staples remain the clearest positive 20-session sector proxy, with XLP up 2.75%, while utilities are up 1.81% and healthcare is nearly flat at 0.08%. Technology (XLK down 12.85%), semiconductors (SMH down 15.04%) and energy (XLE down 14.03%) remain the weakest groups over the same period, while SPY, QQQ and IWM are still down 5.63%, 8.59% and 4.06%, respectively. The Nov 23 rebound was sharp but did not repair the broader drawdowns, and Nov 24 premarket weakness in AI and semiconductor shares ahead of Wednesday's PCE release argues for selective defensive setups rather than chasing the prior session's gap.",
+  "earnings_flags": [
+    {
+      "symbol": "ADSK",
+      "date": "2026-11-24",
+      "note": "Q3 FY27 results conference call is scheduled for 5:00 p.m. ET after the regular close, creating overnight gap risk."
+    },
+    {
+      "symbol": "DELL",
+      "date": "2026-11-24",
+      "note": "FY27 Q3 results and conference call are scheduled for 3:30 p.m. CT (4:30 p.m. ET), after the regular close and within the normal swing window."
+    }
+  ],
+  "universe_suggestions": [
+    "AAPL",
+    "AMZN",
+    "MSFT",
+    "GOOG",
+    "META",
+    "INTC",
+    "QCOM",
+    "TXN",
+    "APH",
+    "MCHP",
+    "LRCX",
+    "KLAC",
+    "CSCO",
+    "ORCL",
+    "PLTR",
+    "NFLX",
+    "TSLA",
+    "UBER",
+    "WMT",
+    "KO",
+    "NKE",
+    "BAC",
+    "V",
+    "SOFI",
+    "T",
+    "CMCSA",
+    "PFE",
+    "VZ",
+    "FCX",
+    "TSM",
+    "HPE",
+    "MRVL",
+    "KDP",
+    "CPNG",
+    "RSG",
+    "PG",
+    "EW",
+    "GEHC",
+    "BDX",
+    "DXCM",
+    "EXR",
+    "SPG",
+    "ACGL"
+  ],
+  "avoid": [
+    {
+      "symbol": "NVDA",
+      "reason": "The 31.48% Nov 23 surge is an event-driven gap after a 23.59% 20-session decline, and Reuters reported a roughly 5% premarket reversal on Nov 24, leaving extreme gap and volatility risk."
+    },
+    {
+      "symbol": "MU",
+      "reason": "Despite a 19.04% Nov 23 jump, the 20-session trend remains down 21.69% and premarket weakness in semiconductors leaves no confirmed base."
+    },
+    {
+      "symbol": "AMD",
+      "reason": "The stock is down 14.65% over 20 sessions and 10.08% over five sessions, with the Nov 23 close below the session open and VWAP."
+    },
+    {
+      "symbol": "AVGO",
+      "reason": "Five- and 20-session returns remain negative at 5.95% and 4.75%, respectively, keeping the stock exposed to the weak semiconductor trend."
+    },
+    {
+      "symbol": "CRWD",
+      "reason": "A 20-session decline of 20.19%, a 6.38% five-session loss and an 8.92% Nov 23 drop following the Zscaler acquisition announcement create unresolved integration and gap risk."
+    },
+    {
+      "symbol": "DELL",
+      "reason": "The stock remains down 28.30% over 20 sessions, reversed sharply intraday on Nov 23 and has FY27 Q3 earnings after the close on Nov 24."
+    },
+    {
+      "symbol": "ADSK",
+      "reason": "Five-session momentum is negative and Q3 FY27 earnings are scheduled after the close on Nov 24, making the overnight gap risk unsuitable for a fresh swing entry."
+    },
+    {
+      "symbol": "COST",
+      "reason": "The scheduled November sales update on Dec 2 falls inside the normal swing holding window, so the otherwise positive 20-session trend should not be carried through the event."
+    },
+    {
+      "symbol": "SO",
+      "reason": "The stock is up only 0.58% over 20 sessions and down 1.62% over five sessions, while utilities have also weakened over the shorter horizon and are not leading the market."
+    },
+    {
+      "symbol": "TSN",
+      "reason": "Although the 20-session return is positive, the stock fell 3.33% on Nov 23 and remains down 1.56% over five sessions, weakening the continuation case."
+    },
+    {
+      "symbol": "WCN",
+      "reason": "A 7.97% five-session loss and 2.76% 20-session loss show that the Nov 23 rebound has not repaired the intermediate trend."
+    },
+    {
+      "symbol": "LNG",
+      "reason": "The stock is down 3.19% over five sessions and 1.71% over 20 sessions, with no current price trend confirmation for a swing setup."
+    }
+  ],
+  "fetched_at": "2026-11-24T14:30:11.606420+00:00"
+}
