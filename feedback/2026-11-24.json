@@ -41,6 +41,5 @@
     "sharpe_ratio": 1.8569809173512375,
     "max_drawdown": 2.3871178211559907,
     "win_rate": 0.4
-  },
-  "observer_notes": "- The research module produced **0 matches out of 63 candidates** for each of the three 14\u2011day windows \u2013 an anomaly that suggests the filtering criteria are too restrictive or the data feed is mis\u2011aligned.  \n- Both currently\u2011open losers are in **utility (SO) and consumer\u2011staples (KO)** sectors; the module appears to be ignoring or under\u2011weighting these sectors, which may be a missed opportunity or a risk concentration.  \n- Verify that the research engine\u2019s sector\u2011exposure limits and candidate\u2011ranking thresholds are correctly calibrated; consider lowering the minimum score threshold (currently yielding ~0.4) to allow more candidates to pass.  \n- Flag any research clusters that consistently return zero matches (e.g., \u201cenergy\u2011utilities\u201d or \u201cbeverages\u201d) for deeper data quality checks or rule adjustments before tomorrow\u2019s selection."
+  }
 }
